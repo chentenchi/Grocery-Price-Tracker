@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# Local database
+*.db
+
+# Automated logs and raw daily snapshots
+logs/
+data/raw/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Tableau temporary files
+~*.twb
+tableau/~*.twb
+tableau/~*

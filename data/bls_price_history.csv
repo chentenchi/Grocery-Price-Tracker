@@ -1,0 +1,1788 @@
+observation_date,year,month,series_id,category,bls_item_name,standard_unit,bls_price,geography,source
+2017-01-01,2017,1,APU0000711211,Bananas,Bananas,pound,0.573,U.S. City Average,BLS
+2017-02-01,2017,2,APU0000711211,Bananas,Bananas,pound,0.573,U.S. City Average,BLS
+2017-03-01,2017,3,APU0000711211,Bananas,Bananas,pound,0.571,U.S. City Average,BLS
+2017-04-01,2017,4,APU0000711211,Bananas,Bananas,pound,0.571,U.S. City Average,BLS
+2017-05-01,2017,5,APU0000711211,Bananas,Bananas,pound,0.564,U.S. City Average,BLS
+2017-06-01,2017,6,APU0000711211,Bananas,Bananas,pound,0.572,U.S. City Average,BLS
+2017-07-01,2017,7,APU0000711211,Bananas,Bananas,pound,0.565,U.S. City Average,BLS
+2017-08-01,2017,8,APU0000711211,Bananas,Bananas,pound,0.561,U.S. City Average,BLS
+2017-09-01,2017,9,APU0000711211,Bananas,Bananas,pound,0.544,U.S. City Average,BLS
+2017-10-01,2017,10,APU0000711211,Bananas,Bananas,pound,0.548,U.S. City Average,BLS
+2017-11-01,2017,11,APU0000711211,Bananas,Bananas,pound,0.551,U.S. City Average,BLS
+2017-12-01,2017,12,APU0000711211,Bananas,Bananas,pound,0.558,U.S. City Average,BLS
+2018-01-01,2018,1,APU0000711211,Bananas,Bananas,pound,0.568,U.S. City Average,BLS
+2018-02-01,2018,2,APU0000711211,Bananas,Bananas,pound,0.574,U.S. City Average,BLS
+2018-03-01,2018,3,APU0000711211,Bananas,Bananas,pound,0.582,U.S. City Average,BLS
+2018-04-01,2018,4,APU0000711211,Bananas,Bananas,pound,0.578,U.S. City Average,BLS
+2018-05-01,2018,5,APU0000711211,Bananas,Bananas,pound,0.575,U.S. City Average,BLS
+2018-06-01,2018,6,APU0000711211,Bananas,Bananas,pound,0.575,U.S. City Average,BLS
+2018-07-01,2018,7,APU0000711211,Bananas,Bananas,pound,0.575,U.S. City Average,BLS
+2018-08-01,2018,8,APU0000711211,Bananas,Bananas,pound,0.569,U.S. City Average,BLS
+2018-09-01,2018,9,APU0000711211,Bananas,Bananas,pound,0.573,U.S. City Average,BLS
+2018-10-01,2018,10,APU0000711211,Bananas,Bananas,pound,0.574,U.S. City Average,BLS
+2018-11-01,2018,11,APU0000711211,Bananas,Bananas,pound,0.566,U.S. City Average,BLS
+2018-12-01,2018,12,APU0000711211,Bananas,Bananas,pound,0.577,U.S. City Average,BLS
+2019-01-01,2019,1,APU0000711211,Bananas,Bananas,pound,0.576,U.S. City Average,BLS
+2019-02-01,2019,2,APU0000711211,Bananas,Bananas,pound,0.571,U.S. City Average,BLS
+2019-03-01,2019,3,APU0000711211,Bananas,Bananas,pound,0.581,U.S. City Average,BLS
+2019-04-01,2019,4,APU0000711211,Bananas,Bananas,pound,0.567,U.S. City Average,BLS
+2019-05-01,2019,5,APU0000711211,Bananas,Bananas,pound,0.579,U.S. City Average,BLS
+2019-06-01,2019,6,APU0000711211,Bananas,Bananas,pound,0.574,U.S. City Average,BLS
+2019-07-01,2019,7,APU0000711211,Bananas,Bananas,pound,0.569,U.S. City Average,BLS
+2019-08-01,2019,8,APU0000711211,Bananas,Bananas,pound,0.578,U.S. City Average,BLS
+2019-09-01,2019,9,APU0000711211,Bananas,Bananas,pound,0.569,U.S. City Average,BLS
+2019-10-01,2019,10,APU0000711211,Bananas,Bananas,pound,0.573,U.S. City Average,BLS
+2019-11-01,2019,11,APU0000711211,Bananas,Bananas,pound,0.573,U.S. City Average,BLS
+2019-12-01,2019,12,APU0000711211,Bananas,Bananas,pound,0.573,U.S. City Average,BLS
+2020-01-01,2020,1,APU0000711211,Bananas,Bananas,pound,0.57,U.S. City Average,BLS
+2020-02-01,2020,2,APU0000711211,Bananas,Bananas,pound,0.574,U.S. City Average,BLS
+2020-03-01,2020,3,APU0000711211,Bananas,Bananas,pound,0.576,U.S. City Average,BLS
+2020-04-01,2020,4,APU0000711211,Bananas,Bananas,pound,0.581,U.S. City Average,BLS
+2020-05-01,2020,5,APU0000711211,Bananas,Bananas,pound,0.589,U.S. City Average,BLS
+2020-06-01,2020,6,APU0000711211,Bananas,Bananas,pound,0.588,U.S. City Average,BLS
+2020-07-01,2020,7,APU0000711211,Bananas,Bananas,pound,0.58,U.S. City Average,BLS
+2020-08-01,2020,8,APU0000711211,Bananas,Bananas,pound,0.576,U.S. City Average,BLS
+2020-09-01,2020,9,APU0000711211,Bananas,Bananas,pound,0.574,U.S. City Average,BLS
+2020-10-01,2020,10,APU0000711211,Bananas,Bananas,pound,0.577,U.S. City Average,BLS
+2020-11-01,2020,11,APU0000711211,Bananas,Bananas,pound,0.578,U.S. City Average,BLS
+2020-12-01,2020,12,APU0000711211,Bananas,Bananas,pound,0.572,U.S. City Average,BLS
+2021-01-01,2021,1,APU0000711211,Bananas,Bananas,pound,0.597,U.S. City Average,BLS
+2021-02-01,2021,2,APU0000711211,Bananas,Bananas,pound,0.59,U.S. City Average,BLS
+2021-03-01,2021,3,APU0000711211,Bananas,Bananas,pound,0.594,U.S. City Average,BLS
+2021-04-01,2021,4,APU0000711211,Bananas,Bananas,pound,0.604,U.S. City Average,BLS
+2021-05-01,2021,5,APU0000711211,Bananas,Bananas,pound,0.6,U.S. City Average,BLS
+2021-06-01,2021,6,APU0000711211,Bananas,Bananas,pound,0.595,U.S. City Average,BLS
+2021-07-01,2021,7,APU0000711211,Bananas,Bananas,pound,0.594,U.S. City Average,BLS
+2021-08-01,2021,8,APU0000711211,Bananas,Bananas,pound,0.589,U.S. City Average,BLS
+2021-09-01,2021,9,APU0000711211,Bananas,Bananas,pound,0.597,U.S. City Average,BLS
+2021-10-01,2021,10,APU0000711211,Bananas,Bananas,pound,0.6,U.S. City Average,BLS
+2021-11-01,2021,11,APU0000711211,Bananas,Bananas,pound,0.619,U.S. City Average,BLS
+2021-12-01,2021,12,APU0000711211,Bananas,Bananas,pound,0.622,U.S. City Average,BLS
+2022-01-01,2022,1,APU0000711211,Bananas,Bananas,pound,0.63,U.S. City Average,BLS
+2022-02-01,2022,2,APU0000711211,Bananas,Bananas,pound,0.628,U.S. City Average,BLS
+2022-03-01,2022,3,APU0000711211,Bananas,Bananas,pound,0.642,U.S. City Average,BLS
+2022-04-01,2022,4,APU0000711211,Bananas,Bananas,pound,0.637,U.S. City Average,BLS
+2022-05-01,2022,5,APU0000711211,Bananas,Bananas,pound,0.642,U.S. City Average,BLS
+2022-06-01,2022,6,APU0000711211,Bananas,Bananas,pound,0.64,U.S. City Average,BLS
+2022-07-01,2022,7,APU0000711211,Bananas,Bananas,pound,0.64,U.S. City Average,BLS
+2022-08-01,2022,8,APU0000711211,Bananas,Bananas,pound,0.643,U.S. City Average,BLS
+2022-09-01,2022,9,APU0000711211,Bananas,Bananas,pound,0.643,U.S. City Average,BLS
+2022-10-01,2022,10,APU0000711211,Bananas,Bananas,pound,0.634,U.S. City Average,BLS
+2022-11-01,2022,11,APU0000711211,Bananas,Bananas,pound,0.631,U.S. City Average,BLS
+2022-12-01,2022,12,APU0000711211,Bananas,Bananas,pound,0.628,U.S. City Average,BLS
+2023-01-01,2023,1,APU0000711211,Bananas,Bananas,pound,0.639,U.S. City Average,BLS
+2023-02-01,2023,2,APU0000711211,Bananas,Bananas,pound,0.641,U.S. City Average,BLS
+2023-03-01,2023,3,APU0000711211,Bananas,Bananas,pound,0.632,U.S. City Average,BLS
+2023-04-01,2023,4,APU0000711211,Bananas,Bananas,pound,0.635,U.S. City Average,BLS
+2023-05-01,2023,5,APU0000711211,Bananas,Bananas,pound,0.628,U.S. City Average,BLS
+2023-06-01,2023,6,APU0000711211,Bananas,Bananas,pound,0.625,U.S. City Average,BLS
+2023-07-01,2023,7,APU0000711211,Bananas,Bananas,pound,0.631,U.S. City Average,BLS
+2023-08-01,2023,8,APU0000711211,Bananas,Bananas,pound,0.631,U.S. City Average,BLS
+2023-09-01,2023,9,APU0000711211,Bananas,Bananas,pound,0.625,U.S. City Average,BLS
+2023-10-01,2023,10,APU0000711211,Bananas,Bananas,pound,0.626,U.S. City Average,BLS
+2023-11-01,2023,11,APU0000711211,Bananas,Bananas,pound,0.627,U.S. City Average,BLS
+2023-12-01,2023,12,APU0000711211,Bananas,Bananas,pound,0.625,U.S. City Average,BLS
+2024-01-01,2024,1,APU0000711211,Bananas,Bananas,pound,0.617,U.S. City Average,BLS
+2024-02-01,2024,2,APU0000711211,Bananas,Bananas,pound,0.625,U.S. City Average,BLS
+2024-03-01,2024,3,APU0000711211,Bananas,Bananas,pound,0.629,U.S. City Average,BLS
+2024-04-01,2024,4,APU0000711211,Bananas,Bananas,pound,0.626,U.S. City Average,BLS
+2024-05-01,2024,5,APU0000711211,Bananas,Bananas,pound,0.622,U.S. City Average,BLS
+2024-06-01,2024,6,APU0000711211,Bananas,Bananas,pound,0.625,U.S. City Average,BLS
+2024-07-01,2024,7,APU0000711211,Bananas,Bananas,pound,0.613,U.S. City Average,BLS
+2024-08-01,2024,8,APU0000711211,Bananas,Bananas,pound,0.612,U.S. City Average,BLS
+2024-09-01,2024,9,APU0000711211,Bananas,Bananas,pound,0.617,U.S. City Average,BLS
+2024-10-01,2024,10,APU0000711211,Bananas,Bananas,pound,0.619,U.S. City Average,BLS
+2024-11-01,2024,11,APU0000711211,Bananas,Bananas,pound,0.622,U.S. City Average,BLS
+2024-12-01,2024,12,APU0000711211,Bananas,Bananas,pound,0.615,U.S. City Average,BLS
+2025-01-01,2025,1,APU0000711211,Bananas,Bananas,pound,0.621,U.S. City Average,BLS
+2025-02-01,2025,2,APU0000711211,Bananas,Bananas,pound,0.619,U.S. City Average,BLS
+2025-03-01,2025,3,APU0000711211,Bananas,Bananas,pound,0.625,U.S. City Average,BLS
+2025-04-01,2025,4,APU0000711211,Bananas,Bananas,pound,0.635,U.S. City Average,BLS
+2025-05-01,2025,5,APU0000711211,Bananas,Bananas,pound,0.655,U.S. City Average,BLS
+2025-06-01,2025,6,APU0000711211,Bananas,Bananas,pound,0.654,U.S. City Average,BLS
+2025-07-01,2025,7,APU0000711211,Bananas,Bananas,pound,0.657,U.S. City Average,BLS
+2025-08-01,2025,8,APU0000711211,Bananas,Bananas,pound,0.666,U.S. City Average,BLS
+2025-09-01,2025,9,APU0000711211,Bananas,Bananas,pound,0.67,U.S. City Average,BLS
+2025-11-01,2025,11,APU0000711211,Bananas,Bananas,pound,0.664,U.S. City Average,BLS
+2025-12-01,2025,12,APU0000711211,Bananas,Bananas,pound,0.656,U.S. City Average,BLS
+2026-01-01,2026,1,APU0000711211,Bananas,Bananas,pound,0.653,U.S. City Average,BLS
+2026-02-01,2026,2,APU0000711211,Bananas,Bananas,pound,0.653,U.S. City Average,BLS
+2026-03-01,2026,3,APU0000711211,Bananas,Bananas,pound,0.657,U.S. City Average,BLS
+2026-04-01,2026,4,APU0000711211,Bananas,Bananas,pound,0.654,U.S. City Average,BLS
+2026-05-01,2026,5,APU0000711211,Bananas,Bananas,pound,0.646,U.S. City Average,BLS
+2026-06-01,2026,6,APU0000711211,Bananas,Bananas,pound,0.645,U.S. City Average,BLS
+2026-07-01,2026,7,APU0000711211,Bananas,Bananas,pound,0.65,U.S. City Average,BLS
+2017-01-01,2017,1,APU0000702111,Bread,"Bread, white, pan",pound,1.351,U.S. City Average,BLS
+2017-02-01,2017,2,APU0000702111,Bread,"Bread, white, pan",pound,1.358,U.S. City Average,BLS
+2017-03-01,2017,3,APU0000702111,Bread,"Bread, white, pan",pound,1.329,U.S. City Average,BLS
+2017-04-01,2017,4,APU0000702111,Bread,"Bread, white, pan",pound,1.328,U.S. City Average,BLS
+2017-05-01,2017,5,APU0000702111,Bread,"Bread, white, pan",pound,1.327,U.S. City Average,BLS
+2017-06-01,2017,6,APU0000702111,Bread,"Bread, white, pan",pound,1.335,U.S. City Average,BLS
+2017-07-01,2017,7,APU0000702111,Bread,"Bread, white, pan",pound,1.327,U.S. City Average,BLS
+2017-08-01,2017,8,APU0000702111,Bread,"Bread, white, pan",pound,1.348,U.S. City Average,BLS
+2017-09-01,2017,9,APU0000702111,Bread,"Bread, white, pan",pound,1.349,U.S. City Average,BLS
+2017-10-01,2017,10,APU0000702111,Bread,"Bread, white, pan",pound,1.328,U.S. City Average,BLS
+2017-11-01,2017,11,APU0000702111,Bread,"Bread, white, pan",pound,1.295,U.S. City Average,BLS
+2017-12-01,2017,12,APU0000702111,Bread,"Bread, white, pan",pound,1.316,U.S. City Average,BLS
+2018-01-01,2018,1,APU0000702111,Bread,"Bread, white, pan",pound,1.281,U.S. City Average,BLS
+2018-02-01,2018,2,APU0000702111,Bread,"Bread, white, pan",pound,1.265,U.S. City Average,BLS
+2018-03-01,2018,3,APU0000702111,Bread,"Bread, white, pan",pound,1.309,U.S. City Average,BLS
+2018-04-01,2018,4,APU0000702111,Bread,"Bread, white, pan",pound,1.281,U.S. City Average,BLS
+2018-05-01,2018,5,APU0000702111,Bread,"Bread, white, pan",pound,1.293,U.S. City Average,BLS
+2018-06-01,2018,6,APU0000702111,Bread,"Bread, white, pan",pound,1.279,U.S. City Average,BLS
+2018-07-01,2018,7,APU0000702111,Bread,"Bread, white, pan",pound,1.293,U.S. City Average,BLS
+2018-08-01,2018,8,APU0000702111,Bread,"Bread, white, pan",pound,1.302,U.S. City Average,BLS
+2018-09-01,2018,9,APU0000702111,Bread,"Bread, white, pan",pound,1.288,U.S. City Average,BLS
+2018-10-01,2018,10,APU0000702111,Bread,"Bread, white, pan",pound,1.277,U.S. City Average,BLS
+2018-11-01,2018,11,APU0000702111,Bread,"Bread, white, pan",pound,1.274,U.S. City Average,BLS
+2018-12-01,2018,12,APU0000702111,Bread,"Bread, white, pan",pound,1.29,U.S. City Average,BLS
+2019-01-01,2019,1,APU0000702111,Bread,"Bread, white, pan",pound,1.274,U.S. City Average,BLS
+2019-02-01,2019,2,APU0000702111,Bread,"Bread, white, pan",pound,1.282,U.S. City Average,BLS
+2019-03-01,2019,3,APU0000702111,Bread,"Bread, white, pan",pound,1.261,U.S. City Average,BLS
+2019-04-01,2019,4,APU0000702111,Bread,"Bread, white, pan",pound,1.285,U.S. City Average,BLS
+2019-05-01,2019,5,APU0000702111,Bread,"Bread, white, pan",pound,1.289,U.S. City Average,BLS
+2019-06-01,2019,6,APU0000702111,Bread,"Bread, white, pan",pound,1.28,U.S. City Average,BLS
+2019-07-01,2019,7,APU0000702111,Bread,"Bread, white, pan",pound,1.281,U.S. City Average,BLS
+2019-08-01,2019,8,APU0000702111,Bread,"Bread, white, pan",pound,1.275,U.S. City Average,BLS
+2019-09-01,2019,9,APU0000702111,Bread,"Bread, white, pan",pound,1.296,U.S. City Average,BLS
+2019-10-01,2019,10,APU0000702111,Bread,"Bread, white, pan",pound,1.325,U.S. City Average,BLS
+2019-11-01,2019,11,APU0000702111,Bread,"Bread, white, pan",pound,1.361,U.S. City Average,BLS
+2019-12-01,2019,12,APU0000702111,Bread,"Bread, white, pan",pound,1.363,U.S. City Average,BLS
+2020-01-01,2020,1,APU0000702111,Bread,"Bread, white, pan",pound,1.351,U.S. City Average,BLS
+2020-02-01,2020,2,APU0000702111,Bread,"Bread, white, pan",pound,1.375,U.S. City Average,BLS
+2020-03-01,2020,3,APU0000702111,Bread,"Bread, white, pan",pound,1.374,U.S. City Average,BLS
+2020-04-01,2020,4,APU0000702111,Bread,"Bread, white, pan",pound,1.406,U.S. City Average,BLS
+2020-05-01,2020,5,APU0000702111,Bread,"Bread, white, pan",pound,1.412,U.S. City Average,BLS
+2020-06-01,2020,6,APU0000702111,Bread,"Bread, white, pan",pound,1.474,U.S. City Average,BLS
+2020-07-01,2020,7,APU0000702111,Bread,"Bread, white, pan",pound,1.485,U.S. City Average,BLS
+2020-08-01,2020,8,APU0000702111,Bread,"Bread, white, pan",pound,1.495,U.S. City Average,BLS
+2020-09-01,2020,9,APU0000702111,Bread,"Bread, white, pan",pound,1.492,U.S. City Average,BLS
+2020-10-01,2020,10,APU0000702111,Bread,"Bread, white, pan",pound,1.503,U.S. City Average,BLS
+2020-11-01,2020,11,APU0000702111,Bread,"Bread, white, pan",pound,1.515,U.S. City Average,BLS
+2020-12-01,2020,12,APU0000702111,Bread,"Bread, white, pan",pound,1.538,U.S. City Average,BLS
+2021-01-01,2021,1,APU0000702111,Bread,"Bread, white, pan",pound,1.546,U.S. City Average,BLS
+2021-02-01,2021,2,APU0000702111,Bread,"Bread, white, pan",pound,1.537,U.S. City Average,BLS
+2021-03-01,2021,3,APU0000702111,Bread,"Bread, white, pan",pound,1.526,U.S. City Average,BLS
+2021-04-01,2021,4,APU0000702111,Bread,"Bread, white, pan",pound,1.51,U.S. City Average,BLS
+2021-05-01,2021,5,APU0000702111,Bread,"Bread, white, pan",pound,1.511,U.S. City Average,BLS
+2021-06-01,2021,6,APU0000702111,Bread,"Bread, white, pan",pound,1.51,U.S. City Average,BLS
+2021-07-01,2021,7,APU0000702111,Bread,"Bread, white, pan",pound,1.491,U.S. City Average,BLS
+2021-08-01,2021,8,APU0000702111,Bread,"Bread, white, pan",pound,1.467,U.S. City Average,BLS
+2021-09-01,2021,9,APU0000702111,Bread,"Bread, white, pan",pound,1.58,U.S. City Average,BLS
+2021-10-01,2021,10,APU0000702111,Bread,"Bread, white, pan",pound,1.526,U.S. City Average,BLS
+2021-11-01,2021,11,APU0000702111,Bread,"Bread, white, pan",pound,1.547,U.S. City Average,BLS
+2021-12-01,2021,12,APU0000702111,Bread,"Bread, white, pan",pound,1.532,U.S. City Average,BLS
+2022-01-01,2022,1,APU0000702111,Bread,"Bread, white, pan",pound,1.555,U.S. City Average,BLS
+2022-02-01,2022,2,APU0000702111,Bread,"Bread, white, pan",pound,1.578,U.S. City Average,BLS
+2022-03-01,2022,3,APU0000702111,Bread,"Bread, white, pan",pound,1.607,U.S. City Average,BLS
+2022-04-01,2022,4,APU0000702111,Bread,"Bread, white, pan",pound,1.612,U.S. City Average,BLS
+2022-05-01,2022,5,APU0000702111,Bread,"Bread, white, pan",pound,1.606,U.S. City Average,BLS
+2022-06-01,2022,6,APU0000702111,Bread,"Bread, white, pan",pound,1.691,U.S. City Average,BLS
+2022-07-01,2022,7,APU0000702111,Bread,"Bread, white, pan",pound,1.715,U.S. City Average,BLS
+2022-08-01,2022,8,APU0000702111,Bread,"Bread, white, pan",pound,1.756,U.S. City Average,BLS
+2022-09-01,2022,9,APU0000702111,Bread,"Bread, white, pan",pound,1.749,U.S. City Average,BLS
+2022-10-01,2022,10,APU0000702111,Bread,"Bread, white, pan",pound,1.814,U.S. City Average,BLS
+2022-11-01,2022,11,APU0000702111,Bread,"Bread, white, pan",pound,1.847,U.S. City Average,BLS
+2022-12-01,2022,12,APU0000702111,Bread,"Bread, white, pan",pound,1.873,U.S. City Average,BLS
+2023-01-01,2023,1,APU0000702111,Bread,"Bread, white, pan",pound,1.888,U.S. City Average,BLS
+2023-02-01,2023,2,APU0000702111,Bread,"Bread, white, pan",pound,1.896,U.S. City Average,BLS
+2023-03-01,2023,3,APU0000702111,Bread,"Bread, white, pan",pound,1.936,U.S. City Average,BLS
+2023-04-01,2023,4,APU0000702111,Bread,"Bread, white, pan",pound,1.989,U.S. City Average,BLS
+2023-05-01,2023,5,APU0000702111,Bread,"Bread, white, pan",pound,1.951,U.S. City Average,BLS
+2023-06-01,2023,6,APU0000702111,Bread,"Bread, white, pan",pound,1.937,U.S. City Average,BLS
+2023-07-01,2023,7,APU0000702111,Bread,"Bread, white, pan",pound,1.98,U.S. City Average,BLS
+2023-08-01,2023,8,APU0000702111,Bread,"Bread, white, pan",pound,1.97,U.S. City Average,BLS
+2023-09-01,2023,9,APU0000702111,Bread,"Bread, white, pan",pound,1.972,U.S. City Average,BLS
+2023-10-01,2023,10,APU0000702111,Bread,"Bread, white, pan",pound,2.002,U.S. City Average,BLS
+2023-11-01,2023,11,APU0000702111,Bread,"Bread, white, pan",pound,1.976,U.S. City Average,BLS
+2023-12-01,2023,12,APU0000702111,Bread,"Bread, white, pan",pound,2.024,U.S. City Average,BLS
+2024-01-01,2024,1,APU0000702111,Bread,"Bread, white, pan",pound,2.033,U.S. City Average,BLS
+2024-02-01,2024,2,APU0000702111,Bread,"Bread, white, pan",pound,2.006,U.S. City Average,BLS
+2024-03-01,2024,3,APU0000702111,Bread,"Bread, white, pan",pound,1.997,U.S. City Average,BLS
+2024-04-01,2024,4,APU0000702111,Bread,"Bread, white, pan",pound,1.998,U.S. City Average,BLS
+2024-05-01,2024,5,APU0000702111,Bread,"Bread, white, pan",pound,1.971,U.S. City Average,BLS
+2024-06-01,2024,6,APU0000702111,Bread,"Bread, white, pan",pound,1.973,U.S. City Average,BLS
+2024-07-01,2024,7,APU0000702111,Bread,"Bread, white, pan",pound,1.975,U.S. City Average,BLS
+2024-08-01,2024,8,APU0000702111,Bread,"Bread, white, pan",pound,1.951,U.S. City Average,BLS
+2024-09-01,2024,9,APU0000702111,Bread,"Bread, white, pan",pound,1.976,U.S. City Average,BLS
+2024-10-01,2024,10,APU0000702111,Bread,"Bread, white, pan",pound,1.937,U.S. City Average,BLS
+2024-11-01,2024,11,APU0000702111,Bread,"Bread, white, pan",pound,1.916,U.S. City Average,BLS
+2024-12-01,2024,12,APU0000702111,Bread,"Bread, white, pan",pound,1.912,U.S. City Average,BLS
+2025-01-01,2025,1,APU0000702111,Bread,"Bread, white, pan",pound,1.925,U.S. City Average,BLS
+2025-02-01,2025,2,APU0000702111,Bread,"Bread, white, pan",pound,1.925,U.S. City Average,BLS
+2025-03-01,2025,3,APU0000702111,Bread,"Bread, white, pan",pound,1.88,U.S. City Average,BLS
+2025-04-01,2025,4,APU0000702111,Bread,"Bread, white, pan",pound,1.913,U.S. City Average,BLS
+2025-05-01,2025,5,APU0000702111,Bread,"Bread, white, pan",pound,1.876,U.S. City Average,BLS
+2025-06-01,2025,6,APU0000702111,Bread,"Bread, white, pan",pound,1.864,U.S. City Average,BLS
+2025-07-01,2025,7,APU0000702111,Bread,"Bread, white, pan",pound,1.851,U.S. City Average,BLS
+2025-08-01,2025,8,APU0000702111,Bread,"Bread, white, pan",pound,1.841,U.S. City Average,BLS
+2025-09-01,2025,9,APU0000702111,Bread,"Bread, white, pan",pound,1.867,U.S. City Average,BLS
+2025-11-01,2025,11,APU0000702111,Bread,"Bread, white, pan",pound,1.79,U.S. City Average,BLS
+2025-12-01,2025,12,APU0000702111,Bread,"Bread, white, pan",pound,1.833,U.S. City Average,BLS
+2026-01-01,2026,1,APU0000702111,Bread,"Bread, white, pan",pound,1.843,U.S. City Average,BLS
+2026-02-01,2026,2,APU0000702111,Bread,"Bread, white, pan",pound,1.85,U.S. City Average,BLS
+2026-03-01,2026,3,APU0000702111,Bread,"Bread, white, pan",pound,1.808,U.S. City Average,BLS
+2026-04-01,2026,4,APU0000702111,Bread,"Bread, white, pan",pound,1.869,U.S. City Average,BLS
+2026-05-01,2026,5,APU0000702111,Bread,"Bread, white, pan",pound,1.83,U.S. City Average,BLS
+2026-06-01,2026,6,APU0000702111,Bread,"Bread, white, pan",pound,1.814,U.S. City Average,BLS
+2026-07-01,2026,7,APU0000702111,Bread,"Bread, white, pan",pound,1.82,U.S. City Average,BLS
+2018-04-01,2018,4,APU0000FS1101,Butter,"Butter, in sticks",pound,4.153,U.S. City Average,BLS
+2018-05-01,2018,5,APU0000FS1101,Butter,"Butter, in sticks",pound,4.112,U.S. City Average,BLS
+2018-06-01,2018,6,APU0000FS1101,Butter,"Butter, in sticks",pound,4.064,U.S. City Average,BLS
+2018-07-01,2018,7,APU0000FS1101,Butter,"Butter, in sticks",pound,4.11,U.S. City Average,BLS
+2018-08-01,2018,8,APU0000FS1101,Butter,"Butter, in sticks",pound,4.085,U.S. City Average,BLS
+2018-09-01,2018,9,APU0000FS1101,Butter,"Butter, in sticks",pound,4.119,U.S. City Average,BLS
+2018-10-01,2018,10,APU0000FS1101,Butter,"Butter, in sticks",pound,4.111,U.S. City Average,BLS
+2018-11-01,2018,11,APU0000FS1101,Butter,"Butter, in sticks",pound,3.953,U.S. City Average,BLS
+2018-12-01,2018,12,APU0000FS1101,Butter,"Butter, in sticks",pound,3.931,U.S. City Average,BLS
+2019-01-01,2019,1,APU0000FS1101,Butter,"Butter, in sticks",pound,4.055,U.S. City Average,BLS
+2019-02-01,2019,2,APU0000FS1101,Butter,"Butter, in sticks",pound,4.154,U.S. City Average,BLS
+2019-03-01,2019,3,APU0000FS1101,Butter,"Butter, in sticks",pound,4.261,U.S. City Average,BLS
+2019-04-01,2019,4,APU0000FS1101,Butter,"Butter, in sticks",pound,4.019,U.S. City Average,BLS
+2019-05-01,2019,5,APU0000FS1101,Butter,"Butter, in sticks",pound,4.111,U.S. City Average,BLS
+2019-06-01,2019,6,APU0000FS1101,Butter,"Butter, in sticks",pound,3.921,U.S. City Average,BLS
+2019-07-01,2019,7,APU0000FS1101,Butter,"Butter, in sticks",pound,3.977,U.S. City Average,BLS
+2019-08-01,2019,8,APU0000FS1101,Butter,"Butter, in sticks",pound,4.036,U.S. City Average,BLS
+2019-09-01,2019,9,APU0000FS1101,Butter,"Butter, in sticks",pound,3.954,U.S. City Average,BLS
+2019-10-01,2019,10,APU0000FS1101,Butter,"Butter, in sticks",pound,3.979,U.S. City Average,BLS
+2019-11-01,2019,11,APU0000FS1101,Butter,"Butter, in sticks",pound,3.713,U.S. City Average,BLS
+2019-12-01,2019,12,APU0000FS1101,Butter,"Butter, in sticks",pound,3.624,U.S. City Average,BLS
+2020-01-01,2020,1,APU0000FS1101,Butter,"Butter, in sticks",pound,3.864,U.S. City Average,BLS
+2020-02-01,2020,2,APU0000FS1101,Butter,"Butter, in sticks",pound,3.762,U.S. City Average,BLS
+2020-03-01,2020,3,APU0000FS1101,Butter,"Butter, in sticks",pound,3.857,U.S. City Average,BLS
+2020-04-01,2020,4,APU0000FS1101,Butter,"Butter, in sticks",pound,3.725,U.S. City Average,BLS
+2020-05-01,2020,5,APU0000FS1101,Butter,"Butter, in sticks",pound,3.535,U.S. City Average,BLS
+2020-06-01,2020,6,APU0000FS1101,Butter,"Butter, in sticks",pound,3.491,U.S. City Average,BLS
+2020-07-01,2020,7,APU0000FS1101,Butter,"Butter, in sticks",pound,3.572,U.S. City Average,BLS
+2020-08-01,2020,8,APU0000FS1101,Butter,"Butter, in sticks",pound,3.623,U.S. City Average,BLS
+2020-09-01,2020,9,APU0000FS1101,Butter,"Butter, in sticks",pound,3.57,U.S. City Average,BLS
+2020-10-01,2020,10,APU0000FS1101,Butter,"Butter, in sticks",pound,3.586,U.S. City Average,BLS
+2020-11-01,2020,11,APU0000FS1101,Butter,"Butter, in sticks",pound,3.325,U.S. City Average,BLS
+2020-12-01,2020,12,APU0000FS1101,Butter,"Butter, in sticks",pound,3.533,U.S. City Average,BLS
+2021-01-01,2021,1,APU0000FS1101,Butter,"Butter, in sticks",pound,3.644,U.S. City Average,BLS
+2021-02-01,2021,2,APU0000FS1101,Butter,"Butter, in sticks",pound,3.661,U.S. City Average,BLS
+2021-03-01,2021,3,APU0000FS1101,Butter,"Butter, in sticks",pound,3.643,U.S. City Average,BLS
+2021-04-01,2021,4,APU0000FS1101,Butter,"Butter, in sticks",pound,3.521,U.S. City Average,BLS
+2021-05-01,2021,5,APU0000FS1101,Butter,"Butter, in sticks",pound,3.561,U.S. City Average,BLS
+2021-06-01,2021,6,APU0000FS1101,Butter,"Butter, in sticks",pound,3.585,U.S. City Average,BLS
+2021-07-01,2021,7,APU0000FS1101,Butter,"Butter, in sticks",pound,3.599,U.S. City Average,BLS
+2021-08-01,2021,8,APU0000FS1101,Butter,"Butter, in sticks",pound,3.634,U.S. City Average,BLS
+2021-09-01,2021,9,APU0000FS1101,Butter,"Butter, in sticks",pound,3.568,U.S. City Average,BLS
+2021-10-01,2021,10,APU0000FS1101,Butter,"Butter, in sticks",pound,3.652,U.S. City Average,BLS
+2021-11-01,2021,11,APU0000FS1101,Butter,"Butter, in sticks",pound,3.477,U.S. City Average,BLS
+2021-12-01,2021,12,APU0000FS1101,Butter,"Butter, in sticks",pound,3.474,U.S. City Average,BLS
+2022-01-01,2022,1,APU0000FS1101,Butter,"Butter, in sticks",pound,3.672,U.S. City Average,BLS
+2022-02-01,2022,2,APU0000FS1101,Butter,"Butter, in sticks",pound,3.774,U.S. City Average,BLS
+2022-03-01,2022,3,APU0000FS1101,Butter,"Butter, in sticks",pound,4.076,U.S. City Average,BLS
+2022-04-01,2022,4,APU0000FS1101,Butter,"Butter, in sticks",pound,4.15,U.S. City Average,BLS
+2022-05-01,2022,5,APU0000FS1101,Butter,"Butter, in sticks",pound,4.285,U.S. City Average,BLS
+2022-06-01,2022,6,APU0000FS1101,Butter,"Butter, in sticks",pound,4.386,U.S. City Average,BLS
+2022-07-01,2022,7,APU0000FS1101,Butter,"Butter, in sticks",pound,4.552,U.S. City Average,BLS
+2022-08-01,2022,8,APU0000FS1101,Butter,"Butter, in sticks",pound,4.699,U.S. City Average,BLS
+2022-09-01,2022,9,APU0000FS1101,Butter,"Butter, in sticks",pound,4.718,U.S. City Average,BLS
+2022-10-01,2022,10,APU0000FS1101,Butter,"Butter, in sticks",pound,4.847,U.S. City Average,BLS
+2022-11-01,2022,11,APU0000FS1101,Butter,"Butter, in sticks",pound,4.639,U.S. City Average,BLS
+2022-12-01,2022,12,APU0000FS1101,Butter,"Butter, in sticks",pound,4.811,U.S. City Average,BLS
+2023-01-01,2023,1,APU0000FS1101,Butter,"Butter, in sticks",pound,4.882,U.S. City Average,BLS
+2023-02-01,2023,2,APU0000FS1101,Butter,"Butter, in sticks",pound,4.869,U.S. City Average,BLS
+2023-03-01,2023,3,APU0000FS1101,Butter,"Butter, in sticks",pound,4.663,U.S. City Average,BLS
+2023-04-01,2023,4,APU0000FS1101,Butter,"Butter, in sticks",pound,4.452,U.S. City Average,BLS
+2023-05-01,2023,5,APU0000FS1101,Butter,"Butter, in sticks",pound,4.549,U.S. City Average,BLS
+2023-06-01,2023,6,APU0000FS1101,Butter,"Butter, in sticks",pound,4.452,U.S. City Average,BLS
+2023-07-01,2023,7,APU0000FS1101,Butter,"Butter, in sticks",pound,4.465,U.S. City Average,BLS
+2023-08-01,2023,8,APU0000FS1101,Butter,"Butter, in sticks",pound,4.411,U.S. City Average,BLS
+2023-09-01,2023,9,APU0000FS1101,Butter,"Butter, in sticks",pound,4.407,U.S. City Average,BLS
+2023-10-01,2023,10,APU0000FS1101,Butter,"Butter, in sticks",pound,4.55,U.S. City Average,BLS
+2023-11-01,2023,11,APU0000FS1101,Butter,"Butter, in sticks",pound,4.52,U.S. City Average,BLS
+2023-12-01,2023,12,APU0000FS1101,Butter,"Butter, in sticks",pound,4.505,U.S. City Average,BLS
+2024-01-01,2024,1,APU0000FS1101,Butter,"Butter, in sticks",pound,4.659,U.S. City Average,BLS
+2024-02-01,2024,2,APU0000FS1101,Butter,"Butter, in sticks",pound,4.634,U.S. City Average,BLS
+2024-03-01,2024,3,APU0000FS1101,Butter,"Butter, in sticks",pound,4.484,U.S. City Average,BLS
+2024-04-01,2024,4,APU0000FS1101,Butter,"Butter, in sticks",pound,4.629,U.S. City Average,BLS
+2024-05-01,2024,5,APU0000FS1101,Butter,"Butter, in sticks",pound,4.589,U.S. City Average,BLS
+2024-06-01,2024,6,APU0000FS1101,Butter,"Butter, in sticks",pound,4.696,U.S. City Average,BLS
+2024-07-01,2024,7,APU0000FS1101,Butter,"Butter, in sticks",pound,4.897,U.S. City Average,BLS
+2024-08-01,2024,8,APU0000FS1101,Butter,"Butter, in sticks",pound,4.796,U.S. City Average,BLS
+2024-09-01,2024,9,APU0000FS1101,Butter,"Butter, in sticks",pound,5.004,U.S. City Average,BLS
+2024-10-01,2024,10,APU0000FS1101,Butter,"Butter, in sticks",pound,4.937,U.S. City Average,BLS
+2024-11-01,2024,11,APU0000FS1101,Butter,"Butter, in sticks",pound,4.794,U.S. City Average,BLS
+2024-12-01,2024,12,APU0000FS1101,Butter,"Butter, in sticks",pound,4.728,U.S. City Average,BLS
+2025-01-01,2025,1,APU0000FS1101,Butter,"Butter, in sticks",pound,4.912,U.S. City Average,BLS
+2025-02-01,2025,2,APU0000FS1101,Butter,"Butter, in sticks",pound,4.869,U.S. City Average,BLS
+2025-03-01,2025,3,APU0000FS1101,Butter,"Butter, in sticks",pound,4.816,U.S. City Average,BLS
+2025-04-01,2025,4,APU0000FS1101,Butter,"Butter, in sticks",pound,4.78,U.S. City Average,BLS
+2025-05-01,2025,5,APU0000FS1101,Butter,"Butter, in sticks",pound,4.952,U.S. City Average,BLS
+2025-06-01,2025,6,APU0000FS1101,Butter,"Butter, in sticks",pound,4.872,U.S. City Average,BLS
+2025-07-01,2025,7,APU0000FS1101,Butter,"Butter, in sticks",pound,4.797,U.S. City Average,BLS
+2025-08-01,2025,8,APU0000FS1101,Butter,"Butter, in sticks",pound,4.828,U.S. City Average,BLS
+2025-09-01,2025,9,APU0000FS1101,Butter,"Butter, in sticks",pound,4.787,U.S. City Average,BLS
+2025-11-01,2025,11,APU0000FS1101,Butter,"Butter, in sticks",pound,4.31,U.S. City Average,BLS
+2025-12-01,2025,12,APU0000FS1101,Butter,"Butter, in sticks",pound,4.408,U.S. City Average,BLS
+2026-01-01,2026,1,APU0000FS1101,Butter,"Butter, in sticks",pound,4.383,U.S. City Average,BLS
+2026-02-01,2026,2,APU0000FS1101,Butter,"Butter, in sticks",pound,4.314,U.S. City Average,BLS
+2026-03-01,2026,3,APU0000FS1101,Butter,"Butter, in sticks",pound,4.258,U.S. City Average,BLS
+2026-04-01,2026,4,APU0000FS1101,Butter,"Butter, in sticks",pound,4.216,U.S. City Average,BLS
+2026-05-01,2026,5,APU0000FS1101,Butter,"Butter, in sticks",pound,3.929,U.S. City Average,BLS
+2026-06-01,2026,6,APU0000FS1101,Butter,"Butter, in sticks",pound,3.816,U.S. City Average,BLS
+2026-07-01,2026,7,APU0000FS1101,Butter,"Butter, in sticks",pound,3.922,U.S. City Average,BLS
+2017-01-01,2017,1,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,4.933,U.S. City Average,BLS
+2017-02-01,2017,2,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,4.967,U.S. City Average,BLS
+2017-03-01,2017,3,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,4.799,U.S. City Average,BLS
+2017-04-01,2017,4,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,4.794,U.S. City Average,BLS
+2017-05-01,2017,5,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,4.748,U.S. City Average,BLS
+2017-06-01,2017,6,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,4.797,U.S. City Average,BLS
+2017-07-01,2017,7,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,4.851,U.S. City Average,BLS
+2017-08-01,2017,8,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,4.862,U.S. City Average,BLS
+2017-09-01,2017,9,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.01,U.S. City Average,BLS
+2017-10-01,2017,10,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.028,U.S. City Average,BLS
+2017-11-01,2017,11,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.006,U.S. City Average,BLS
+2017-12-01,2017,12,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,4.95,U.S. City Average,BLS
+2018-01-01,2018,1,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.021,U.S. City Average,BLS
+2018-02-01,2018,2,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.082,U.S. City Average,BLS
+2018-03-01,2018,3,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.064,U.S. City Average,BLS
+2018-04-01,2018,4,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.03,U.S. City Average,BLS
+2018-05-01,2018,5,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.131,U.S. City Average,BLS
+2018-06-01,2018,6,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.234,U.S. City Average,BLS
+2018-07-01,2018,7,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.065,U.S. City Average,BLS
+2018-08-01,2018,8,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.118,U.S. City Average,BLS
+2018-09-01,2018,9,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.128,U.S. City Average,BLS
+2018-10-01,2018,10,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.158,U.S. City Average,BLS
+2018-11-01,2018,11,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.229,U.S. City Average,BLS
+2018-12-01,2018,12,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.36,U.S. City Average,BLS
+2019-01-01,2019,1,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.372,U.S. City Average,BLS
+2019-02-01,2019,2,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.247,U.S. City Average,BLS
+2019-03-01,2019,3,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.193,U.S. City Average,BLS
+2019-04-01,2019,4,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.29,U.S. City Average,BLS
+2019-05-01,2019,5,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.327,U.S. City Average,BLS
+2019-06-01,2019,6,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.254,U.S. City Average,BLS
+2019-07-01,2019,7,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.349,U.S. City Average,BLS
+2019-08-01,2019,8,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.367,U.S. City Average,BLS
+2019-09-01,2019,9,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.406,U.S. City Average,BLS
+2019-10-01,2019,10,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.277,U.S. City Average,BLS
+2019-11-01,2019,11,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.309,U.S. City Average,BLS
+2019-12-01,2019,12,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.302,U.S. City Average,BLS
+2020-01-01,2020,1,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.204,U.S. City Average,BLS
+2020-02-01,2020,2,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.381,U.S. City Average,BLS
+2020-03-01,2020,3,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.329,U.S. City Average,BLS
+2020-04-01,2020,4,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.453,U.S. City Average,BLS
+2020-05-01,2020,5,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.558,U.S. City Average,BLS
+2020-06-01,2020,6,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.619,U.S. City Average,BLS
+2020-07-01,2020,7,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.517,U.S. City Average,BLS
+2020-08-01,2020,8,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.572,U.S. City Average,BLS
+2020-09-01,2020,9,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.611,U.S. City Average,BLS
+2020-10-01,2020,10,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.583,U.S. City Average,BLS
+2020-11-01,2020,11,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.589,U.S. City Average,BLS
+2020-12-01,2020,12,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.54,U.S. City Average,BLS
+2021-01-01,2021,1,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.656,U.S. City Average,BLS
+2021-02-01,2021,2,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.6,U.S. City Average,BLS
+2021-03-01,2021,3,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.682,U.S. City Average,BLS
+2021-04-01,2021,4,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.441,U.S. City Average,BLS
+2021-05-01,2021,5,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.421,U.S. City Average,BLS
+2021-06-01,2021,6,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.386,U.S. City Average,BLS
+2021-07-01,2021,7,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.392,U.S. City Average,BLS
+2021-08-01,2021,8,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.336,U.S. City Average,BLS
+2021-09-01,2021,9,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.387,U.S. City Average,BLS
+2021-10-01,2021,10,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.396,U.S. City Average,BLS
+2021-11-01,2021,11,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.326,U.S. City Average,BLS
+2021-12-01,2021,12,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.257,U.S. City Average,BLS
+2022-01-01,2022,1,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.315,U.S. City Average,BLS
+2022-02-01,2022,2,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.447,U.S. City Average,BLS
+2022-03-01,2022,3,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.486,U.S. City Average,BLS
+2022-04-01,2022,4,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.656,U.S. City Average,BLS
+2022-05-01,2022,5,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.645,U.S. City Average,BLS
+2022-06-01,2022,6,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.777,U.S. City Average,BLS
+2022-07-01,2022,7,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.855,U.S. City Average,BLS
+2022-08-01,2022,8,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.995,U.S. City Average,BLS
+2022-09-01,2022,9,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,6.084,U.S. City Average,BLS
+2022-10-01,2022,10,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.96,U.S. City Average,BLS
+2022-11-01,2022,11,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.933,U.S. City Average,BLS
+2022-12-01,2022,12,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.995,U.S. City Average,BLS
+2023-01-01,2023,1,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.946,U.S. City Average,BLS
+2023-02-01,2023,2,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.85,U.S. City Average,BLS
+2023-03-01,2023,3,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.922,U.S. City Average,BLS
+2023-04-01,2023,4,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.94,U.S. City Average,BLS
+2023-05-01,2023,5,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.841,U.S. City Average,BLS
+2023-06-01,2023,6,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.681,U.S. City Average,BLS
+2023-07-01,2023,7,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.911,U.S. City Average,BLS
+2023-08-01,2023,8,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.897,U.S. City Average,BLS
+2023-09-01,2023,9,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.846,U.S. City Average,BLS
+2023-10-01,2023,10,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.846,U.S. City Average,BLS
+2023-11-01,2023,11,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.65,U.S. City Average,BLS
+2023-12-01,2023,12,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.545,U.S. City Average,BLS
+2024-01-01,2024,1,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.724,U.S. City Average,BLS
+2024-02-01,2024,2,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.726,U.S. City Average,BLS
+2024-03-01,2024,3,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.689,U.S. City Average,BLS
+2024-04-01,2024,4,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.51,U.S. City Average,BLS
+2024-05-01,2024,5,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.551,U.S. City Average,BLS
+2024-06-01,2024,6,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.537,U.S. City Average,BLS
+2024-07-01,2024,7,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.599,U.S. City Average,BLS
+2024-08-01,2024,8,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.763,U.S. City Average,BLS
+2024-09-01,2024,9,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.731,U.S. City Average,BLS
+2024-10-01,2024,10,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.844,U.S. City Average,BLS
+2024-11-01,2024,11,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.676,U.S. City Average,BLS
+2024-12-01,2024,12,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.621,U.S. City Average,BLS
+2025-01-01,2025,1,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.698,U.S. City Average,BLS
+2025-02-01,2025,2,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.536,U.S. City Average,BLS
+2025-03-01,2025,3,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.737,U.S. City Average,BLS
+2025-04-01,2025,4,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.743,U.S. City Average,BLS
+2025-05-01,2025,5,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.908,U.S. City Average,BLS
+2025-06-01,2025,6,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.999,U.S. City Average,BLS
+2025-07-01,2025,7,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,6.041,U.S. City Average,BLS
+2025-08-01,2025,8,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,6.123,U.S. City Average,BLS
+2025-09-01,2025,9,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,6.049,U.S. City Average,BLS
+2025-11-01,2025,11,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.636,U.S. City Average,BLS
+2025-12-01,2025,12,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.789,U.S. City Average,BLS
+2026-01-01,2026,1,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.982,U.S. City Average,BLS
+2026-02-01,2026,2,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.987,U.S. City Average,BLS
+2026-03-01,2026,3,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.97,U.S. City Average,BLS
+2026-04-01,2026,4,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,6.029,U.S. City Average,BLS
+2026-05-01,2026,5,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.685,U.S. City Average,BLS
+2026-06-01,2026,6,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.96,U.S. City Average,BLS
+2026-07-01,2026,7,APU0000710212,Cheddar Cheese,"Cheddar cheese, natural",pound,5.741,U.S. City Average,BLS
+2017-01-01,2017,1,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.218,U.S. City Average,BLS
+2017-02-01,2017,2,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.195,U.S. City Average,BLS
+2017-03-01,2017,3,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.291,U.S. City Average,BLS
+2017-04-01,2017,4,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.289,U.S. City Average,BLS
+2017-05-01,2017,5,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.208,U.S. City Average,BLS
+2017-06-01,2017,6,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.215,U.S. City Average,BLS
+2017-07-01,2017,7,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.189,U.S. City Average,BLS
+2017-08-01,2017,8,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.194,U.S. City Average,BLS
+2017-09-01,2017,9,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.185,U.S. City Average,BLS
+2017-10-01,2017,10,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.141,U.S. City Average,BLS
+2017-11-01,2017,11,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.13,U.S. City Average,BLS
+2017-12-01,2017,12,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.192,U.S. City Average,BLS
+2018-01-01,2018,1,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.073,U.S. City Average,BLS
+2018-02-01,2018,2,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.119,U.S. City Average,BLS
+2018-03-01,2018,3,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.142,U.S. City Average,BLS
+2018-04-01,2018,4,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.238,U.S. City Average,BLS
+2018-05-01,2018,5,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.076,U.S. City Average,BLS
+2018-06-01,2018,6,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.094,U.S. City Average,BLS
+2018-07-01,2018,7,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.116,U.S. City Average,BLS
+2018-08-01,2018,8,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,2.939,U.S. City Average,BLS
+2018-09-01,2018,9,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,2.896,U.S. City Average,BLS
+2018-10-01,2018,10,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.047,U.S. City Average,BLS
+2018-11-01,2018,11,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.052,U.S. City Average,BLS
+2018-12-01,2018,12,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.112,U.S. City Average,BLS
+2019-01-01,2019,1,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.063,U.S. City Average,BLS
+2019-02-01,2019,2,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.062,U.S. City Average,BLS
+2019-03-01,2019,3,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.048,U.S. City Average,BLS
+2019-04-01,2019,4,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.014,U.S. City Average,BLS
+2019-05-01,2019,5,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.092,U.S. City Average,BLS
+2019-06-01,2019,6,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.051,U.S. City Average,BLS
+2019-07-01,2019,7,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,2.975,U.S. City Average,BLS
+2019-08-01,2019,8,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,2.96,U.S. City Average,BLS
+2019-09-01,2019,9,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,2.93,U.S. City Average,BLS
+2019-10-01,2019,10,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,2.948,U.S. City Average,BLS
+2019-11-01,2019,11,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,2.94,U.S. City Average,BLS
+2019-12-01,2019,12,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.113,U.S. City Average,BLS
+2020-01-01,2020,1,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.059,U.S. City Average,BLS
+2020-02-01,2020,2,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.013,U.S. City Average,BLS
+2020-03-01,2020,3,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,2.956,U.S. City Average,BLS
+2020-04-01,2020,4,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.158,U.S. City Average,BLS
+2020-05-01,2020,5,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.348,U.S. City Average,BLS
+2020-06-01,2020,6,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.349,U.S. City Average,BLS
+2020-07-01,2020,7,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.221,U.S. City Average,BLS
+2020-08-01,2020,8,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.276,U.S. City Average,BLS
+2020-09-01,2020,9,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.302,U.S. City Average,BLS
+2020-10-01,2020,10,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.29,U.S. City Average,BLS
+2020-11-01,2020,11,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.412,U.S. City Average,BLS
+2020-12-01,2020,12,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.293,U.S. City Average,BLS
+2021-01-01,2021,1,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.26,U.S. City Average,BLS
+2021-02-01,2021,2,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.239,U.S. City Average,BLS
+2021-03-01,2021,3,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.291,U.S. City Average,BLS
+2021-04-01,2021,4,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.406,U.S. City Average,BLS
+2021-05-01,2021,5,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.371,U.S. City Average,BLS
+2021-06-01,2021,6,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.353,U.S. City Average,BLS
+2021-07-01,2021,7,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.5,U.S. City Average,BLS
+2021-08-01,2021,8,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.536,U.S. City Average,BLS
+2021-09-01,2021,9,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.517,U.S. City Average,BLS
+2021-10-01,2021,10,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.589,U.S. City Average,BLS
+2021-11-01,2021,11,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.618,U.S. City Average,BLS
+2021-12-01,2021,12,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.725,U.S. City Average,BLS
+2022-01-01,2022,1,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.726,U.S. City Average,BLS
+2022-02-01,2022,2,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.815,U.S. City Average,BLS
+2022-03-01,2022,3,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.87,U.S. City Average,BLS
+2022-04-01,2022,4,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.096,U.S. City Average,BLS
+2022-05-01,2022,5,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.31,U.S. City Average,BLS
+2022-06-01,2022,6,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.568,U.S. City Average,BLS
+2022-07-01,2022,7,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.608,U.S. City Average,BLS
+2022-08-01,2022,8,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.706,U.S. City Average,BLS
+2022-09-01,2022,9,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.746,U.S. City Average,BLS
+2022-10-01,2022,10,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.67,U.S. City Average,BLS
+2022-11-01,2022,11,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.42,U.S. City Average,BLS
+2022-12-01,2022,12,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.348,U.S. City Average,BLS
+2023-01-01,2023,1,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.315,U.S. City Average,BLS
+2023-02-01,2023,2,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.365,U.S. City Average,BLS
+2023-03-01,2023,3,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.324,U.S. City Average,BLS
+2023-04-01,2023,4,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.405,U.S. City Average,BLS
+2023-05-01,2023,5,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.236,U.S. City Average,BLS
+2023-06-01,2023,6,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.193,U.S. City Average,BLS
+2023-07-01,2023,7,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.141,U.S. City Average,BLS
+2023-08-01,2023,8,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.179,U.S. City Average,BLS
+2023-09-01,2023,9,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.229,U.S. City Average,BLS
+2023-10-01,2023,10,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.222,U.S. City Average,BLS
+2023-11-01,2023,11,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.06,U.S. City Average,BLS
+2023-12-01,2023,12,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.082,U.S. City Average,BLS
+2024-01-01,2024,1,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.086,U.S. City Average,BLS
+2024-02-01,2024,2,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.105,U.S. City Average,BLS
+2024-03-01,2024,3,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.106,U.S. City Average,BLS
+2024-04-01,2024,4,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.061,U.S. City Average,BLS
+2024-05-01,2024,5,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.118,U.S. City Average,BLS
+2024-06-01,2024,6,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.046,U.S. City Average,BLS
+2024-07-01,2024,7,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.946,U.S. City Average,BLS
+2024-08-01,2024,8,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.952,U.S. City Average,BLS
+2024-09-01,2024,9,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.974,U.S. City Average,BLS
+2024-10-01,2024,10,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.037,U.S. City Average,BLS
+2024-11-01,2024,11,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.011,U.S. City Average,BLS
+2024-12-01,2024,12,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.104,U.S. City Average,BLS
+2025-01-01,2025,1,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,3.969,U.S. City Average,BLS
+2025-02-01,2025,2,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.079,U.S. City Average,BLS
+2025-03-01,2025,3,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.16,U.S. City Average,BLS
+2025-04-01,2025,4,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.18,U.S. City Average,BLS
+2025-05-01,2025,5,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.216,U.S. City Average,BLS
+2025-06-01,2025,6,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.239,U.S. City Average,BLS
+2025-07-01,2025,7,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.204,U.S. City Average,BLS
+2025-08-01,2025,8,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.212,U.S. City Average,BLS
+2025-09-01,2025,9,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.172,U.S. City Average,BLS
+2025-11-01,2025,11,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.15,U.S. City Average,BLS
+2025-12-01,2025,12,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.153,U.S. City Average,BLS
+2026-01-01,2026,1,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.165,U.S. City Average,BLS
+2026-02-01,2026,2,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.142,U.S. City Average,BLS
+2026-03-01,2026,3,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.172,U.S. City Average,BLS
+2026-04-01,2026,4,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.168,U.S. City Average,BLS
+2026-05-01,2026,5,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.171,U.S. City Average,BLS
+2026-06-01,2026,6,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.181,U.S. City Average,BLS
+2026-07-01,2026,7,APU0000FF1101,Chicken Breast,"Chicken breast, boneless",pound,4.153,U.S. City Average,BLS
+2017-01-01,2017,1,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.468,U.S. City Average,BLS
+2017-02-01,2017,2,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.583,U.S. City Average,BLS
+2017-03-01,2017,3,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.65,U.S. City Average,BLS
+2017-04-01,2017,4,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.622,U.S. City Average,BLS
+2017-05-01,2017,5,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.597,U.S. City Average,BLS
+2017-06-01,2017,6,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.545,U.S. City Average,BLS
+2017-07-01,2017,7,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.335,U.S. City Average,BLS
+2017-08-01,2017,8,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.373,U.S. City Average,BLS
+2017-09-01,2017,9,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.323,U.S. City Average,BLS
+2017-10-01,2017,10,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.327,U.S. City Average,BLS
+2017-11-01,2017,11,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.324,U.S. City Average,BLS
+2017-12-01,2017,12,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.285,U.S. City Average,BLS
+2018-01-01,2018,1,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.291,U.S. City Average,BLS
+2018-02-01,2018,2,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.267,U.S. City Average,BLS
+2018-03-01,2018,3,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.343,U.S. City Average,BLS
+2018-04-01,2018,4,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.313,U.S. City Average,BLS
+2018-05-01,2018,5,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.294,U.S. City Average,BLS
+2018-09-01,2018,9,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.306,U.S. City Average,BLS
+2019-10-01,2019,10,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.174,U.S. City Average,BLS
+2019-11-01,2019,11,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.197,U.S. City Average,BLS
+2019-12-01,2019,12,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.053,U.S. City Average,BLS
+2020-01-01,2020,1,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.174,U.S. City Average,BLS
+2020-02-01,2020,2,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.25,U.S. City Average,BLS
+2020-03-01,2020,3,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.334,U.S. City Average,BLS
+2020-04-01,2020,4,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.396,U.S. City Average,BLS
+2020-05-01,2020,5,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.466,U.S. City Average,BLS
+2020-06-01,2020,6,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.517,U.S. City Average,BLS
+2020-07-01,2020,7,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.536,U.S. City Average,BLS
+2020-08-01,2020,8,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.504,U.S. City Average,BLS
+2020-09-01,2020,9,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.487,U.S. City Average,BLS
+2020-10-01,2020,10,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.522,U.S. City Average,BLS
+2020-11-01,2020,11,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.485,U.S. City Average,BLS
+2020-12-01,2020,12,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.52,U.S. City Average,BLS
+2021-01-01,2021,1,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.591,U.S. City Average,BLS
+2021-02-01,2021,2,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.673,U.S. City Average,BLS
+2021-03-01,2021,3,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.671,U.S. City Average,BLS
+2021-04-01,2021,4,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.752,U.S. City Average,BLS
+2021-05-01,2021,5,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.566,U.S. City Average,BLS
+2021-06-01,2021,6,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.605,U.S. City Average,BLS
+2021-07-01,2021,7,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.562,U.S. City Average,BLS
+2021-08-01,2021,8,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.726,U.S. City Average,BLS
+2021-09-01,2021,9,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.733,U.S. City Average,BLS
+2021-10-01,2021,10,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.8,U.S. City Average,BLS
+2021-11-01,2021,11,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.816,U.S. City Average,BLS
+2021-12-01,2021,12,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,4.965,U.S. City Average,BLS
+2022-01-01,2022,1,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,5.135,U.S. City Average,BLS
+2022-02-01,2022,2,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,5.247,U.S. City Average,BLS
+2022-03-01,2022,3,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,5.41,U.S. City Average,BLS
+2022-04-01,2022,4,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,5.529,U.S. City Average,BLS
+2022-05-01,2022,5,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,5.835,U.S. City Average,BLS
+2022-06-01,2022,6,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,5.793,U.S. City Average,BLS
+2022-07-01,2022,7,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.112,U.S. City Average,BLS
+2022-08-01,2022,8,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.235,U.S. City Average,BLS
+2022-09-01,2022,9,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.17,U.S. City Average,BLS
+2022-10-01,2022,10,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.408,U.S. City Average,BLS
+2022-11-01,2022,11,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.356,U.S. City Average,BLS
+2022-12-01,2022,12,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.465,U.S. City Average,BLS
+2023-01-01,2023,1,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.358,U.S. City Average,BLS
+2023-02-01,2023,2,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.351,U.S. City Average,BLS
+2023-03-01,2023,3,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.184,U.S. City Average,BLS
+2023-04-01,2023,4,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.04,U.S. City Average,BLS
+2023-05-01,2023,5,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.094,U.S. City Average,BLS
+2023-06-01,2023,6,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.091,U.S. City Average,BLS
+2023-07-01,2023,7,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.141,U.S. City Average,BLS
+2023-08-01,2023,8,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.091,U.S. City Average,BLS
+2023-09-01,2023,9,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.085,U.S. City Average,BLS
+2023-10-01,2023,10,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.178,U.S. City Average,BLS
+2023-11-01,2023,11,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.169,U.S. City Average,BLS
+2023-12-01,2023,12,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.092,U.S. City Average,BLS
+2024-01-01,2024,1,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.124,U.S. City Average,BLS
+2024-02-01,2024,2,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.094,U.S. City Average,BLS
+2024-03-01,2024,3,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,5.964,U.S. City Average,BLS
+2024-04-01,2024,4,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.063,U.S. City Average,BLS
+2024-05-01,2024,5,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,5.991,U.S. City Average,BLS
+2024-06-01,2024,6,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.253,U.S. City Average,BLS
+2024-07-01,2024,7,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.307,U.S. City Average,BLS
+2024-08-01,2024,8,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.311,U.S. City Average,BLS
+2024-09-01,2024,9,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.47,U.S. City Average,BLS
+2024-10-01,2024,10,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.644,U.S. City Average,BLS
+2024-11-01,2024,11,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.868,U.S. City Average,BLS
+2024-12-01,2024,12,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,6.776,U.S. City Average,BLS
+2025-01-01,2025,1,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,7.019,U.S. City Average,BLS
+2025-02-01,2025,2,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,7.246,U.S. City Average,BLS
+2025-03-01,2025,3,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,7.385,U.S. City Average,BLS
+2025-04-01,2025,4,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,7.536,U.S. City Average,BLS
+2025-05-01,2025,5,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,7.931,U.S. City Average,BLS
+2025-06-01,2025,6,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,8.132,U.S. City Average,BLS
+2025-07-01,2025,7,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,8.414,U.S. City Average,BLS
+2025-08-01,2025,8,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,8.872,U.S. City Average,BLS
+2025-09-01,2025,9,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,9.139,U.S. City Average,BLS
+2025-11-01,2025,11,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,9.258,U.S. City Average,BLS
+2025-12-01,2025,12,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,9.053,U.S. City Average,BLS
+2026-01-01,2026,1,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,9.366,U.S. City Average,BLS
+2026-02-01,2026,2,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,9.459,U.S. City Average,BLS
+2026-03-01,2026,3,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,9.608,U.S. City Average,BLS
+2026-04-01,2026,4,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,9.723,U.S. City Average,BLS
+2026-05-01,2026,5,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,9.511,U.S. City Average,BLS
+2026-06-01,2026,6,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,9.457,U.S. City Average,BLS
+2026-07-01,2026,7,APU0000717311,Coffee,"Coffee, 100 percent, ground roast",pound,9.317,U.S. City Average,BLS
+2017-01-01,2017,1,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.599,U.S. City Average,BLS
+2017-02-01,2017,2,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.464,U.S. City Average,BLS
+2017-03-01,2017,3,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.404,U.S. City Average,BLS
+2017-04-01,2017,4,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.409,U.S. City Average,BLS
+2017-05-01,2017,5,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.414,U.S. City Average,BLS
+2017-06-01,2017,6,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.332,U.S. City Average,BLS
+2017-07-01,2017,7,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.333,U.S. City Average,BLS
+2017-08-01,2017,8,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.367,U.S. City Average,BLS
+2017-09-01,2017,9,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.422,U.S. City Average,BLS
+2017-10-01,2017,10,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.54,U.S. City Average,BLS
+2017-11-01,2017,11,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.506,U.S. City Average,BLS
+2017-12-01,2017,12,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.815,U.S. City Average,BLS
+2018-01-01,2018,1,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.769,U.S. City Average,BLS
+2018-02-01,2018,2,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.755,U.S. City Average,BLS
+2018-03-01,2018,3,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.831,U.S. City Average,BLS
+2018-04-01,2018,4,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.081,U.S. City Average,BLS
+2018-05-01,2018,5,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.987,U.S. City Average,BLS
+2018-06-01,2018,6,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.628,U.S. City Average,BLS
+2018-07-01,2018,7,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.725,U.S. City Average,BLS
+2018-08-01,2018,8,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.622,U.S. City Average,BLS
+2018-09-01,2018,9,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.651,U.S. City Average,BLS
+2018-10-01,2018,10,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.66,U.S. City Average,BLS
+2018-11-01,2018,11,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.596,U.S. City Average,BLS
+2018-12-01,2018,12,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.595,U.S. City Average,BLS
+2019-01-01,2019,1,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.554,U.S. City Average,BLS
+2019-02-01,2019,2,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.557,U.S. City Average,BLS
+2019-03-01,2019,3,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.544,U.S. City Average,BLS
+2019-04-01,2019,4,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.463,U.S. City Average,BLS
+2019-05-01,2019,5,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.362,U.S. City Average,BLS
+2019-06-01,2019,6,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.203,U.S. City Average,BLS
+2019-07-01,2019,7,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.243,U.S. City Average,BLS
+2019-08-01,2019,8,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.219,U.S. City Average,BLS
+2019-09-01,2019,9,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.383,U.S. City Average,BLS
+2019-10-01,2019,10,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.282,U.S. City Average,BLS
+2019-11-01,2019,11,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.405,U.S. City Average,BLS
+2019-12-01,2019,12,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.535,U.S. City Average,BLS
+2020-01-01,2020,1,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.461,U.S. City Average,BLS
+2020-02-01,2020,2,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.449,U.S. City Average,BLS
+2020-03-01,2020,3,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.525,U.S. City Average,BLS
+2020-04-01,2020,4,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.019,U.S. City Average,BLS
+2020-05-01,2020,5,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.64,U.S. City Average,BLS
+2020-06-01,2020,6,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.554,U.S. City Average,BLS
+2020-07-01,2020,7,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.401,U.S. City Average,BLS
+2020-08-01,2020,8,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.328,U.S. City Average,BLS
+2020-09-01,2020,9,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.353,U.S. City Average,BLS
+2020-10-01,2020,10,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.408,U.S. City Average,BLS
+2020-11-01,2020,11,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.45,U.S. City Average,BLS
+2020-12-01,2020,12,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.481,U.S. City Average,BLS
+2021-01-01,2021,1,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.466,U.S. City Average,BLS
+2021-02-01,2021,2,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.597,U.S. City Average,BLS
+2021-03-01,2021,3,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.625,U.S. City Average,BLS
+2021-04-01,2021,4,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.62,U.S. City Average,BLS
+2021-05-01,2021,5,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.625,U.S. City Average,BLS
+2021-06-01,2021,6,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.642,U.S. City Average,BLS
+2021-07-01,2021,7,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.642,U.S. City Average,BLS
+2021-08-01,2021,8,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.709,U.S. City Average,BLS
+2021-09-01,2021,9,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.835,U.S. City Average,BLS
+2021-10-01,2021,10,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.821,U.S. City Average,BLS
+2021-11-01,2021,11,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.718,U.S. City Average,BLS
+2021-12-01,2021,12,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.788,U.S. City Average,BLS
+2022-01-01,2022,1,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,1.929,U.S. City Average,BLS
+2022-02-01,2022,2,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.005,U.S. City Average,BLS
+2022-03-01,2022,3,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.046,U.S. City Average,BLS
+2022-04-01,2022,4,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.52,U.S. City Average,BLS
+2022-05-01,2022,5,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.863,U.S. City Average,BLS
+2022-06-01,2022,6,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.707,U.S. City Average,BLS
+2022-07-01,2022,7,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.936,U.S. City Average,BLS
+2022-08-01,2022,8,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,3.116,U.S. City Average,BLS
+2022-09-01,2022,9,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.902,U.S. City Average,BLS
+2022-10-01,2022,10,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,3.419,U.S. City Average,BLS
+2022-11-01,2022,11,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,3.589,U.S. City Average,BLS
+2022-12-01,2022,12,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,4.25,U.S. City Average,BLS
+2023-01-01,2023,1,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,4.823,U.S. City Average,BLS
+2023-02-01,2023,2,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,4.211,U.S. City Average,BLS
+2023-03-01,2023,3,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,3.446,U.S. City Average,BLS
+2023-04-01,2023,4,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,3.27,U.S. City Average,BLS
+2023-05-01,2023,5,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.666,U.S. City Average,BLS
+2023-06-01,2023,6,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.219,U.S. City Average,BLS
+2023-07-01,2023,7,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.094,U.S. City Average,BLS
+2023-08-01,2023,8,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.043,U.S. City Average,BLS
+2023-09-01,2023,9,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.065,U.S. City Average,BLS
+2023-10-01,2023,10,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.072,U.S. City Average,BLS
+2023-11-01,2023,11,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.138,U.S. City Average,BLS
+2023-12-01,2023,12,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.507,U.S. City Average,BLS
+2024-01-01,2024,1,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.522,U.S. City Average,BLS
+2024-02-01,2024,2,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.996,U.S. City Average,BLS
+2024-03-01,2024,3,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.992,U.S. City Average,BLS
+2024-04-01,2024,4,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.864,U.S. City Average,BLS
+2024-05-01,2024,5,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.699,U.S. City Average,BLS
+2024-06-01,2024,6,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.715,U.S. City Average,BLS
+2024-07-01,2024,7,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,3.08,U.S. City Average,BLS
+2024-08-01,2024,8,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,3.204,U.S. City Average,BLS
+2024-09-01,2024,9,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,3.821,U.S. City Average,BLS
+2024-10-01,2024,10,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,3.37,U.S. City Average,BLS
+2024-11-01,2024,11,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,3.649,U.S. City Average,BLS
+2024-12-01,2024,12,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,4.146,U.S. City Average,BLS
+2025-01-01,2025,1,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,4.953,U.S. City Average,BLS
+2025-02-01,2025,2,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,5.897,U.S. City Average,BLS
+2025-03-01,2025,3,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,6.227,U.S. City Average,BLS
+2025-04-01,2025,4,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,5.122,U.S. City Average,BLS
+2025-05-01,2025,5,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,4.548,U.S. City Average,BLS
+2025-06-01,2025,6,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,3.775,U.S. City Average,BLS
+2025-07-01,2025,7,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,3.599,U.S. City Average,BLS
+2025-08-01,2025,8,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,3.587,U.S. City Average,BLS
+2025-09-01,2025,9,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,3.488,U.S. City Average,BLS
+2025-11-01,2025,11,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.86,U.S. City Average,BLS
+2025-12-01,2025,12,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.712,U.S. City Average,BLS
+2026-01-01,2026,1,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.577,U.S. City Average,BLS
+2026-02-01,2026,2,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.5,U.S. City Average,BLS
+2026-03-01,2026,3,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.348,U.S. City Average,BLS
+2026-04-01,2026,4,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.25,U.S. City Average,BLS
+2026-05-01,2026,5,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.191,U.S. City Average,BLS
+2026-06-01,2026,6,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.141,U.S. City Average,BLS
+2026-07-01,2026,7,APU0000708111,Eggs,"Eggs, Grade A, large",dozen,2.189,U.S. City Average,BLS
+2017-01-01,2017,1,APU0000701111,Flour,"Flour, white, all purpose",pound,0.53,U.S. City Average,BLS
+2017-02-01,2017,2,APU0000701111,Flour,"Flour, white, all purpose",pound,0.526,U.S. City Average,BLS
+2017-03-01,2017,3,APU0000701111,Flour,"Flour, white, all purpose",pound,0.531,U.S. City Average,BLS
+2017-04-01,2017,4,APU0000701111,Flour,"Flour, white, all purpose",pound,0.516,U.S. City Average,BLS
+2017-05-01,2017,5,APU0000701111,Flour,"Flour, white, all purpose",pound,0.517,U.S. City Average,BLS
+2017-06-01,2017,6,APU0000701111,Flour,"Flour, white, all purpose",pound,0.507,U.S. City Average,BLS
+2017-07-01,2017,7,APU0000701111,Flour,"Flour, white, all purpose",pound,0.512,U.S. City Average,BLS
+2017-08-01,2017,8,APU0000701111,Flour,"Flour, white, all purpose",pound,0.512,U.S. City Average,BLS
+2017-09-01,2017,9,APU0000701111,Flour,"Flour, white, all purpose",pound,0.505,U.S. City Average,BLS
+2017-10-01,2017,10,APU0000701111,Flour,"Flour, white, all purpose",pound,0.5,U.S. City Average,BLS
+2017-11-01,2017,11,APU0000701111,Flour,"Flour, white, all purpose",pound,0.469,U.S. City Average,BLS
+2017-12-01,2017,12,APU0000701111,Flour,"Flour, white, all purpose",pound,0.462,U.S. City Average,BLS
+2018-01-01,2018,1,APU0000701111,Flour,"Flour, white, all purpose",pound,0.471,U.S. City Average,BLS
+2018-02-01,2018,2,APU0000701111,Flour,"Flour, white, all purpose",pound,0.47,U.S. City Average,BLS
+2018-03-01,2018,3,APU0000701111,Flour,"Flour, white, all purpose",pound,0.468,U.S. City Average,BLS
+2018-04-01,2018,4,APU0000701111,Flour,"Flour, white, all purpose",pound,0.472,U.S. City Average,BLS
+2018-05-01,2018,5,APU0000701111,Flour,"Flour, white, all purpose",pound,0.469,U.S. City Average,BLS
+2018-06-01,2018,6,APU0000701111,Flour,"Flour, white, all purpose",pound,0.469,U.S. City Average,BLS
+2018-07-01,2018,7,APU0000701111,Flour,"Flour, white, all purpose",pound,0.468,U.S. City Average,BLS
+2018-08-01,2018,8,APU0000701111,Flour,"Flour, white, all purpose",pound,0.464,U.S. City Average,BLS
+2018-09-01,2018,9,APU0000701111,Flour,"Flour, white, all purpose",pound,0.467,U.S. City Average,BLS
+2018-10-01,2018,10,APU0000701111,Flour,"Flour, white, all purpose",pound,0.453,U.S. City Average,BLS
+2018-11-01,2018,11,APU0000701111,Flour,"Flour, white, all purpose",pound,0.433,U.S. City Average,BLS
+2018-12-01,2018,12,APU0000701111,Flour,"Flour, white, all purpose",pound,0.437,U.S. City Average,BLS
+2019-01-01,2019,1,APU0000701111,Flour,"Flour, white, all purpose",pound,0.439,U.S. City Average,BLS
+2019-02-01,2019,2,APU0000701111,Flour,"Flour, white, all purpose",pound,0.443,U.S. City Average,BLS
+2019-03-01,2019,3,APU0000701111,Flour,"Flour, white, all purpose",pound,0.445,U.S. City Average,BLS
+2019-04-01,2019,4,APU0000701111,Flour,"Flour, white, all purpose",pound,0.434,U.S. City Average,BLS
+2019-05-01,2019,5,APU0000701111,Flour,"Flour, white, all purpose",pound,0.454,U.S. City Average,BLS
+2019-06-01,2019,6,APU0000701111,Flour,"Flour, white, all purpose",pound,0.448,U.S. City Average,BLS
+2019-07-01,2019,7,APU0000701111,Flour,"Flour, white, all purpose",pound,0.454,U.S. City Average,BLS
+2019-08-01,2019,8,APU0000701111,Flour,"Flour, white, all purpose",pound,0.45,U.S. City Average,BLS
+2019-09-01,2019,9,APU0000701111,Flour,"Flour, white, all purpose",pound,0.449,U.S. City Average,BLS
+2019-10-01,2019,10,APU0000701111,Flour,"Flour, white, all purpose",pound,0.432,U.S. City Average,BLS
+2019-11-01,2019,11,APU0000701111,Flour,"Flour, white, all purpose",pound,0.417,U.S. City Average,BLS
+2019-12-01,2019,12,APU0000701111,Flour,"Flour, white, all purpose",pound,0.429,U.S. City Average,BLS
+2020-01-01,2020,1,APU0000701111,Flour,"Flour, white, all purpose",pound,0.438,U.S. City Average,BLS
+2020-02-01,2020,2,APU0000701111,Flour,"Flour, white, all purpose",pound,0.438,U.S. City Average,BLS
+2020-03-01,2020,3,APU0000701111,Flour,"Flour, white, all purpose",pound,0.442,U.S. City Average,BLS
+2020-05-01,2020,5,APU0000701111,Flour,"Flour, white, all purpose",pound,0.461,U.S. City Average,BLS
+2020-06-01,2020,6,APU0000701111,Flour,"Flour, white, all purpose",pound,0.468,U.S. City Average,BLS
+2020-07-01,2020,7,APU0000701111,Flour,"Flour, white, all purpose",pound,0.461,U.S. City Average,BLS
+2020-08-01,2020,8,APU0000701111,Flour,"Flour, white, all purpose",pound,0.459,U.S. City Average,BLS
+2020-09-01,2020,9,APU0000701111,Flour,"Flour, white, all purpose",pound,0.451,U.S. City Average,BLS
+2020-10-01,2020,10,APU0000701111,Flour,"Flour, white, all purpose",pound,0.452,U.S. City Average,BLS
+2020-11-01,2020,11,APU0000701111,Flour,"Flour, white, all purpose",pound,0.445,U.S. City Average,BLS
+2020-12-01,2020,12,APU0000701111,Flour,"Flour, white, all purpose",pound,0.45,U.S. City Average,BLS
+2021-01-01,2021,1,APU0000701111,Flour,"Flour, white, all purpose",pound,0.446,U.S. City Average,BLS
+2021-02-01,2021,2,APU0000701111,Flour,"Flour, white, all purpose",pound,0.44,U.S. City Average,BLS
+2021-03-01,2021,3,APU0000701111,Flour,"Flour, white, all purpose",pound,0.436,U.S. City Average,BLS
+2021-04-01,2021,4,APU0000701111,Flour,"Flour, white, all purpose",pound,0.437,U.S. City Average,BLS
+2021-05-01,2021,5,APU0000701111,Flour,"Flour, white, all purpose",pound,0.439,U.S. City Average,BLS
+2021-06-01,2021,6,APU0000701111,Flour,"Flour, white, all purpose",pound,0.356,U.S. City Average,BLS
+2021-07-01,2021,7,APU0000701111,Flour,"Flour, white, all purpose",pound,0.368,U.S. City Average,BLS
+2021-08-01,2021,8,APU0000701111,Flour,"Flour, white, all purpose",pound,0.371,U.S. City Average,BLS
+2021-09-01,2021,9,APU0000701111,Flour,"Flour, white, all purpose",pound,0.382,U.S. City Average,BLS
+2021-10-01,2021,10,APU0000701111,Flour,"Flour, white, all purpose",pound,0.396,U.S. City Average,BLS
+2021-11-01,2021,11,APU0000701111,Flour,"Flour, white, all purpose",pound,0.386,U.S. City Average,BLS
+2021-12-01,2021,12,APU0000701111,Flour,"Flour, white, all purpose",pound,0.388,U.S. City Average,BLS
+2022-01-01,2022,1,APU0000701111,Flour,"Flour, white, all purpose",pound,0.424,U.S. City Average,BLS
+2022-02-01,2022,2,APU0000701111,Flour,"Flour, white, all purpose",pound,0.428,U.S. City Average,BLS
+2022-03-01,2022,3,APU0000701111,Flour,"Flour, white, all purpose",pound,0.448,U.S. City Average,BLS
+2022-04-01,2022,4,APU0000701111,Flour,"Flour, white, all purpose",pound,0.455,U.S. City Average,BLS
+2022-05-01,2022,5,APU0000701111,Flour,"Flour, white, all purpose",pound,0.456,U.S. City Average,BLS
+2022-06-01,2022,6,APU0000701111,Flour,"Flour, white, all purpose",pound,0.498,U.S. City Average,BLS
+2022-07-01,2022,7,APU0000701111,Flour,"Flour, white, all purpose",pound,0.533,U.S. City Average,BLS
+2022-08-01,2022,8,APU0000701111,Flour,"Flour, white, all purpose",pound,0.549,U.S. City Average,BLS
+2022-09-01,2022,9,APU0000701111,Flour,"Flour, white, all purpose",pound,0.556,U.S. City Average,BLS
+2022-10-01,2022,10,APU0000701111,Flour,"Flour, white, all purpose",pound,0.534,U.S. City Average,BLS
+2022-11-01,2022,11,APU0000701111,Flour,"Flour, white, all purpose",pound,0.524,U.S. City Average,BLS
+2022-12-01,2022,12,APU0000701111,Flour,"Flour, white, all purpose",pound,0.522,U.S. City Average,BLS
+2023-01-01,2023,1,APU0000701111,Flour,"Flour, white, all purpose",pound,0.54,U.S. City Average,BLS
+2023-02-01,2023,2,APU0000701111,Flour,"Flour, white, all purpose",pound,0.55,U.S. City Average,BLS
+2023-03-01,2023,3,APU0000701111,Flour,"Flour, white, all purpose",pound,0.546,U.S. City Average,BLS
+2023-04-01,2023,4,APU0000701111,Flour,"Flour, white, all purpose",pound,0.542,U.S. City Average,BLS
+2023-05-01,2023,5,APU0000701111,Flour,"Flour, white, all purpose",pound,0.544,U.S. City Average,BLS
+2023-06-01,2023,6,APU0000701111,Flour,"Flour, white, all purpose",pound,0.551,U.S. City Average,BLS
+2023-07-01,2023,7,APU0000701111,Flour,"Flour, white, all purpose",pound,0.564,U.S. City Average,BLS
+2023-08-01,2023,8,APU0000701111,Flour,"Flour, white, all purpose",pound,0.566,U.S. City Average,BLS
+2023-09-01,2023,9,APU0000701111,Flour,"Flour, white, all purpose",pound,0.565,U.S. City Average,BLS
+2023-10-01,2023,10,APU0000701111,Flour,"Flour, white, all purpose",pound,0.562,U.S. City Average,BLS
+2023-11-01,2023,11,APU0000701111,Flour,"Flour, white, all purpose",pound,0.541,U.S. City Average,BLS
+2023-12-01,2023,12,APU0000701111,Flour,"Flour, white, all purpose",pound,0.538,U.S. City Average,BLS
+2024-01-01,2024,1,APU0000701111,Flour,"Flour, white, all purpose",pound,0.554,U.S. City Average,BLS
+2024-02-01,2024,2,APU0000701111,Flour,"Flour, white, all purpose",pound,0.558,U.S. City Average,BLS
+2024-03-01,2024,3,APU0000701111,Flour,"Flour, white, all purpose",pound,0.565,U.S. City Average,BLS
+2024-04-01,2024,4,APU0000701111,Flour,"Flour, white, all purpose",pound,0.574,U.S. City Average,BLS
+2024-05-01,2024,5,APU0000701111,Flour,"Flour, white, all purpose",pound,0.57,U.S. City Average,BLS
+2024-06-01,2024,6,APU0000701111,Flour,"Flour, white, all purpose",pound,0.575,U.S. City Average,BLS
+2024-07-01,2024,7,APU0000701111,Flour,"Flour, white, all purpose",pound,0.574,U.S. City Average,BLS
+2024-08-01,2024,8,APU0000701111,Flour,"Flour, white, all purpose",pound,0.574,U.S. City Average,BLS
+2024-09-01,2024,9,APU0000701111,Flour,"Flour, white, all purpose",pound,0.573,U.S. City Average,BLS
+2024-10-01,2024,10,APU0000701111,Flour,"Flour, white, all purpose",pound,0.566,U.S. City Average,BLS
+2024-11-01,2024,11,APU0000701111,Flour,"Flour, white, all purpose",pound,0.552,U.S. City Average,BLS
+2024-12-01,2024,12,APU0000701111,Flour,"Flour, white, all purpose",pound,0.548,U.S. City Average,BLS
+2025-01-01,2025,1,APU0000701111,Flour,"Flour, white, all purpose",pound,0.561,U.S. City Average,BLS
+2025-02-01,2025,2,APU0000701111,Flour,"Flour, white, all purpose",pound,0.561,U.S. City Average,BLS
+2025-03-01,2025,3,APU0000701111,Flour,"Flour, white, all purpose",pound,0.565,U.S. City Average,BLS
+2025-04-01,2025,4,APU0000701111,Flour,"Flour, white, all purpose",pound,0.557,U.S. City Average,BLS
+2025-05-01,2025,5,APU0000701111,Flour,"Flour, white, all purpose",pound,0.562,U.S. City Average,BLS
+2025-06-01,2025,6,APU0000701111,Flour,"Flour, white, all purpose",pound,0.574,U.S. City Average,BLS
+2025-07-01,2025,7,APU0000701111,Flour,"Flour, white, all purpose",pound,0.557,U.S. City Average,BLS
+2025-08-01,2025,8,APU0000701111,Flour,"Flour, white, all purpose",pound,0.557,U.S. City Average,BLS
+2025-09-01,2025,9,APU0000701111,Flour,"Flour, white, all purpose",pound,0.563,U.S. City Average,BLS
+2025-11-01,2025,11,APU0000701111,Flour,"Flour, white, all purpose",pound,0.552,U.S. City Average,BLS
+2025-12-01,2025,12,APU0000701111,Flour,"Flour, white, all purpose",pound,0.554,U.S. City Average,BLS
+2026-01-01,2026,1,APU0000701111,Flour,"Flour, white, all purpose",pound,0.565,U.S. City Average,BLS
+2026-02-01,2026,2,APU0000701111,Flour,"Flour, white, all purpose",pound,0.549,U.S. City Average,BLS
+2026-03-01,2026,3,APU0000701111,Flour,"Flour, white, all purpose",pound,0.549,U.S. City Average,BLS
+2026-04-01,2026,4,APU0000701111,Flour,"Flour, white, all purpose",pound,0.543,U.S. City Average,BLS
+2026-05-01,2026,5,APU0000701111,Flour,"Flour, white, all purpose",pound,0.544,U.S. City Average,BLS
+2026-06-01,2026,6,APU0000701111,Flour,"Flour, white, all purpose",pound,0.544,U.S. City Average,BLS
+2026-07-01,2026,7,APU0000701111,Flour,"Flour, white, all purpose",pound,0.543,U.S. City Average,BLS
+2017-01-01,2017,1,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.057,U.S. City Average,BLS
+2017-02-01,2017,2,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.029,U.S. City Average,BLS
+2017-03-01,2017,3,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.067,U.S. City Average,BLS
+2017-04-01,2017,4,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.078,U.S. City Average,BLS
+2017-05-01,2017,5,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.078,U.S. City Average,BLS
+2017-06-01,2017,6,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.16,U.S. City Average,BLS
+2017-07-01,2017,7,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.212,U.S. City Average,BLS
+2017-08-01,2017,8,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.207,U.S. City Average,BLS
+2017-09-01,2017,9,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.207,U.S. City Average,BLS
+2017-10-01,2017,10,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.1,U.S. City Average,BLS
+2017-11-01,2017,11,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.102,U.S. City Average,BLS
+2017-12-01,2017,12,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.128,U.S. City Average,BLS
+2018-01-01,2018,1,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.068,U.S. City Average,BLS
+2018-02-01,2018,2,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.07,U.S. City Average,BLS
+2018-03-01,2018,3,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.099,U.S. City Average,BLS
+2018-04-01,2018,4,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.155,U.S. City Average,BLS
+2018-05-01,2018,5,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.079,U.S. City Average,BLS
+2018-06-01,2018,6,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.115,U.S. City Average,BLS
+2018-07-01,2018,7,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.149,U.S. City Average,BLS
+2018-08-01,2018,8,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.155,U.S. City Average,BLS
+2018-09-01,2018,9,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.12,U.S. City Average,BLS
+2018-10-01,2018,10,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.091,U.S. City Average,BLS
+2018-11-01,2018,11,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.166,U.S. City Average,BLS
+2018-12-01,2018,12,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.139,U.S. City Average,BLS
+2019-01-01,2019,1,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.173,U.S. City Average,BLS
+2019-02-01,2019,2,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.169,U.S. City Average,BLS
+2019-03-01,2019,3,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.138,U.S. City Average,BLS
+2019-04-01,2019,4,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.198,U.S. City Average,BLS
+2019-05-01,2019,5,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.277,U.S. City Average,BLS
+2019-06-01,2019,6,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.231,U.S. City Average,BLS
+2019-07-01,2019,7,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.258,U.S. City Average,BLS
+2019-08-01,2019,8,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.249,U.S. City Average,BLS
+2019-09-01,2019,9,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.209,U.S. City Average,BLS
+2019-10-01,2019,10,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.262,U.S. City Average,BLS
+2019-11-01,2019,11,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.241,U.S. City Average,BLS
+2019-12-01,2019,12,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.3,U.S. City Average,BLS
+2020-01-01,2020,1,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.343,U.S. City Average,BLS
+2020-02-01,2020,2,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.298,U.S. City Average,BLS
+2020-03-01,2020,3,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.355,U.S. City Average,BLS
+2020-04-01,2020,4,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.556,U.S. City Average,BLS
+2020-05-01,2020,5,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.931,U.S. City Average,BLS
+2020-06-01,2020,6,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.291,U.S. City Average,BLS
+2020-07-01,2020,7,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.84,U.S. City Average,BLS
+2020-08-01,2020,8,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.64,U.S. City Average,BLS
+2020-09-01,2020,9,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.547,U.S. City Average,BLS
+2020-10-01,2020,10,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.552,U.S. City Average,BLS
+2020-11-01,2020,11,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.596,U.S. City Average,BLS
+2020-12-01,2020,12,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.555,U.S. City Average,BLS
+2021-01-01,2021,1,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.543,U.S. City Average,BLS
+2021-02-01,2021,2,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.556,U.S. City Average,BLS
+2021-03-01,2021,3,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.648,U.S. City Average,BLS
+2021-04-01,2021,4,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.656,U.S. City Average,BLS
+2021-05-01,2021,5,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.703,U.S. City Average,BLS
+2021-06-01,2021,6,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.869,U.S. City Average,BLS
+2021-07-01,2021,7,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.846,U.S. City Average,BLS
+2021-08-01,2021,8,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,4.964,U.S. City Average,BLS
+2021-09-01,2021,9,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.051,U.S. City Average,BLS
+2021-10-01,2021,10,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.237,U.S. City Average,BLS
+2021-11-01,2021,11,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.261,U.S. City Average,BLS
+2021-12-01,2021,12,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.174,U.S. City Average,BLS
+2022-01-01,2022,1,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.17,U.S. City Average,BLS
+2022-02-01,2022,2,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.199,U.S. City Average,BLS
+2022-03-01,2022,3,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.342,U.S. City Average,BLS
+2022-04-01,2022,4,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.414,U.S. City Average,BLS
+2022-05-01,2022,5,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.332,U.S. City Average,BLS
+2022-06-01,2022,6,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.402,U.S. City Average,BLS
+2022-07-01,2022,7,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.426,U.S. City Average,BLS
+2022-08-01,2022,8,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.456,U.S. City Average,BLS
+2022-09-01,2022,9,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.332,U.S. City Average,BLS
+2022-10-01,2022,10,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.298,U.S. City Average,BLS
+2022-11-01,2022,11,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.206,U.S. City Average,BLS
+2022-12-01,2022,12,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.186,U.S. City Average,BLS
+2023-01-01,2023,1,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.171,U.S. City Average,BLS
+2023-02-01,2023,2,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.207,U.S. City Average,BLS
+2023-03-01,2023,3,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.194,U.S. City Average,BLS
+2023-04-01,2023,4,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.247,U.S. City Average,BLS
+2023-05-01,2023,5,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.355,U.S. City Average,BLS
+2023-06-01,2023,6,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.435,U.S. City Average,BLS
+2023-07-01,2023,7,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.537,U.S. City Average,BLS
+2023-08-01,2023,8,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.554,U.S. City Average,BLS
+2023-09-01,2023,9,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.57,U.S. City Average,BLS
+2023-10-01,2023,10,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.666,U.S. City Average,BLS
+2023-11-01,2023,11,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.643,U.S. City Average,BLS
+2023-12-01,2023,12,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.566,U.S. City Average,BLS
+2024-01-01,2024,1,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.475,U.S. City Average,BLS
+2024-02-01,2024,2,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.479,U.S. City Average,BLS
+2024-03-01,2024,3,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.522,U.S. City Average,BLS
+2024-04-01,2024,4,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.561,U.S. City Average,BLS
+2024-05-01,2024,5,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.603,U.S. City Average,BLS
+2024-06-01,2024,6,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.712,U.S. City Average,BLS
+2024-07-01,2024,7,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.799,U.S. City Average,BLS
+2024-08-01,2024,8,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.867,U.S. City Average,BLS
+2024-09-01,2024,9,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.917,U.S. City Average,BLS
+2024-10-01,2024,10,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.887,U.S. City Average,BLS
+2024-11-01,2024,11,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.874,U.S. City Average,BLS
+2024-12-01,2024,12,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.863,U.S. City Average,BLS
+2025-01-01,2025,1,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.82,U.S. City Average,BLS
+2025-02-01,2025,2,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,5.961,U.S. City Average,BLS
+2025-03-01,2025,3,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,6.137,U.S. City Average,BLS
+2025-04-01,2025,4,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,6.142,U.S. City Average,BLS
+2025-05-01,2025,5,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,6.245,U.S. City Average,BLS
+2025-06-01,2025,6,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,6.342,U.S. City Average,BLS
+2025-07-01,2025,7,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,6.504,U.S. City Average,BLS
+2025-08-01,2025,8,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,6.631,U.S. City Average,BLS
+2025-09-01,2025,9,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,6.643,U.S. City Average,BLS
+2025-11-01,2025,11,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,6.781,U.S. City Average,BLS
+2025-12-01,2025,12,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,6.821,U.S. City Average,BLS
+2026-01-01,2026,1,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,6.868,U.S. City Average,BLS
+2026-02-01,2026,2,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,6.895,U.S. City Average,BLS
+2026-03-01,2026,3,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,6.863,U.S. City Average,BLS
+2026-04-01,2026,4,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,7.056,U.S. City Average,BLS
+2026-05-01,2026,5,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,7.064,U.S. City Average,BLS
+2026-06-01,2026,6,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,7.141,U.S. City Average,BLS
+2026-07-01,2026,7,APU0000FC1101,Ground Beef,All uncooked ground beef,pound,7.116,U.S. City Average,BLS
+2017-01-01,2017,1,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.318,U.S. City Average,BLS
+2017-02-01,2017,2,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.3,U.S. City Average,BLS
+2017-03-01,2017,3,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.315,U.S. City Average,BLS
+2017-04-01,2017,4,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.259,U.S. City Average,BLS
+2017-05-01,2017,5,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.242,U.S. City Average,BLS
+2017-06-01,2017,6,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.213,U.S. City Average,BLS
+2017-07-01,2017,7,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.219,U.S. City Average,BLS
+2017-08-01,2017,8,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.168,U.S. City Average,BLS
+2017-09-01,2017,9,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.209,U.S. City Average,BLS
+2017-10-01,2017,10,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.158,U.S. City Average,BLS
+2017-11-01,2017,11,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.15,U.S. City Average,BLS
+2017-12-01,2017,12,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.155,U.S. City Average,BLS
+2018-01-01,2018,1,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,2.961,U.S. City Average,BLS
+2018-02-01,2018,2,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,2.923,U.S. City Average,BLS
+2018-03-01,2018,3,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,2.903,U.S. City Average,BLS
+2018-04-01,2018,4,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,2.924,U.S. City Average,BLS
+2018-05-01,2018,5,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,2.919,U.S. City Average,BLS
+2018-06-01,2018,6,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,2.877,U.S. City Average,BLS
+2018-07-01,2018,7,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,2.839,U.S. City Average,BLS
+2018-08-01,2018,8,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,2.871,U.S. City Average,BLS
+2018-09-01,2018,9,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,2.89,U.S. City Average,BLS
+2018-10-01,2018,10,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,2.913,U.S. City Average,BLS
+2018-11-01,2018,11,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,2.877,U.S. City Average,BLS
+2018-12-01,2018,12,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,2.853,U.S. City Average,BLS
+2019-01-01,2019,1,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,2.913,U.S. City Average,BLS
+2019-02-01,2019,2,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,2.9,U.S. City Average,BLS
+2019-03-01,2019,3,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,2.944,U.S. City Average,BLS
+2019-04-01,2019,4,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,2.98,U.S. City Average,BLS
+2019-05-01,2019,5,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,2.963,U.S. City Average,BLS
+2019-06-01,2019,6,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.054,U.S. City Average,BLS
+2019-07-01,2019,7,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.031,U.S. City Average,BLS
+2019-08-01,2019,8,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.045,U.S. City Average,BLS
+2019-09-01,2019,9,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.102,U.S. City Average,BLS
+2019-10-01,2019,10,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.119,U.S. City Average,BLS
+2019-11-01,2019,11,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.189,U.S. City Average,BLS
+2019-12-01,2019,12,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.188,U.S. City Average,BLS
+2020-01-01,2020,1,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.253,U.S. City Average,BLS
+2020-02-01,2020,2,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.196,U.S. City Average,BLS
+2020-03-01,2020,3,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.248,U.S. City Average,BLS
+2020-04-01,2020,4,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.267,U.S. City Average,BLS
+2020-05-01,2020,5,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.21,U.S. City Average,BLS
+2020-06-01,2020,6,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.198,U.S. City Average,BLS
+2020-07-01,2020,7,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.255,U.S. City Average,BLS
+2020-08-01,2020,8,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.406,U.S. City Average,BLS
+2020-09-01,2020,9,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.448,U.S. City Average,BLS
+2020-10-01,2020,10,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.38,U.S. City Average,BLS
+2020-11-01,2020,11,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.425,U.S. City Average,BLS
+2020-12-01,2020,12,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.535,U.S. City Average,BLS
+2021-01-01,2021,1,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.468,U.S. City Average,BLS
+2021-02-01,2021,2,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.368,U.S. City Average,BLS
+2021-03-01,2021,3,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.348,U.S. City Average,BLS
+2021-04-01,2021,4,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.447,U.S. City Average,BLS
+2021-05-01,2021,5,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.497,U.S. City Average,BLS
+2021-06-01,2021,6,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.557,U.S. City Average,BLS
+2021-07-01,2021,7,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.627,U.S. City Average,BLS
+2021-08-01,2021,8,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.56,U.S. City Average,BLS
+2021-09-01,2021,9,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.585,U.S. City Average,BLS
+2021-10-01,2021,10,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.663,U.S. City Average,BLS
+2021-11-01,2021,11,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.671,U.S. City Average,BLS
+2021-12-01,2021,12,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.743,U.S. City Average,BLS
+2022-01-01,2022,1,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.787,U.S. City Average,BLS
+2022-02-01,2022,2,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.875,U.S. City Average,BLS
+2022-03-01,2022,3,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.917,U.S. City Average,BLS
+2022-04-01,2022,4,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.012,U.S. City Average,BLS
+2022-05-01,2022,5,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.204,U.S. City Average,BLS
+2022-06-01,2022,6,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.153,U.S. City Average,BLS
+2022-07-01,2022,7,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.156,U.S. City Average,BLS
+2022-08-01,2022,8,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.194,U.S. City Average,BLS
+2022-09-01,2022,9,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.181,U.S. City Average,BLS
+2022-10-01,2022,10,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.184,U.S. City Average,BLS
+2022-11-01,2022,11,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.218,U.S. City Average,BLS
+2022-12-01,2022,12,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.211,U.S. City Average,BLS
+2023-01-01,2023,1,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.204,U.S. City Average,BLS
+2023-02-01,2023,2,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.163,U.S. City Average,BLS
+2023-03-01,2023,3,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.098,U.S. City Average,BLS
+2023-04-01,2023,4,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.042,U.S. City Average,BLS
+2023-05-01,2023,5,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.042,U.S. City Average,BLS
+2023-06-01,2023,6,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.985,U.S. City Average,BLS
+2023-07-01,2023,7,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.971,U.S. City Average,BLS
+2023-08-01,2023,8,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.927,U.S. City Average,BLS
+2023-09-01,2023,9,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.965,U.S. City Average,BLS
+2023-10-01,2023,10,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.927,U.S. City Average,BLS
+2023-11-01,2023,11,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.997,U.S. City Average,BLS
+2023-12-01,2023,12,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.008,U.S. City Average,BLS
+2024-01-01,2024,1,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.958,U.S. City Average,BLS
+2024-02-01,2024,2,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.94,U.S. City Average,BLS
+2024-03-01,2024,3,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.893,U.S. City Average,BLS
+2024-04-01,2024,4,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.868,U.S. City Average,BLS
+2024-05-01,2024,5,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.864,U.S. City Average,BLS
+2024-06-01,2024,6,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.956,U.S. City Average,BLS
+2024-07-01,2024,7,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.983,U.S. City Average,BLS
+2024-08-01,2024,8,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.044,U.S. City Average,BLS
+2024-09-01,2024,9,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.021,U.S. City Average,BLS
+2024-10-01,2024,10,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.041,U.S. City Average,BLS
+2024-11-01,2024,11,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.138,U.S. City Average,BLS
+2024-12-01,2024,12,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.101,U.S. City Average,BLS
+2025-01-01,2025,1,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.025,U.S. City Average,BLS
+2025-02-01,2025,2,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.026,U.S. City Average,BLS
+2025-03-01,2025,3,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.05,U.S. City Average,BLS
+2025-04-01,2025,4,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.074,U.S. City Average,BLS
+2025-05-01,2025,5,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.022,U.S. City Average,BLS
+2025-06-01,2025,6,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.029,U.S. City Average,BLS
+2025-07-01,2025,7,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.162,U.S. City Average,BLS
+2025-08-01,2025,8,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.171,U.S. City Average,BLS
+2025-09-01,2025,9,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.129,U.S. City Average,BLS
+2025-11-01,2025,11,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,3.997,U.S. City Average,BLS
+2025-12-01,2025,12,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.047,U.S. City Average,BLS
+2026-01-01,2026,1,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.1,U.S. City Average,BLS
+2026-02-01,2026,2,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.026,U.S. City Average,BLS
+2026-03-01,2026,3,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.067,U.S. City Average,BLS
+2026-04-01,2026,4,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.136,U.S. City Average,BLS
+2026-05-01,2026,5,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.217,U.S. City Average,BLS
+2026-06-01,2026,6,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.317,U.S. City Average,BLS
+2026-07-01,2026,7,APU0000709112,Milk,"Milk, fresh, whole, fortified",gallon,4.313,U.S. City Average,BLS
+2017-01-01,2017,1,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.31,U.S. City Average,BLS
+2017-02-01,2017,2,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.29,U.S. City Average,BLS
+2017-03-01,2017,3,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.265,U.S. City Average,BLS
+2017-04-01,2017,4,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.271,U.S. City Average,BLS
+2017-05-01,2017,5,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.272,U.S. City Average,BLS
+2017-06-01,2017,6,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.281,U.S. City Average,BLS
+2017-07-01,2017,7,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.294,U.S. City Average,BLS
+2017-08-01,2017,8,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.305,U.S. City Average,BLS
+2017-09-01,2017,9,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.299,U.S. City Average,BLS
+2017-10-01,2017,10,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.259,U.S. City Average,BLS
+2017-11-01,2017,11,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.242,U.S. City Average,BLS
+2017-12-01,2017,12,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.235,U.S. City Average,BLS
+2018-01-01,2018,1,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.218,U.S. City Average,BLS
+2018-02-01,2018,2,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.176,U.S. City Average,BLS
+2018-03-01,2018,3,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.187,U.S. City Average,BLS
+2018-04-01,2018,4,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.176,U.S. City Average,BLS
+2018-05-01,2018,5,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.143,U.S. City Average,BLS
+2018-06-01,2018,6,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.201,U.S. City Average,BLS
+2018-07-01,2018,7,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.204,U.S. City Average,BLS
+2018-08-01,2018,8,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.227,U.S. City Average,BLS
+2018-09-01,2018,9,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.2,U.S. City Average,BLS
+2018-10-01,2018,10,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.138,U.S. City Average,BLS
+2018-11-01,2018,11,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.196,U.S. City Average,BLS
+2018-12-01,2018,12,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.161,U.S. City Average,BLS
+2019-01-01,2019,1,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.217,U.S. City Average,BLS
+2019-02-01,2019,2,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.206,U.S. City Average,BLS
+2019-03-01,2019,3,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.237,U.S. City Average,BLS
+2019-04-01,2019,4,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.223,U.S. City Average,BLS
+2019-05-01,2019,5,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.197,U.S. City Average,BLS
+2019-06-01,2019,6,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.192,U.S. City Average,BLS
+2019-07-01,2019,7,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.198,U.S. City Average,BLS
+2019-08-01,2019,8,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.215,U.S. City Average,BLS
+2019-09-01,2019,9,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.184,U.S. City Average,BLS
+2019-10-01,2019,10,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.178,U.S. City Average,BLS
+2019-11-01,2019,11,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.231,U.S. City Average,BLS
+2019-12-01,2019,12,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.189,U.S. City Average,BLS
+2020-01-01,2020,1,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.225,U.S. City Average,BLS
+2020-02-01,2020,2,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.235,U.S. City Average,BLS
+2020-03-01,2020,3,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.238,U.S. City Average,BLS
+2020-04-01,2020,4,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.265,U.S. City Average,BLS
+2020-05-01,2020,5,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.26,U.S. City Average,BLS
+2020-06-01,2020,6,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.28,U.S. City Average,BLS
+2020-07-01,2020,7,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.295,U.S. City Average,BLS
+2020-08-01,2020,8,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.303,U.S. City Average,BLS
+2020-09-01,2020,9,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.256,U.S. City Average,BLS
+2020-10-01,2020,10,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.22,U.S. City Average,BLS
+2020-11-01,2020,11,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.262,U.S. City Average,BLS
+2020-12-01,2020,12,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.313,U.S. City Average,BLS
+2021-01-01,2021,1,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.314,U.S. City Average,BLS
+2021-02-01,2021,2,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.324,U.S. City Average,BLS
+2021-03-01,2021,3,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.341,U.S. City Average,BLS
+2021-04-01,2021,4,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.251,U.S. City Average,BLS
+2021-05-01,2021,5,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.336,U.S. City Average,BLS
+2021-06-01,2021,6,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.073,U.S. City Average,BLS
+2021-07-01,2021,7,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.094,U.S. City Average,BLS
+2021-08-01,2021,8,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.089,U.S. City Average,BLS
+2021-09-01,2021,9,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.077,U.S. City Average,BLS
+2021-10-01,2021,10,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.067,U.S. City Average,BLS
+2021-11-01,2021,11,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.093,U.S. City Average,BLS
+2021-12-01,2021,12,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.092,U.S. City Average,BLS
+2022-01-01,2022,1,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.116,U.S. City Average,BLS
+2022-02-01,2022,2,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.148,U.S. City Average,BLS
+2022-03-01,2022,3,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.182,U.S. City Average,BLS
+2022-04-01,2022,4,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.217,U.S. City Average,BLS
+2022-05-01,2022,5,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.291,U.S. City Average,BLS
+2022-06-01,2022,6,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.316,U.S. City Average,BLS
+2022-07-01,2022,7,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.349,U.S. City Average,BLS
+2022-08-01,2022,8,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.368,U.S. City Average,BLS
+2022-09-01,2022,9,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.357,U.S. City Average,BLS
+2022-10-01,2022,10,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.349,U.S. City Average,BLS
+2022-11-01,2022,11,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.428,U.S. City Average,BLS
+2022-12-01,2022,12,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.434,U.S. City Average,BLS
+2023-01-01,2023,1,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.475,U.S. City Average,BLS
+2023-02-01,2023,2,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.486,U.S. City Average,BLS
+2023-03-01,2023,3,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.465,U.S. City Average,BLS
+2023-04-01,2023,4,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.461,U.S. City Average,BLS
+2023-05-01,2023,5,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.458,U.S. City Average,BLS
+2023-06-01,2023,6,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.466,U.S. City Average,BLS
+2023-07-01,2023,7,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.42,U.S. City Average,BLS
+2023-08-01,2023,8,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.404,U.S. City Average,BLS
+2023-09-01,2023,9,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.41,U.S. City Average,BLS
+2023-10-01,2023,10,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.4,U.S. City Average,BLS
+2023-11-01,2023,11,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.369,U.S. City Average,BLS
+2023-12-01,2023,12,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.377,U.S. City Average,BLS
+2024-01-01,2024,1,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.425,U.S. City Average,BLS
+2024-02-01,2024,2,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.432,U.S. City Average,BLS
+2024-03-01,2024,3,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.42,U.S. City Average,BLS
+2024-04-01,2024,4,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.422,U.S. City Average,BLS
+2024-05-01,2024,5,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.377,U.S. City Average,BLS
+2024-06-01,2024,6,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.435,U.S. City Average,BLS
+2024-07-01,2024,7,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.432,U.S. City Average,BLS
+2024-08-01,2024,8,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.421,U.S. City Average,BLS
+2024-09-01,2024,9,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.431,U.S. City Average,BLS
+2024-10-01,2024,10,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.445,U.S. City Average,BLS
+2024-11-01,2024,11,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.367,U.S. City Average,BLS
+2024-12-01,2024,12,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.38,U.S. City Average,BLS
+2025-01-01,2025,1,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.366,U.S. City Average,BLS
+2025-02-01,2025,2,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.381,U.S. City Average,BLS
+2025-03-01,2025,3,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.379,U.S. City Average,BLS
+2025-04-01,2025,4,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.361,U.S. City Average,BLS
+2025-05-01,2025,5,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.322,U.S. City Average,BLS
+2025-06-01,2025,6,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.318,U.S. City Average,BLS
+2025-07-01,2025,7,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.306,U.S. City Average,BLS
+2025-08-01,2025,8,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.294,U.S. City Average,BLS
+2025-09-01,2025,9,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.205,U.S. City Average,BLS
+2025-11-01,2025,11,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.3,U.S. City Average,BLS
+2025-12-01,2025,12,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.311,U.S. City Average,BLS
+2026-01-01,2026,1,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.325,U.S. City Average,BLS
+2026-02-01,2026,2,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.323,U.S. City Average,BLS
+2026-03-01,2026,3,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.308,U.S. City Average,BLS
+2026-04-01,2026,4,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.343,U.S. City Average,BLS
+2026-05-01,2026,5,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.374,U.S. City Average,BLS
+2026-06-01,2026,6,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.367,U.S. City Average,BLS
+2026-07-01,2026,7,APU0000701322,Pasta,Spaghetti and macaroni,pound,1.381,U.S. City Average,BLS
+2017-01-01,2017,1,APU0000718311,Potato Chips,Potato chips,pound,4.39,U.S. City Average,BLS
+2017-02-01,2017,2,APU0000718311,Potato Chips,Potato chips,pound,4.334,U.S. City Average,BLS
+2017-03-01,2017,3,APU0000718311,Potato Chips,Potato chips,pound,4.365,U.S. City Average,BLS
+2017-04-01,2017,4,APU0000718311,Potato Chips,Potato chips,pound,4.369,U.S. City Average,BLS
+2017-05-01,2017,5,APU0000718311,Potato Chips,Potato chips,pound,4.439,U.S. City Average,BLS
+2017-06-01,2017,6,APU0000718311,Potato Chips,Potato chips,pound,4.428,U.S. City Average,BLS
+2017-07-01,2017,7,APU0000718311,Potato Chips,Potato chips,pound,4.391,U.S. City Average,BLS
+2017-08-01,2017,8,APU0000718311,Potato Chips,Potato chips,pound,4.37,U.S. City Average,BLS
+2017-09-01,2017,9,APU0000718311,Potato Chips,Potato chips,pound,4.389,U.S. City Average,BLS
+2017-10-01,2017,10,APU0000718311,Potato Chips,Potato chips,pound,4.48,U.S. City Average,BLS
+2017-11-01,2017,11,APU0000718311,Potato Chips,Potato chips,pound,4.521,U.S. City Average,BLS
+2017-12-01,2017,12,APU0000718311,Potato Chips,Potato chips,pound,4.431,U.S. City Average,BLS
+2018-01-01,2018,1,APU0000718311,Potato Chips,Potato chips,pound,4.386,U.S. City Average,BLS
+2018-02-01,2018,2,APU0000718311,Potato Chips,Potato chips,pound,4.344,U.S. City Average,BLS
+2018-03-01,2018,3,APU0000718311,Potato Chips,Potato chips,pound,4.446,U.S. City Average,BLS
+2018-04-01,2018,4,APU0000718311,Potato Chips,Potato chips,pound,4.448,U.S. City Average,BLS
+2018-05-01,2018,5,APU0000718311,Potato Chips,Potato chips,pound,4.491,U.S. City Average,BLS
+2018-06-01,2018,6,APU0000718311,Potato Chips,Potato chips,pound,4.441,U.S. City Average,BLS
+2018-07-01,2018,7,APU0000718311,Potato Chips,Potato chips,pound,4.407,U.S. City Average,BLS
+2018-08-01,2018,8,APU0000718311,Potato Chips,Potato chips,pound,4.446,U.S. City Average,BLS
+2018-09-01,2018,9,APU0000718311,Potato Chips,Potato chips,pound,4.432,U.S. City Average,BLS
+2018-10-01,2018,10,APU0000718311,Potato Chips,Potato chips,pound,4.473,U.S. City Average,BLS
+2018-11-01,2018,11,APU0000718311,Potato Chips,Potato chips,pound,4.59,U.S. City Average,BLS
+2018-12-01,2018,12,APU0000718311,Potato Chips,Potato chips,pound,4.447,U.S. City Average,BLS
+2019-01-01,2019,1,APU0000718311,Potato Chips,Potato chips,pound,4.432,U.S. City Average,BLS
+2019-02-01,2019,2,APU0000718311,Potato Chips,Potato chips,pound,4.503,U.S. City Average,BLS
+2019-03-01,2019,3,APU0000718311,Potato Chips,Potato chips,pound,4.587,U.S. City Average,BLS
+2019-04-01,2019,4,APU0000718311,Potato Chips,Potato chips,pound,4.508,U.S. City Average,BLS
+2019-05-01,2019,5,APU0000718311,Potato Chips,Potato chips,pound,4.407,U.S. City Average,BLS
+2019-06-01,2019,6,APU0000718311,Potato Chips,Potato chips,pound,4.452,U.S. City Average,BLS
+2019-07-01,2019,7,APU0000718311,Potato Chips,Potato chips,pound,4.377,U.S. City Average,BLS
+2019-08-01,2019,8,APU0000718311,Potato Chips,Potato chips,pound,4.382,U.S. City Average,BLS
+2019-09-01,2019,9,APU0000718311,Potato Chips,Potato chips,pound,4.561,U.S. City Average,BLS
+2019-10-01,2019,10,APU0000718311,Potato Chips,Potato chips,pound,4.389,U.S. City Average,BLS
+2019-11-01,2019,11,APU0000718311,Potato Chips,Potato chips,pound,4.692,U.S. City Average,BLS
+2019-12-01,2019,12,APU0000718311,Potato Chips,Potato chips,pound,4.532,U.S. City Average,BLS
+2020-01-01,2020,1,APU0000718311,Potato Chips,Potato chips,pound,4.494,U.S. City Average,BLS
+2020-02-01,2020,2,APU0000718311,Potato Chips,Potato chips,pound,4.594,U.S. City Average,BLS
+2020-03-01,2020,3,APU0000718311,Potato Chips,Potato chips,pound,4.63,U.S. City Average,BLS
+2020-04-01,2020,4,APU0000718311,Potato Chips,Potato chips,pound,4.88,U.S. City Average,BLS
+2020-05-01,2020,5,APU0000718311,Potato Chips,Potato chips,pound,4.985,U.S. City Average,BLS
+2020-06-01,2020,6,APU0000718311,Potato Chips,Potato chips,pound,5.087,U.S. City Average,BLS
+2020-07-01,2020,7,APU0000718311,Potato Chips,Potato chips,pound,5.104,U.S. City Average,BLS
+2020-08-01,2020,8,APU0000718311,Potato Chips,Potato chips,pound,5.07,U.S. City Average,BLS
+2020-09-01,2020,9,APU0000718311,Potato Chips,Potato chips,pound,5.024,U.S. City Average,BLS
+2020-10-01,2020,10,APU0000718311,Potato Chips,Potato chips,pound,5.039,U.S. City Average,BLS
+2020-11-01,2020,11,APU0000718311,Potato Chips,Potato chips,pound,5.085,U.S. City Average,BLS
+2020-12-01,2020,12,APU0000718311,Potato Chips,Potato chips,pound,5.077,U.S. City Average,BLS
+2021-01-01,2021,1,APU0000718311,Potato Chips,Potato chips,pound,4.942,U.S. City Average,BLS
+2021-02-01,2021,2,APU0000718311,Potato Chips,Potato chips,pound,5.046,U.S. City Average,BLS
+2021-03-01,2021,3,APU0000718311,Potato Chips,Potato chips,pound,5.043,U.S. City Average,BLS
+2021-04-01,2021,4,APU0000718311,Potato Chips,Potato chips,pound,5.092,U.S. City Average,BLS
+2021-05-01,2021,5,APU0000718311,Potato Chips,Potato chips,pound,4.929,U.S. City Average,BLS
+2021-06-01,2021,6,APU0000718311,Potato Chips,Potato chips,pound,5.02,U.S. City Average,BLS
+2021-07-01,2021,7,APU0000718311,Potato Chips,Potato chips,pound,5.003,U.S. City Average,BLS
+2021-08-01,2021,8,APU0000718311,Potato Chips,Potato chips,pound,5.111,U.S. City Average,BLS
+2021-09-01,2021,9,APU0000718311,Potato Chips,Potato chips,pound,5.058,U.S. City Average,BLS
+2021-10-01,2021,10,APU0000718311,Potato Chips,Potato chips,pound,5.273,U.S. City Average,BLS
+2021-11-01,2021,11,APU0000718311,Potato Chips,Potato chips,pound,5.246,U.S. City Average,BLS
+2021-12-01,2021,12,APU0000718311,Potato Chips,Potato chips,pound,5.15,U.S. City Average,BLS
+2022-01-01,2022,1,APU0000718311,Potato Chips,Potato chips,pound,5.258,U.S. City Average,BLS
+2022-02-01,2022,2,APU0000718311,Potato Chips,Potato chips,pound,5.363,U.S. City Average,BLS
+2022-03-01,2022,3,APU0000718311,Potato Chips,Potato chips,pound,5.487,U.S. City Average,BLS
+2022-04-01,2022,4,APU0000718311,Potato Chips,Potato chips,pound,5.601,U.S. City Average,BLS
+2022-05-01,2022,5,APU0000718311,Potato Chips,Potato chips,pound,5.619,U.S. City Average,BLS
+2022-06-01,2022,6,APU0000718311,Potato Chips,Potato chips,pound,5.766,U.S. City Average,BLS
+2022-07-01,2022,7,APU0000718311,Potato Chips,Potato chips,pound,5.894,U.S. City Average,BLS
+2022-08-01,2022,8,APU0000718311,Potato Chips,Potato chips,pound,5.941,U.S. City Average,BLS
+2022-09-01,2022,9,APU0000718311,Potato Chips,Potato chips,pound,6.058,U.S. City Average,BLS
+2022-10-01,2022,10,APU0000718311,Potato Chips,Potato chips,pound,6.402,U.S. City Average,BLS
+2022-11-01,2022,11,APU0000718311,Potato Chips,Potato chips,pound,6.253,U.S. City Average,BLS
+2022-12-01,2022,12,APU0000718311,Potato Chips,Potato chips,pound,6.283,U.S. City Average,BLS
+2023-01-01,2023,1,APU0000718311,Potato Chips,Potato chips,pound,6.238,U.S. City Average,BLS
+2023-02-01,2023,2,APU0000718311,Potato Chips,Potato chips,pound,6.171,U.S. City Average,BLS
+2023-03-01,2023,3,APU0000718311,Potato Chips,Potato chips,pound,6.526,U.S. City Average,BLS
+2023-04-01,2023,4,APU0000718311,Potato Chips,Potato chips,pound,6.623,U.S. City Average,BLS
+2023-05-01,2023,5,APU0000718311,Potato Chips,Potato chips,pound,6.454,U.S. City Average,BLS
+2023-06-01,2023,6,APU0000718311,Potato Chips,Potato chips,pound,6.283,U.S. City Average,BLS
+2023-07-01,2023,7,APU0000718311,Potato Chips,Potato chips,pound,6.476,U.S. City Average,BLS
+2023-08-01,2023,8,APU0000718311,Potato Chips,Potato chips,pound,6.463,U.S. City Average,BLS
+2023-09-01,2023,9,APU0000718311,Potato Chips,Potato chips,pound,6.562,U.S. City Average,BLS
+2023-10-01,2023,10,APU0000718311,Potato Chips,Potato chips,pound,6.682,U.S. City Average,BLS
+2023-11-01,2023,11,APU0000718311,Potato Chips,Potato chips,pound,6.459,U.S. City Average,BLS
+2023-12-01,2023,12,APU0000718311,Potato Chips,Potato chips,pound,6.408,U.S. City Average,BLS
+2024-01-01,2024,1,APU0000718311,Potato Chips,Potato chips,pound,6.389,U.S. City Average,BLS
+2024-02-01,2024,2,APU0000718311,Potato Chips,Potato chips,pound,6.41,U.S. City Average,BLS
+2024-03-01,2024,3,APU0000718311,Potato Chips,Potato chips,pound,6.572,U.S. City Average,BLS
+2024-04-01,2024,4,APU0000718311,Potato Chips,Potato chips,pound,6.504,U.S. City Average,BLS
+2024-05-01,2024,5,APU0000718311,Potato Chips,Potato chips,pound,6.629,U.S. City Average,BLS
+2024-06-01,2024,6,APU0000718311,Potato Chips,Potato chips,pound,6.566,U.S. City Average,BLS
+2024-07-01,2024,7,APU0000718311,Potato Chips,Potato chips,pound,6.323,U.S. City Average,BLS
+2024-08-01,2024,8,APU0000718311,Potato Chips,Potato chips,pound,6.246,U.S. City Average,BLS
+2024-09-01,2024,9,APU0000718311,Potato Chips,Potato chips,pound,6.466,U.S. City Average,BLS
+2024-10-01,2024,10,APU0000718311,Potato Chips,Potato chips,pound,6.517,U.S. City Average,BLS
+2024-11-01,2024,11,APU0000718311,Potato Chips,Potato chips,pound,6.511,U.S. City Average,BLS
+2024-12-01,2024,12,APU0000718311,Potato Chips,Potato chips,pound,6.324,U.S. City Average,BLS
+2025-01-01,2025,1,APU0000718311,Potato Chips,Potato chips,pound,6.474,U.S. City Average,BLS
+2025-02-01,2025,2,APU0000718311,Potato Chips,Potato chips,pound,6.462,U.S. City Average,BLS
+2025-03-01,2025,3,APU0000718311,Potato Chips,Potato chips,pound,6.536,U.S. City Average,BLS
+2025-04-01,2025,4,APU0000718311,Potato Chips,Potato chips,pound,6.611,U.S. City Average,BLS
+2025-05-01,2025,5,APU0000718311,Potato Chips,Potato chips,pound,6.731,U.S. City Average,BLS
+2025-06-01,2025,6,APU0000718311,Potato Chips,Potato chips,pound,6.815,U.S. City Average,BLS
+2025-07-01,2025,7,APU0000718311,Potato Chips,Potato chips,pound,6.797,U.S. City Average,BLS
+2025-08-01,2025,8,APU0000718311,Potato Chips,Potato chips,pound,6.751,U.S. City Average,BLS
+2025-09-01,2025,9,APU0000718311,Potato Chips,Potato chips,pound,6.971,U.S. City Average,BLS
+2025-11-01,2025,11,APU0000718311,Potato Chips,Potato chips,pound,6.821,U.S. City Average,BLS
+2025-12-01,2025,12,APU0000718311,Potato Chips,Potato chips,pound,6.788,U.S. City Average,BLS
+2026-01-01,2026,1,APU0000718311,Potato Chips,Potato chips,pound,6.629,U.S. City Average,BLS
+2026-02-01,2026,2,APU0000718311,Potato Chips,Potato chips,pound,6.827,U.S. City Average,BLS
+2026-03-01,2026,3,APU0000718311,Potato Chips,Potato chips,pound,6.712,U.S. City Average,BLS
+2026-04-01,2026,4,APU0000718311,Potato Chips,Potato chips,pound,6.748,U.S. City Average,BLS
+2026-05-01,2026,5,APU0000718311,Potato Chips,Potato chips,pound,6.58,U.S. City Average,BLS
+2026-06-01,2026,6,APU0000718311,Potato Chips,Potato chips,pound,6.632,U.S. City Average,BLS
+2026-07-01,2026,7,APU0000718311,Potato Chips,Potato chips,pound,6.559,U.S. City Average,BLS
+2017-01-01,2017,1,APU0000712112,Potatoes,"Potatoes, white",pound,0.696,U.S. City Average,BLS
+2017-02-01,2017,2,APU0000712112,Potatoes,"Potatoes, white",pound,0.703,U.S. City Average,BLS
+2017-03-01,2017,3,APU0000712112,Potatoes,"Potatoes, white",pound,0.689,U.S. City Average,BLS
+2017-04-01,2017,4,APU0000712112,Potatoes,"Potatoes, white",pound,0.698,U.S. City Average,BLS
+2017-05-01,2017,5,APU0000712112,Potatoes,"Potatoes, white",pound,0.706,U.S. City Average,BLS
+2017-06-01,2017,6,APU0000712112,Potatoes,"Potatoes, white",pound,0.733,U.S. City Average,BLS
+2017-07-01,2017,7,APU0000712112,Potatoes,"Potatoes, white",pound,0.752,U.S. City Average,BLS
+2017-08-01,2017,8,APU0000712112,Potatoes,"Potatoes, white",pound,0.75,U.S. City Average,BLS
+2017-09-01,2017,9,APU0000712112,Potatoes,"Potatoes, white",pound,0.745,U.S. City Average,BLS
+2017-10-01,2017,10,APU0000712112,Potatoes,"Potatoes, white",pound,0.748,U.S. City Average,BLS
+2017-11-01,2017,11,APU0000712112,Potatoes,"Potatoes, white",pound,0.733,U.S. City Average,BLS
+2017-12-01,2017,12,APU0000712112,Potatoes,"Potatoes, white",pound,0.731,U.S. City Average,BLS
+2018-01-01,2018,1,APU0000712112,Potatoes,"Potatoes, white",pound,0.73,U.S. City Average,BLS
+2018-02-01,2018,2,APU0000712112,Potatoes,"Potatoes, white",pound,0.736,U.S. City Average,BLS
+2018-03-01,2018,3,APU0000712112,Potatoes,"Potatoes, white",pound,0.727,U.S. City Average,BLS
+2018-04-01,2018,4,APU0000712112,Potatoes,"Potatoes, white",pound,0.728,U.S. City Average,BLS
+2018-05-01,2018,5,APU0000712112,Potatoes,"Potatoes, white",pound,0.739,U.S. City Average,BLS
+2018-06-01,2018,6,APU0000712112,Potatoes,"Potatoes, white",pound,0.744,U.S. City Average,BLS
+2018-07-01,2018,7,APU0000712112,Potatoes,"Potatoes, white",pound,0.765,U.S. City Average,BLS
+2018-08-01,2018,8,APU0000712112,Potatoes,"Potatoes, white",pound,0.768,U.S. City Average,BLS
+2018-09-01,2018,9,APU0000712112,Potatoes,"Potatoes, white",pound,0.75,U.S. City Average,BLS
+2018-10-01,2018,10,APU0000712112,Potatoes,"Potatoes, white",pound,0.746,U.S. City Average,BLS
+2018-11-01,2018,11,APU0000712112,Potatoes,"Potatoes, white",pound,0.725,U.S. City Average,BLS
+2018-12-01,2018,12,APU0000712112,Potatoes,"Potatoes, white",pound,0.718,U.S. City Average,BLS
+2019-01-01,2019,1,APU0000712112,Potatoes,"Potatoes, white",pound,0.749,U.S. City Average,BLS
+2019-02-01,2019,2,APU0000712112,Potatoes,"Potatoes, white",pound,0.751,U.S. City Average,BLS
+2019-03-01,2019,3,APU0000712112,Potatoes,"Potatoes, white",pound,0.755,U.S. City Average,BLS
+2019-04-01,2019,4,APU0000712112,Potatoes,"Potatoes, white",pound,0.749,U.S. City Average,BLS
+2019-05-01,2019,5,APU0000712112,Potatoes,"Potatoes, white",pound,0.772,U.S. City Average,BLS
+2019-06-01,2019,6,APU0000712112,Potatoes,"Potatoes, white",pound,0.743,U.S. City Average,BLS
+2019-07-01,2019,7,APU0000712112,Potatoes,"Potatoes, white",pound,0.78,U.S. City Average,BLS
+2019-08-01,2019,8,APU0000712112,Potatoes,"Potatoes, white",pound,0.786,U.S. City Average,BLS
+2019-09-01,2019,9,APU0000712112,Potatoes,"Potatoes, white",pound,0.794,U.S. City Average,BLS
+2019-10-01,2019,10,APU0000712112,Potatoes,"Potatoes, white",pound,0.785,U.S. City Average,BLS
+2019-11-01,2019,11,APU0000712112,Potatoes,"Potatoes, white",pound,0.764,U.S. City Average,BLS
+2019-12-01,2019,12,APU0000712112,Potatoes,"Potatoes, white",pound,0.78,U.S. City Average,BLS
+2020-01-01,2020,1,APU0000712112,Potatoes,"Potatoes, white",pound,0.802,U.S. City Average,BLS
+2020-02-01,2020,2,APU0000712112,Potatoes,"Potatoes, white",pound,0.786,U.S. City Average,BLS
+2020-05-01,2020,5,APU0000712112,Potatoes,"Potatoes, white",pound,0.855,U.S. City Average,BLS
+2020-06-01,2020,6,APU0000712112,Potatoes,"Potatoes, white",pound,0.854,U.S. City Average,BLS
+2020-07-01,2020,7,APU0000712112,Potatoes,"Potatoes, white",pound,0.854,U.S. City Average,BLS
+2020-08-01,2020,8,APU0000712112,Potatoes,"Potatoes, white",pound,0.856,U.S. City Average,BLS
+2020-09-01,2020,9,APU0000712112,Potatoes,"Potatoes, white",pound,0.798,U.S. City Average,BLS
+2020-10-01,2020,10,APU0000712112,Potatoes,"Potatoes, white",pound,0.802,U.S. City Average,BLS
+2020-11-01,2020,11,APU0000712112,Potatoes,"Potatoes, white",pound,0.756,U.S. City Average,BLS
+2020-12-01,2020,12,APU0000712112,Potatoes,"Potatoes, white",pound,0.749,U.S. City Average,BLS
+2021-01-01,2021,1,APU0000712112,Potatoes,"Potatoes, white",pound,0.782,U.S. City Average,BLS
+2021-02-01,2021,2,APU0000712112,Potatoes,"Potatoes, white",pound,0.762,U.S. City Average,BLS
+2021-03-01,2021,3,APU0000712112,Potatoes,"Potatoes, white",pound,0.786,U.S. City Average,BLS
+2021-04-01,2021,4,APU0000712112,Potatoes,"Potatoes, white",pound,0.774,U.S. City Average,BLS
+2021-05-01,2021,5,APU0000712112,Potatoes,"Potatoes, white",pound,0.764,U.S. City Average,BLS
+2021-06-01,2021,6,APU0000712112,Potatoes,"Potatoes, white",pound,0.769,U.S. City Average,BLS
+2021-07-01,2021,7,APU0000712112,Potatoes,"Potatoes, white",pound,0.776,U.S. City Average,BLS
+2021-08-01,2021,8,APU0000712112,Potatoes,"Potatoes, white",pound,0.797,U.S. City Average,BLS
+2021-09-01,2021,9,APU0000712112,Potatoes,"Potatoes, white",pound,0.798,U.S. City Average,BLS
+2021-10-01,2021,10,APU0000712112,Potatoes,"Potatoes, white",pound,0.808,U.S. City Average,BLS
+2021-11-01,2021,11,APU0000712112,Potatoes,"Potatoes, white",pound,0.767,U.S. City Average,BLS
+2021-12-01,2021,12,APU0000712112,Potatoes,"Potatoes, white",pound,0.778,U.S. City Average,BLS
+2022-01-01,2022,1,APU0000712112,Potatoes,"Potatoes, white",pound,0.792,U.S. City Average,BLS
+2022-02-01,2022,2,APU0000712112,Potatoes,"Potatoes, white",pound,0.802,U.S. City Average,BLS
+2022-03-01,2022,3,APU0000712112,Potatoes,"Potatoes, white",pound,0.825,U.S. City Average,BLS
+2022-04-01,2022,4,APU0000712112,Potatoes,"Potatoes, white",pound,0.849,U.S. City Average,BLS
+2022-05-01,2022,5,APU0000712112,Potatoes,"Potatoes, white",pound,0.875,U.S. City Average,BLS
+2022-06-01,2022,6,APU0000712112,Potatoes,"Potatoes, white",pound,0.891,U.S. City Average,BLS
+2022-07-01,2022,7,APU0000712112,Potatoes,"Potatoes, white",pound,0.945,U.S. City Average,BLS
+2022-08-01,2022,8,APU0000712112,Potatoes,"Potatoes, white",pound,0.994,U.S. City Average,BLS
+2022-09-01,2022,9,APU0000712112,Potatoes,"Potatoes, white",pound,1.019,U.S. City Average,BLS
+2022-10-01,2022,10,APU0000712112,Potatoes,"Potatoes, white",pound,0.991,U.S. City Average,BLS
+2022-11-01,2022,11,APU0000712112,Potatoes,"Potatoes, white",pound,0.945,U.S. City Average,BLS
+2022-12-01,2022,12,APU0000712112,Potatoes,"Potatoes, white",pound,0.948,U.S. City Average,BLS
+2023-01-01,2023,1,APU0000712112,Potatoes,"Potatoes, white",pound,0.953,U.S. City Average,BLS
+2023-02-01,2023,2,APU0000712112,Potatoes,"Potatoes, white",pound,0.978,U.S. City Average,BLS
+2023-03-01,2023,3,APU0000712112,Potatoes,"Potatoes, white",pound,0.968,U.S. City Average,BLS
+2023-04-01,2023,4,APU0000712112,Potatoes,"Potatoes, white",pound,0.98,U.S. City Average,BLS
+2023-05-01,2023,5,APU0000712112,Potatoes,"Potatoes, white",pound,1.008,U.S. City Average,BLS
+2023-06-01,2023,6,APU0000712112,Potatoes,"Potatoes, white",pound,1.026,U.S. City Average,BLS
+2023-07-01,2023,7,APU0000712112,Potatoes,"Potatoes, white",pound,1.051,U.S. City Average,BLS
+2023-08-01,2023,8,APU0000712112,Potatoes,"Potatoes, white",pound,1.094,U.S. City Average,BLS
+2023-09-01,2023,9,APU0000712112,Potatoes,"Potatoes, white",pound,1.047,U.S. City Average,BLS
+2023-10-01,2023,10,APU0000712112,Potatoes,"Potatoes, white",pound,1.006,U.S. City Average,BLS
+2023-11-01,2023,11,APU0000712112,Potatoes,"Potatoes, white",pound,0.983,U.S. City Average,BLS
+2023-12-01,2023,12,APU0000712112,Potatoes,"Potatoes, white",pound,0.961,U.S. City Average,BLS
+2024-01-01,2024,1,APU0000712112,Potatoes,"Potatoes, white",pound,0.978,U.S. City Average,BLS
+2024-02-01,2024,2,APU0000712112,Potatoes,"Potatoes, white",pound,0.971,U.S. City Average,BLS
+2024-03-01,2024,3,APU0000712112,Potatoes,"Potatoes, white",pound,0.972,U.S. City Average,BLS
+2024-04-01,2024,4,APU0000712112,Potatoes,"Potatoes, white",pound,0.971,U.S. City Average,BLS
+2024-05-01,2024,5,APU0000712112,Potatoes,"Potatoes, white",pound,0.964,U.S. City Average,BLS
+2024-06-01,2024,6,APU0000712112,Potatoes,"Potatoes, white",pound,0.993,U.S. City Average,BLS
+2024-07-01,2024,7,APU0000712112,Potatoes,"Potatoes, white",pound,1.017,U.S. City Average,BLS
+2024-08-01,2024,8,APU0000712112,Potatoes,"Potatoes, white",pound,1.006,U.S. City Average,BLS
+2024-09-01,2024,9,APU0000712112,Potatoes,"Potatoes, white",pound,1.009,U.S. City Average,BLS
+2024-10-01,2024,10,APU0000712112,Potatoes,"Potatoes, white",pound,0.998,U.S. City Average,BLS
+2024-11-01,2024,11,APU0000712112,Potatoes,"Potatoes, white",pound,0.956,U.S. City Average,BLS
+2024-12-01,2024,12,APU0000712112,Potatoes,"Potatoes, white",pound,0.949,U.S. City Average,BLS
+2025-01-01,2025,1,APU0000712112,Potatoes,"Potatoes, white",pound,0.973,U.S. City Average,BLS
+2025-02-01,2025,2,APU0000712112,Potatoes,"Potatoes, white",pound,0.957,U.S. City Average,BLS
+2025-03-01,2025,3,APU0000712112,Potatoes,"Potatoes, white",pound,0.95,U.S. City Average,BLS
+2025-04-01,2025,4,APU0000712112,Potatoes,"Potatoes, white",pound,0.967,U.S. City Average,BLS
+2025-05-01,2025,5,APU0000712112,Potatoes,"Potatoes, white",pound,0.958,U.S. City Average,BLS
+2025-06-01,2025,6,APU0000712112,Potatoes,"Potatoes, white",pound,0.981,U.S. City Average,BLS
+2025-07-01,2025,7,APU0000712112,Potatoes,"Potatoes, white",pound,0.978,U.S. City Average,BLS
+2025-08-01,2025,8,APU0000712112,Potatoes,"Potatoes, white",pound,1.001,U.S. City Average,BLS
+2025-09-01,2025,9,APU0000712112,Potatoes,"Potatoes, white",pound,1.014,U.S. City Average,BLS
+2025-12-01,2025,12,APU0000712112,Potatoes,"Potatoes, white",pound,0.847,U.S. City Average,BLS
+2026-01-01,2026,1,APU0000712112,Potatoes,"Potatoes, white",pound,0.871,U.S. City Average,BLS
+2026-02-01,2026,2,APU0000712112,Potatoes,"Potatoes, white",pound,0.866,U.S. City Average,BLS
+2026-03-01,2026,3,APU0000712112,Potatoes,"Potatoes, white",pound,0.847,U.S. City Average,BLS
+2026-04-01,2026,4,APU0000712112,Potatoes,"Potatoes, white",pound,0.86,U.S. City Average,BLS
+2026-05-01,2026,5,APU0000712112,Potatoes,"Potatoes, white",pound,0.894,U.S. City Average,BLS
+2026-06-01,2026,6,APU0000712112,Potatoes,"Potatoes, white",pound,0.923,U.S. City Average,BLS
+2026-07-01,2026,7,APU0000712112,Potatoes,"Potatoes, white",pound,0.942,U.S. City Average,BLS
+2017-01-01,2017,1,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.7,U.S. City Average,BLS
+2017-02-01,2017,2,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.695,U.S. City Average,BLS
+2017-03-01,2017,3,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.692,U.S. City Average,BLS
+2017-04-01,2017,4,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.686,U.S. City Average,BLS
+2017-05-01,2017,5,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.726,U.S. City Average,BLS
+2017-06-01,2017,6,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.752,U.S. City Average,BLS
+2017-07-01,2017,7,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.764,U.S. City Average,BLS
+2017-08-01,2017,8,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.753,U.S. City Average,BLS
+2017-09-01,2017,9,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.741,U.S. City Average,BLS
+2017-10-01,2017,10,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.723,U.S. City Average,BLS
+2017-11-01,2017,11,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.712,U.S. City Average,BLS
+2017-12-01,2017,12,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.711,U.S. City Average,BLS
+2018-01-01,2018,1,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.682,U.S. City Average,BLS
+2018-02-01,2018,2,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.691,U.S. City Average,BLS
+2018-03-01,2018,3,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.682,U.S. City Average,BLS
+2018-04-01,2018,4,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.685,U.S. City Average,BLS
+2018-05-01,2018,5,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.698,U.S. City Average,BLS
+2018-06-01,2018,6,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.689,U.S. City Average,BLS
+2018-07-01,2018,7,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.69,U.S. City Average,BLS
+2018-08-01,2018,8,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.705,U.S. City Average,BLS
+2018-09-01,2018,9,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.693,U.S. City Average,BLS
+2018-10-01,2018,10,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.685,U.S. City Average,BLS
+2018-11-01,2018,11,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.711,U.S. City Average,BLS
+2018-12-01,2018,12,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.712,U.S. City Average,BLS
+2019-01-01,2019,1,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.73,U.S. City Average,BLS
+2019-02-01,2019,2,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.762,U.S. City Average,BLS
+2019-03-01,2019,3,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.757,U.S. City Average,BLS
+2019-04-01,2019,4,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.767,U.S. City Average,BLS
+2019-05-01,2019,5,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.761,U.S. City Average,BLS
+2019-06-01,2019,6,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.801,U.S. City Average,BLS
+2019-07-01,2019,7,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.798,U.S. City Average,BLS
+2019-08-01,2019,8,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.793,U.S. City Average,BLS
+2019-09-01,2019,9,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.797,U.S. City Average,BLS
+2019-10-01,2019,10,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.773,U.S. City Average,BLS
+2019-11-01,2019,11,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.721,U.S. City Average,BLS
+2019-12-01,2019,12,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.714,U.S. City Average,BLS
+2020-01-01,2020,1,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.716,U.S. City Average,BLS
+2020-02-01,2020,2,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.734,U.S. City Average,BLS
+2020-03-01,2020,3,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.733,U.S. City Average,BLS
+2020-05-01,2020,5,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.748,U.S. City Average,BLS
+2020-06-01,2020,6,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.749,U.S. City Average,BLS
+2020-07-01,2020,7,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.772,U.S. City Average,BLS
+2020-08-01,2020,8,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.769,U.S. City Average,BLS
+2020-09-01,2020,9,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.777,U.S. City Average,BLS
+2020-10-01,2020,10,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.766,U.S. City Average,BLS
+2020-11-01,2020,11,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.791,U.S. City Average,BLS
+2020-12-01,2020,12,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.789,U.S. City Average,BLS
+2021-01-01,2021,1,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.794,U.S. City Average,BLS
+2021-02-01,2021,2,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.779,U.S. City Average,BLS
+2021-03-01,2021,3,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.772,U.S. City Average,BLS
+2021-04-01,2021,4,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.785,U.S. City Average,BLS
+2021-05-01,2021,5,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.801,U.S. City Average,BLS
+2021-06-01,2021,6,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.778,U.S. City Average,BLS
+2021-07-01,2021,7,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.782,U.S. City Average,BLS
+2021-08-01,2021,8,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.784,U.S. City Average,BLS
+2021-09-01,2021,9,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.798,U.S. City Average,BLS
+2021-10-01,2021,10,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.788,U.S. City Average,BLS
+2021-11-01,2021,11,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.844,U.S. City Average,BLS
+2021-12-01,2021,12,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.82,U.S. City Average,BLS
+2022-01-01,2022,1,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.832,U.S. City Average,BLS
+2022-02-01,2022,2,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.83,U.S. City Average,BLS
+2022-03-01,2022,3,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.871,U.S. City Average,BLS
+2022-04-01,2022,4,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.9,U.S. City Average,BLS
+2022-05-01,2022,5,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.909,U.S. City Average,BLS
+2022-06-01,2022,6,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.924,U.S. City Average,BLS
+2022-07-01,2022,7,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.929,U.S. City Average,BLS
+2022-08-01,2022,8,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.925,U.S. City Average,BLS
+2022-09-01,2022,9,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.939,U.S. City Average,BLS
+2022-10-01,2022,10,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.963,U.S. City Average,BLS
+2022-11-01,2022,11,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.963,U.S. City Average,BLS
+2022-12-01,2022,12,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.971,U.S. City Average,BLS
+2023-01-01,2023,1,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.97,U.S. City Average,BLS
+2023-02-01,2023,2,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.959,U.S. City Average,BLS
+2023-03-01,2023,3,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.982,U.S. City Average,BLS
+2023-04-01,2023,4,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.98,U.S. City Average,BLS
+2023-05-01,2023,5,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.997,U.S. City Average,BLS
+2023-06-01,2023,6,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.003,U.S. City Average,BLS
+2023-07-01,2023,7,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.006,U.S. City Average,BLS
+2023-08-01,2023,8,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.997,U.S. City Average,BLS
+2023-09-01,2023,9,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.981,U.S. City Average,BLS
+2023-10-01,2023,10,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.96,U.S. City Average,BLS
+2023-11-01,2023,11,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.992,U.S. City Average,BLS
+2023-12-01,2023,12,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,0.99,U.S. City Average,BLS
+2024-01-01,2024,1,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.0,U.S. City Average,BLS
+2024-02-01,2024,2,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.001,U.S. City Average,BLS
+2024-03-01,2024,3,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.014,U.S. City Average,BLS
+2024-04-01,2024,4,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.025,U.S. City Average,BLS
+2024-05-01,2024,5,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.002,U.S. City Average,BLS
+2024-06-01,2024,6,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.018,U.S. City Average,BLS
+2024-07-01,2024,7,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.039,U.S. City Average,BLS
+2024-08-01,2024,8,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.085,U.S. City Average,BLS
+2024-09-01,2024,9,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.078,U.S. City Average,BLS
+2024-10-01,2024,10,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.056,U.S. City Average,BLS
+2024-11-01,2024,11,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.061,U.S. City Average,BLS
+2024-12-01,2024,12,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.032,U.S. City Average,BLS
+2025-01-01,2025,1,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.008,U.S. City Average,BLS
+2025-02-01,2025,2,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.03,U.S. City Average,BLS
+2025-03-01,2025,3,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.038,U.S. City Average,BLS
+2025-04-01,2025,4,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.031,U.S. City Average,BLS
+2025-05-01,2025,5,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.067,U.S. City Average,BLS
+2025-06-01,2025,6,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.061,U.S. City Average,BLS
+2025-07-01,2025,7,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.068,U.S. City Average,BLS
+2025-08-01,2025,8,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.059,U.S. City Average,BLS
+2025-09-01,2025,9,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.06,U.S. City Average,BLS
+2025-11-01,2025,11,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.065,U.S. City Average,BLS
+2025-12-01,2025,12,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.076,U.S. City Average,BLS
+2026-01-01,2026,1,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.059,U.S. City Average,BLS
+2026-02-01,2026,2,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.074,U.S. City Average,BLS
+2026-03-01,2026,3,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.06,U.S. City Average,BLS
+2026-04-01,2026,4,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.076,U.S. City Average,BLS
+2026-05-01,2026,5,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.071,U.S. City Average,BLS
+2026-06-01,2026,6,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.089,U.S. City Average,BLS
+2026-07-01,2026,7,APU0000701312,Rice,"Rice, white, long grain, uncooked",pound,1.1,U.S. City Average,BLS
+2017-01-01,2017,1,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.632,U.S. City Average,BLS
+2017-02-01,2017,2,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.637,U.S. City Average,BLS
+2017-03-01,2017,3,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.631,U.S. City Average,BLS
+2017-04-01,2017,4,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.628,U.S. City Average,BLS
+2017-05-01,2017,5,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.647,U.S. City Average,BLS
+2017-06-01,2017,6,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.659,U.S. City Average,BLS
+2017-07-01,2017,7,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.659,U.S. City Average,BLS
+2017-08-01,2017,8,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.658,U.S. City Average,BLS
+2017-09-01,2017,9,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.67,U.S. City Average,BLS
+2017-10-01,2017,10,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.664,U.S. City Average,BLS
+2017-11-01,2017,11,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.64,U.S. City Average,BLS
+2017-12-01,2017,12,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.646,U.S. City Average,BLS
+2018-01-01,2018,1,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.623,U.S. City Average,BLS
+2018-02-01,2018,2,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.622,U.S. City Average,BLS
+2018-03-01,2018,3,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.612,U.S. City Average,BLS
+2018-04-01,2018,4,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.617,U.S. City Average,BLS
+2018-05-01,2018,5,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.628,U.S. City Average,BLS
+2018-06-01,2018,6,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.629,U.S. City Average,BLS
+2018-07-01,2018,7,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.63,U.S. City Average,BLS
+2018-08-01,2018,8,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.628,U.S. City Average,BLS
+2018-09-01,2018,9,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.629,U.S. City Average,BLS
+2018-10-01,2018,10,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.602,U.S. City Average,BLS
+2018-11-01,2018,11,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.602,U.S. City Average,BLS
+2018-12-01,2018,12,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.573,U.S. City Average,BLS
+2019-01-01,2019,1,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.595,U.S. City Average,BLS
+2019-02-01,2019,2,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.592,U.S. City Average,BLS
+2019-03-01,2019,3,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.596,U.S. City Average,BLS
+2019-04-01,2019,4,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.591,U.S. City Average,BLS
+2019-05-01,2019,5,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.58,U.S. City Average,BLS
+2019-06-01,2019,6,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.586,U.S. City Average,BLS
+2019-07-01,2019,7,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.589,U.S. City Average,BLS
+2019-08-01,2019,8,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.589,U.S. City Average,BLS
+2019-09-01,2019,9,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.596,U.S. City Average,BLS
+2019-10-01,2019,10,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.589,U.S. City Average,BLS
+2019-11-01,2019,11,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.589,U.S. City Average,BLS
+2019-12-01,2019,12,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.589,U.S. City Average,BLS
+2020-01-01,2020,1,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.603,U.S. City Average,BLS
+2020-02-01,2020,2,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.612,U.S. City Average,BLS
+2020-03-01,2020,3,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.621,U.S. City Average,BLS
+2020-04-01,2020,4,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.64,U.S. City Average,BLS
+2020-05-01,2020,5,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.647,U.S. City Average,BLS
+2020-06-01,2020,6,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.626,U.S. City Average,BLS
+2020-07-01,2020,7,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.627,U.S. City Average,BLS
+2020-08-01,2020,8,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.629,U.S. City Average,BLS
+2020-09-01,2020,9,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.63,U.S. City Average,BLS
+2020-10-01,2020,10,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.634,U.S. City Average,BLS
+2020-11-01,2020,11,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.66,U.S. City Average,BLS
+2020-12-01,2020,12,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.674,U.S. City Average,BLS
+2021-01-01,2021,1,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.682,U.S. City Average,BLS
+2021-02-01,2021,2,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.68,U.S. City Average,BLS
+2021-03-01,2021,3,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.675,U.S. City Average,BLS
+2021-04-01,2021,4,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.675,U.S. City Average,BLS
+2021-05-01,2021,5,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.675,U.S. City Average,BLS
+2021-06-01,2021,6,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.675,U.S. City Average,BLS
+2021-07-01,2021,7,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.686,U.S. City Average,BLS
+2021-08-01,2021,8,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.681,U.S. City Average,BLS
+2021-09-01,2021,9,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.688,U.S. City Average,BLS
+2021-10-01,2021,10,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.713,U.S. City Average,BLS
+2021-11-01,2021,11,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.687,U.S. City Average,BLS
+2021-12-01,2021,12,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.691,U.S. City Average,BLS
+2022-01-01,2022,1,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.706,U.S. City Average,BLS
+2022-02-01,2022,2,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.718,U.S. City Average,BLS
+2022-03-01,2022,3,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.739,U.S. City Average,BLS
+2022-04-01,2022,4,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.74,U.S. City Average,BLS
+2022-05-01,2022,5,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.745,U.S. City Average,BLS
+2022-06-01,2022,6,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.765,U.S. City Average,BLS
+2022-07-01,2022,7,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.791,U.S. City Average,BLS
+2022-08-01,2022,8,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.821,U.S. City Average,BLS
+2022-09-01,2022,9,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.837,U.S. City Average,BLS
+2022-10-01,2022,10,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.846,U.S. City Average,BLS
+2022-11-01,2022,11,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.846,U.S. City Average,BLS
+2022-12-01,2022,12,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.844,U.S. City Average,BLS
+2023-01-01,2023,1,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.86,U.S. City Average,BLS
+2023-02-01,2023,2,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.876,U.S. City Average,BLS
+2023-03-01,2023,3,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.88,U.S. City Average,BLS
+2023-04-01,2023,4,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.893,U.S. City Average,BLS
+2023-05-01,2023,5,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.899,U.S. City Average,BLS
+2023-06-01,2023,6,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.918,U.S. City Average,BLS
+2023-07-01,2023,7,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.932,U.S. City Average,BLS
+2023-08-01,2023,8,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.95,U.S. City Average,BLS
+2023-09-01,2023,9,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.971,U.S. City Average,BLS
+2023-10-01,2023,10,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.963,U.S. City Average,BLS
+2023-11-01,2023,11,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.958,U.S. City Average,BLS
+2023-12-01,2023,12,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.956,U.S. City Average,BLS
+2024-01-01,2024,1,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.975,U.S. City Average,BLS
+2024-02-01,2024,2,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.984,U.S. City Average,BLS
+2024-03-01,2024,3,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.984,U.S. City Average,BLS
+2024-04-01,2024,4,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.006,U.S. City Average,BLS
+2024-05-01,2024,5,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.001,U.S. City Average,BLS
+2024-06-01,2024,6,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.004,U.S. City Average,BLS
+2024-07-01,2024,7,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.004,U.S. City Average,BLS
+2024-08-01,2024,8,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.004,U.S. City Average,BLS
+2024-09-01,2024,9,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.007,U.S. City Average,BLS
+2024-10-01,2024,10,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.003,U.S. City Average,BLS
+2024-11-01,2024,11,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.0,U.S. City Average,BLS
+2024-12-01,2024,12,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.992,U.S. City Average,BLS
+2025-01-01,2025,1,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.011,U.S. City Average,BLS
+2025-02-01,2025,2,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.012,U.S. City Average,BLS
+2025-03-01,2025,3,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.014,U.S. City Average,BLS
+2025-04-01,2025,4,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.021,U.S. City Average,BLS
+2025-05-01,2025,5,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.054,U.S. City Average,BLS
+2025-06-01,2025,6,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.054,U.S. City Average,BLS
+2025-07-01,2025,7,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.046,U.S. City Average,BLS
+2025-08-01,2025,8,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.04,U.S. City Average,BLS
+2025-09-01,2025,9,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.042,U.S. City Average,BLS
+2025-11-01,2025,11,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.991,U.S. City Average,BLS
+2025-12-01,2025,12,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.985,U.S. City Average,BLS
+2026-01-01,2026,1,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.022,U.S. City Average,BLS
+2026-02-01,2026,2,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.016,U.S. City Average,BLS
+2026-03-01,2026,3,APU0000715211,Sugar,"Sugar, white, all sizes",pound,0.996,U.S. City Average,BLS
+2026-04-01,2026,4,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.006,U.S. City Average,BLS
+2026-05-01,2026,5,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.034,U.S. City Average,BLS
+2026-06-01,2026,6,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.018,U.S. City Average,BLS
+2026-07-01,2026,7,APU0000715211,Sugar,"Sugar, white, all sizes",pound,1.024,U.S. City Average,BLS
+2017-01-01,2017,1,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.048,U.S. City Average,BLS
+2017-02-01,2017,2,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.93,U.S. City Average,BLS
+2017-03-01,2017,3,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.943,U.S. City Average,BLS
+2017-04-01,2017,4,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.902,U.S. City Average,BLS
+2017-05-01,2017,5,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.867,U.S. City Average,BLS
+2017-06-01,2017,6,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.873,U.S. City Average,BLS
+2017-07-01,2017,7,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.952,U.S. City Average,BLS
+2017-08-01,2017,8,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.846,U.S. City Average,BLS
+2017-09-01,2017,9,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.828,U.S. City Average,BLS
+2017-10-01,2017,10,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.813,U.S. City Average,BLS
+2017-11-01,2017,11,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.933,U.S. City Average,BLS
+2017-12-01,2017,12,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.237,U.S. City Average,BLS
+2018-01-01,2018,1,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.336,U.S. City Average,BLS
+2018-02-01,2018,2,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.026,U.S. City Average,BLS
+2018-03-01,2018,3,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.868,U.S. City Average,BLS
+2018-04-01,2018,4,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.802,U.S. City Average,BLS
+2018-05-01,2018,5,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.675,U.S. City Average,BLS
+2018-06-01,2018,6,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.706,U.S. City Average,BLS
+2018-07-01,2018,7,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.887,U.S. City Average,BLS
+2018-08-01,2018,8,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.737,U.S. City Average,BLS
+2018-09-01,2018,9,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.826,U.S. City Average,BLS
+2018-10-01,2018,10,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.901,U.S. City Average,BLS
+2018-11-01,2018,11,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.057,U.S. City Average,BLS
+2018-12-01,2018,12,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.175,U.S. City Average,BLS
+2019-01-01,2019,1,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.227,U.S. City Average,BLS
+2019-02-01,2019,2,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.068,U.S. City Average,BLS
+2019-03-01,2019,3,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.079,U.S. City Average,BLS
+2019-04-01,2019,4,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.947,U.S. City Average,BLS
+2019-05-01,2019,5,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.823,U.S. City Average,BLS
+2019-06-01,2019,6,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.812,U.S. City Average,BLS
+2019-07-01,2019,7,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.799,U.S. City Average,BLS
+2019-08-01,2019,8,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.864,U.S. City Average,BLS
+2019-09-01,2019,9,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.911,U.S. City Average,BLS
+2019-10-01,2019,10,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.779,U.S. City Average,BLS
+2019-11-01,2019,11,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.903,U.S. City Average,BLS
+2019-12-01,2019,12,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.954,U.S. City Average,BLS
+2020-01-01,2020,1,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.221,U.S. City Average,BLS
+2020-02-01,2020,2,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.197,U.S. City Average,BLS
+2020-05-01,2020,5,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.851,U.S. City Average,BLS
+2020-06-01,2020,6,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.922,U.S. City Average,BLS
+2020-07-01,2020,7,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.977,U.S. City Average,BLS
+2020-08-01,2020,8,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.874,U.S. City Average,BLS
+2020-09-01,2020,9,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.847,U.S. City Average,BLS
+2020-10-01,2020,10,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.911,U.S. City Average,BLS
+2020-11-01,2020,11,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.935,U.S. City Average,BLS
+2020-12-01,2020,12,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.893,U.S. City Average,BLS
+2021-01-01,2021,1,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.928,U.S. City Average,BLS
+2021-02-01,2021,2,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.838,U.S. City Average,BLS
+2021-03-01,2021,3,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.768,U.S. City Average,BLS
+2021-04-01,2021,4,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.786,U.S. City Average,BLS
+2021-05-01,2021,5,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.804,U.S. City Average,BLS
+2021-06-01,2021,6,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.83,U.S. City Average,BLS
+2021-07-01,2021,7,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.827,U.S. City Average,BLS
+2021-08-01,2021,8,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.858,U.S. City Average,BLS
+2021-09-01,2021,9,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.828,U.S. City Average,BLS
+2021-10-01,2021,10,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.892,U.S. City Average,BLS
+2021-11-01,2021,11,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.924,U.S. City Average,BLS
+2021-12-01,2021,12,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.906,U.S. City Average,BLS
+2022-01-01,2022,1,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.892,U.S. City Average,BLS
+2022-02-01,2022,2,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.826,U.S. City Average,BLS
+2022-03-01,2022,3,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.827,U.S. City Average,BLS
+2022-04-01,2022,4,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.794,U.S. City Average,BLS
+2022-05-01,2022,5,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.819,U.S. City Average,BLS
+2022-06-01,2022,6,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.842,U.S. City Average,BLS
+2022-07-01,2022,7,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.842,U.S. City Average,BLS
+2022-08-01,2022,8,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.89,U.S. City Average,BLS
+2022-09-01,2022,9,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.901,U.S. City Average,BLS
+2022-10-01,2022,10,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.974,U.S. City Average,BLS
+2022-11-01,2022,11,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.107,U.S. City Average,BLS
+2022-12-01,2022,12,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.228,U.S. City Average,BLS
+2023-01-01,2023,1,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.11,U.S. City Average,BLS
+2023-02-01,2023,2,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.99,U.S. City Average,BLS
+2023-03-01,2023,3,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.932,U.S. City Average,BLS
+2023-04-01,2023,4,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.874,U.S. City Average,BLS
+2023-05-01,2023,5,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.798,U.S. City Average,BLS
+2023-06-01,2023,6,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.911,U.S. City Average,BLS
+2023-07-01,2023,7,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.896,U.S. City Average,BLS
+2023-08-01,2023,8,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.877,U.S. City Average,BLS
+2023-09-01,2023,9,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.844,U.S. City Average,BLS
+2023-10-01,2023,10,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.865,U.S. City Average,BLS
+2023-11-01,2023,11,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.942,U.S. City Average,BLS
+2023-12-01,2023,12,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.995,U.S. City Average,BLS
+2024-01-01,2024,1,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.146,U.S. City Average,BLS
+2024-02-01,2024,2,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.132,U.S. City Average,BLS
+2024-03-01,2024,3,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.044,U.S. City Average,BLS
+2024-04-01,2024,4,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.962,U.S. City Average,BLS
+2024-05-01,2024,5,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.859,U.S. City Average,BLS
+2024-06-01,2024,6,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.843,U.S. City Average,BLS
+2024-07-01,2024,7,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.945,U.S. City Average,BLS
+2024-08-01,2024,8,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.996,U.S. City Average,BLS
+2024-09-01,2024,9,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.936,U.S. City Average,BLS
+2024-10-01,2024,10,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.98,U.S. City Average,BLS
+2024-11-01,2024,11,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.03,U.S. City Average,BLS
+2024-12-01,2024,12,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.067,U.S. City Average,BLS
+2025-01-01,2025,1,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.05,U.S. City Average,BLS
+2025-02-01,2025,2,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.848,U.S. City Average,BLS
+2025-03-01,2025,3,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.819,U.S. City Average,BLS
+2025-04-01,2025,4,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.793,U.S. City Average,BLS
+2025-05-01,2025,5,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.705,U.S. City Average,BLS
+2025-06-01,2025,6,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.737,U.S. City Average,BLS
+2025-07-01,2025,7,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.793,U.S. City Average,BLS
+2025-08-01,2025,8,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.925,U.S. City Average,BLS
+2025-09-01,2025,9,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.91,U.S. City Average,BLS
+2025-11-01,2025,11,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.828,U.S. City Average,BLS
+2025-12-01,2025,12,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.84,U.S. City Average,BLS
+2026-01-01,2026,1,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.791,U.S. City Average,BLS
+2026-02-01,2026,2,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,1.902,U.S. City Average,BLS
+2026-03-01,2026,3,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.255,U.S. City Average,BLS
+2026-04-01,2026,4,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.689,U.S. City Average,BLS
+2026-05-01,2026,5,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.489,U.S. City Average,BLS
+2026-06-01,2026,6,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.154,U.S. City Average,BLS
+2026-07-01,2026,7,APU0000712311,Tomatoes,"Tomatoes, field grown",pound,2.003,U.S. City Average,BLS
