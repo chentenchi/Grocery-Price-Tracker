@@ -1,17 +1,17 @@
 category,kroger_date,kroger_product,standard_unit,regular_price,promo_price,effective_price,kroger_price,on_sale,bls_date,bls_item,bls_standard_unit,bls_price,units_match,price_difference,price_difference_pct,kroger_vs_bls
-Bananas,2026-08-27,Fresh Bunch of Bananas,pound,0.69,,0.69,0.69,0,2026-07-01,Bananas,pound,0.65,True,0.039999999999999925,6.153846153846132,Above BLS
-Ground Beef,2026-08-27,Kroger 80/20 Ground Beef Tray,pound,7.49,,7.49,7.49,0,2026-07-01,All uncooked ground beef,pound,7.116,True,0.37400000000000055,5.255761663856107,Above BLS
-Potatoes,2026-08-27,Russet Potato,pound,0.99,,0.99,0.99,0,2026-07-01,"Potatoes, white",pound,0.942,True,0.04800000000000004,5.095541401273884,Above BLS
-Sugar,2026-08-27,Kroger Pure Cane Granulated Sugar,pound,3.99,,3.99,0.9975,0,2026-07-01,"Sugar, white, all sizes",pound,1.024,True,-0.026499999999999968,-2.587890625,Below BLS
-Flour,2026-08-27,Kroger Bleached All Purpose Flour,pound,2.59,,2.59,0.518,0,2026-07-01,"Flour, white, all purpose",pound,0.543,True,-0.025000000000000022,-4.604051565377532,Below BLS
-Coffee,2026-08-27,Kroger Breakfast Blend Ground Coffee,pound,6.99,5.99,5.99,8.712727272727273,1,2026-07-01,"Coffee, 100 percent, ground roast",pound,9.317,True,-0.6042727272727273,-6.485700625445179,Below BLS
-Eggs,2026-08-27,Kroger Grade A Large White Eggs,dozen,1.99,,1.99,1.99,0,2026-07-01,"Eggs, Grade A, large",dozen,2.189,True,-0.19900000000000007,-9.090909090909093,Below BLS
-Pasta,2026-08-27,Kroger Spaghetti,pound,1.33,1.25,1.25,1.25,1,2026-07-01,Spaghetti and macaroni,pound,1.381,True,-0.131,-9.485879797248376,Below BLS
-Butter,2026-08-27,Kroger Salted Butter Sticks,pound,3.49,,3.49,3.49,0,2026-07-01,"Butter, in sticks",pound,3.922,True,-0.43199999999999994,-11.01478837327894,Below BLS
-Bread,2026-08-27,Kroger White Bread,pound,1.99,,1.99,1.592,0,2026-07-01,"Bread, white, pan",pound,1.82,True,-0.22799999999999998,-12.527472527472527,Below BLS
-Rice,2026-08-27,Kroger Enriched Long Grain White Rice,pound,1.79,,1.79,0.895,0,2026-07-01,"Rice, white, long grain, uncooked",pound,1.1,True,-0.20500000000000007,-18.63636363636364,Below BLS
-Milk,2026-08-27,Kroger Vitamin D Whole Milk,gallon,3.49,,3.49,3.49,0,2026-07-01,"Milk, fresh, whole, fortified",gallon,4.313,True,-0.8229999999999995,-19.08184558312078,Below BLS
-Cheddar Cheese,2026-08-27,Kroger Medium Cheddar Block Cheese,pound,2.0,,2.0,4.0,0,2026-07-01,"Cheddar cheese, natural",pound,5.741,True,-1.7409999999999997,-30.32572722522209,Below BLS
-Tomatoes,2026-08-27,Fresh Roma Tomato,pound,1.29,,1.29,1.29,0,2026-07-01,"Tomatoes, field grown",pound,2.003,True,-0.7130000000000001,-35.59660509236146,Below BLS
-Chicken Breast,2026-08-27,Heritage Farm Boneless Skinless Chicken Breasts,pound,2.59,,2.59,2.59,0,2026-07-01,"Chicken breast, boneless",pound,4.153,True,-1.5629999999999997,-37.6354442571635,Below BLS
-Potato Chips,2026-08-27,Kroger Classic Potato Chips,pound,1.79,,1.79,3.58,0,2026-07-01,Potato chips,pound,6.559,True,-2.979,-45.41850891904253,Below BLS
+Bananas,2026-09-14,Fresh Bunch of Bananas,pound,0.69,,0.69,0.69,0,2026-07-01,Bananas,pound,0.65,True,0.039999999999999925,6.153846153846132,Above BLS
+Ground Beef,2026-09-14,Kroger 80/20 Ground Beef Tray,pound,7.49,,7.49,7.49,0,2026-07-01,All uncooked ground beef,pound,7.116,True,0.37400000000000055,5.255761663856107,Above BLS
+Potatoes,2026-09-14,Russet Potato,pound,0.99,,0.99,0.99,0,2026-07-01,"Potatoes, white",pound,0.942,True,0.04800000000000004,5.095541401273884,Above BLS
+Sugar,2026-09-14,Kroger Pure Cane Granulated Sugar,pound,3.99,,3.99,0.9975,0,2026-07-01,"Sugar, white, all sizes",pound,1.024,True,-0.026499999999999968,-2.587890625,Below BLS
+Pasta,2026-09-14,Kroger Spaghetti,pound,1.33,,1.33,1.33,0,2026-07-01,Spaghetti and macaroni,pound,1.381,True,-0.050999999999999934,-3.692976104272261,Below BLS
+Flour,2026-09-14,Kroger Bleached All Purpose Flour,pound,2.59,,2.59,0.518,0,2026-07-01,"Flour, white, all purpose",pound,0.543,True,-0.025000000000000022,-4.604051565377532,Below BLS
+Coffee,2026-09-14,Kroger Breakfast Blend Ground Coffee,pound,6.0,,6.0,8.727272727272727,0,2026-07-01,"Coffee, 100 percent, ground roast",pound,9.317,True,-0.5897272727272735,-6.329583264218885,Below BLS
+Butter,2026-09-14,Kroger Salted Butter Sticks,pound,3.49,,3.49,3.49,0,2026-07-01,"Butter, in sticks",pound,3.922,True,-0.43199999999999994,-11.01478837327894,Below BLS
+Bread,2026-09-14,Kroger White Bread,pound,1.99,,1.99,1.592,0,2026-07-01,"Bread, white, pan",pound,1.82,True,-0.22799999999999998,-12.527472527472527,Below BLS
+Eggs,2026-09-14,Kroger Grade A Large White Eggs,dozen,1.89,,1.89,1.89,0,2026-07-01,"Eggs, Grade A, large",dozen,2.189,True,-0.29900000000000015,-13.659205116491558,Below BLS
+Rice,2026-09-14,Kroger Enriched Long Grain White Rice,pound,1.79,,1.79,0.895,0,2026-07-01,"Rice, white, long grain, uncooked",pound,1.1,True,-0.20500000000000007,-18.63636363636364,Below BLS
+Milk,2026-09-14,Kroger Vitamin D Whole Milk,gallon,3.39,,3.39,3.39,0,2026-07-01,"Milk, fresh, whole, fortified",gallon,4.313,True,-0.9229999999999996,-21.400417342916754,Below BLS
+Cheddar Cheese,2026-09-14,Kroger Medium Cheddar Block Cheese,pound,2.0,,2.0,4.0,0,2026-07-01,"Cheddar cheese, natural",pound,5.741,True,-1.7409999999999997,-30.32572722522209,Below BLS
+Tomatoes,2026-09-14,Fresh Roma Tomato,pound,1.29,,1.29,1.29,0,2026-07-01,"Tomatoes, field grown",pound,2.003,True,-0.7130000000000001,-35.59660509236146,Below BLS
+Chicken Breast,2026-09-14,Heritage Farm Boneless Skinless Chicken Breasts,pound,2.59,,2.59,2.59,0,2026-07-01,"Chicken breast, boneless",pound,4.153,True,-1.5629999999999997,-37.6354442571635,Below BLS
+Potato Chips,2026-09-14,Kroger Classic Potato Chips,pound,1.79,,1.79,3.58,0,2026-07-01,Potato chips,pound,6.559,True,-2.979,-45.41850891904253,Below BLS

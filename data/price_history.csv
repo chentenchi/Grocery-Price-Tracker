@@ -61,7 +61,403 @@ snapshot_date,location_id,category,product_name,product_id,package_size,standard
 2026-08-27,01400513,Orange Juice,Kroger 100% Orange Juice Pulp Free,0001111048480,1/2 gal,gallon,0.5,4.49,,4.49,8.98,False
 2026-08-27,01400513,Cereal,Kroger Bite Size Frosted Shredded Wheat Cereal,0001111086705,18 oz,pound,1.125,1.99,,1.99,1.768888888888889,False
 2026-08-27,01400513,Peanut Butter,Kroger Creamy Peanut Butter,0001111001618,16 oz,pound,1.0,2.29,,2.29,2.29,False
-2026-08-27,01400513,Vegetable Oil,Kroger 100% Pure Vegetable Oil,0001111085605,48 fl oz,gallon,0.375,4.39,,4.39,11.706666666666665,False
+2026-08-27,01400513,Vegetable Oil,Kroger 100% Pure Vegetable Oil,0001111085605,48 fl oz,gallon,0.375,4.39,,4.39,11.706666666666663,False
 2026-08-27,01400513,Onions,Jumbo Yellow Onions,0000000004093,1 lb,pound,1.0,1.19,,1.19,1.19,False
 2026-08-27,01400513,Apples,Large Gala Apple,0000000004134,1 lb,pound,1.0,1.89,,1.89,1.89,False
 2026-08-27,01400513,Potato Chips,Kroger Classic Potato Chips,0001111008889,8 oz,pound,0.5,1.79,,1.79,3.58,False
+2026-08-28,01400513,Eggs,Kroger Grade A Large White Eggs,0001111060903,12 ct,dozen,1.0,1.99,,1.99,1.99,False
+2026-08-28,01400513,Milk,Kroger Vitamin D Whole Milk,0001111040101,1 gal,gallon,1.0,3.49,,3.49,3.49,False
+2026-08-28,01400513,Bread,Kroger White Bread,0001111008485,20 oz,pound,1.25,1.99,,1.99,1.592,False
+2026-08-28,01400513,Butter,Kroger Salted Butter Sticks,0001111089301,16 oz,pound,1.0,3.49,,3.49,3.49,False
+2026-08-28,01400513,Bananas,Fresh Bunch of Bananas,0000000004011,1 lb,pound,1.0,0.69,,0.69,0.69,False
+2026-08-28,01400513,Chicken Breast,Heritage Farm Boneless Skinless Chicken Breasts,0028334900000,1 lb,pound,1.0,2.59,,2.59,2.59,False
+2026-08-28,01400513,Ground Beef,Kroger 80/20 Ground Beef Tray,0001111069982,1 lb,pound,1.0,7.49,,7.49,7.49,False
+2026-08-28,01400513,Rice,Kroger Enriched Long Grain White Rice,0001111089875,32 oz,pound,2.0,1.79,,1.79,0.895,False
+2026-08-28,01400513,Pasta,Kroger Spaghetti,0001111085004,16 oz,pound,1.0,1.33,1.25,1.25,1.25,True
+2026-08-28,01400513,Coffee,Kroger Breakfast Blend Ground Coffee,0001111010738,11 oz,pound,0.6875,6.99,5.99,5.99,8.712727272727273,True
+2026-08-28,01400513,Sugar,Kroger Pure Cane Granulated Sugar,0001111088318,4 lb,pound,4.0,3.99,,3.99,0.9975,False
+2026-08-28,01400513,Flour,Kroger Bleached All Purpose Flour,0001111085402,5 lb,pound,5.0,2.59,,2.59,0.518,False
+2026-08-28,01400513,Potatoes,Russet Potato,0000000004072,1 lb,pound,1.0,0.99,,0.99,0.99,False
+2026-08-28,01400513,Tomatoes,Fresh Roma Tomato,0000000004087,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-08-28,01400513,Cheddar Cheese,Kroger Medium Cheddar Block Cheese,0001111058626,8 oz,pound,0.5,2.0,,2.0,4.0,False
+2026-08-28,01400513,Orange Juice,Kroger 100% Orange Juice Pulp Free,0001111048480,1/2 gal,gallon,0.5,4.49,,4.49,8.98,False
+2026-08-28,01400513,Cereal,Kroger Bite Size Frosted Shredded Wheat Cereal,0001111086705,18 oz,pound,1.125,1.99,,1.99,1.768888888888889,False
+2026-08-28,01400513,Peanut Butter,Kroger Creamy Peanut Butter,0001111001618,16 oz,pound,1.0,2.29,,2.29,2.29,False
+2026-08-28,01400513,Vegetable Oil,Kroger 100% Pure Vegetable Oil,0001111085605,48 fl oz,gallon,0.375,4.39,,4.39,11.706666666666663,False
+2026-08-28,01400513,Onions,Jumbo Yellow Onions,0000000004093,1 lb,pound,1.0,1.19,,1.19,1.19,False
+2026-08-28,01400513,Apples,Large Gala Apple,0000000004134,1 lb,pound,1.0,1.89,,1.89,1.89,False
+2026-08-28,01400513,Potato Chips,Kroger Classic Potato Chips,0001111008889,8 oz,pound,0.5,1.79,,1.79,3.58,False
+2026-08-29,01400513,Eggs,Kroger Grade A Large White Eggs,0001111060903,12 ct,dozen,1.0,1.99,,1.99,1.99,False
+2026-08-29,01400513,Milk,Kroger Vitamin D Whole Milk,0001111040101,1 gal,gallon,1.0,3.49,,3.49,3.49,False
+2026-08-29,01400513,Bread,Kroger White Bread,0001111008485,20 oz,pound,1.25,1.99,,1.99,1.592,False
+2026-08-29,01400513,Butter,Kroger Salted Butter Sticks,0001111089301,16 oz,pound,1.0,3.49,,3.49,3.49,False
+2026-08-29,01400513,Bananas,Fresh Bunch of Bananas,0000000004011,1 lb,pound,1.0,0.69,,0.69,0.69,False
+2026-08-29,01400513,Chicken Breast,Heritage Farm Boneless Skinless Chicken Breasts,0028334900000,1 lb,pound,1.0,2.59,,2.59,2.59,False
+2026-08-29,01400513,Ground Beef,Kroger 80/20 Ground Beef Tray,0001111069982,1 lb,pound,1.0,7.49,,7.49,7.49,False
+2026-08-29,01400513,Rice,Kroger Enriched Long Grain White Rice,0001111089875,32 oz,pound,2.0,1.79,,1.79,0.895,False
+2026-08-29,01400513,Pasta,Kroger Spaghetti,0001111085004,16 oz,pound,1.0,1.33,1.25,1.25,1.25,True
+2026-08-29,01400513,Coffee,Kroger Breakfast Blend Ground Coffee,0001111010738,11 oz,pound,0.6875,6.99,5.99,5.99,8.712727272727273,True
+2026-08-29,01400513,Sugar,Kroger Pure Cane Granulated Sugar,0001111088318,4 lb,pound,4.0,3.99,,3.99,0.9975,False
+2026-08-29,01400513,Flour,Kroger Bleached All Purpose Flour,0001111085402,5 lb,pound,5.0,2.59,,2.59,0.518,False
+2026-08-29,01400513,Potatoes,Russet Potato,0000000004072,1 lb,pound,1.0,0.99,,0.99,0.99,False
+2026-08-29,01400513,Tomatoes,Fresh Roma Tomato,0000000004087,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-08-29,01400513,Cheddar Cheese,Kroger Medium Cheddar Block Cheese,0001111058626,8 oz,pound,0.5,2.0,,2.0,4.0,False
+2026-08-29,01400513,Orange Juice,Kroger 100% Orange Juice Pulp Free,0001111048480,1/2 gal,gallon,0.5,4.49,,4.49,8.98,False
+2026-08-29,01400513,Cereal,Kroger Bite Size Frosted Shredded Wheat Cereal,0001111086705,18 oz,pound,1.125,1.99,,1.99,1.768888888888889,False
+2026-08-29,01400513,Peanut Butter,Kroger Creamy Peanut Butter,0001111001618,16 oz,pound,1.0,2.29,,2.29,2.29,False
+2026-08-29,01400513,Vegetable Oil,Kroger 100% Pure Vegetable Oil,0001111085605,48 fl oz,gallon,0.375,4.39,,4.39,11.706666666666663,False
+2026-08-29,01400513,Onions,Jumbo Yellow Onions,0000000004093,1 lb,pound,1.0,1.19,,1.19,1.19,False
+2026-08-29,01400513,Apples,Large Gala Apple,0000000004134,1 lb,pound,1.0,1.89,,1.89,1.89,False
+2026-08-29,01400513,Potato Chips,Kroger Classic Potato Chips,0001111008889,8 oz,pound,0.5,1.79,,1.79,3.58,False
+2026-08-30,01400513,Eggs,Kroger Grade A Large White Eggs,0001111060903,12 ct,dozen,1.0,1.99,,1.99,1.99,False
+2026-08-30,01400513,Milk,Kroger Vitamin D Whole Milk,0001111040101,1 gal,gallon,1.0,3.49,,3.49,3.49,False
+2026-08-30,01400513,Bread,Kroger White Bread,0001111008485,20 oz,pound,1.25,1.99,,1.99,1.592,False
+2026-08-30,01400513,Butter,Kroger Salted Butter Sticks,0001111089301,16 oz,pound,1.0,3.49,,3.49,3.49,False
+2026-08-30,01400513,Bananas,Fresh Bunch of Bananas,0000000004011,1 lb,pound,1.0,0.69,,0.69,0.69,False
+2026-08-30,01400513,Chicken Breast,Heritage Farm Boneless Skinless Chicken Breasts,0028334900000,1 lb,pound,1.0,2.59,,2.59,2.59,False
+2026-08-30,01400513,Ground Beef,Kroger 80/20 Ground Beef Tray,0001111069982,1 lb,pound,1.0,7.49,,7.49,7.49,False
+2026-08-30,01400513,Rice,Kroger Enriched Long Grain White Rice,0001111089875,32 oz,pound,2.0,1.79,,1.79,0.895,False
+2026-08-30,01400513,Pasta,Kroger Spaghetti,0001111085004,16 oz,pound,1.0,1.33,1.25,1.25,1.25,True
+2026-08-30,01400513,Coffee,Kroger Breakfast Blend Ground Coffee,0001111010738,11 oz,pound,0.6875,6.99,5.99,5.99,8.712727272727273,True
+2026-08-30,01400513,Sugar,Kroger Pure Cane Granulated Sugar,0001111088318,4 lb,pound,4.0,3.99,,3.99,0.9975,False
+2026-08-30,01400513,Flour,Kroger Bleached All Purpose Flour,0001111085402,5 lb,pound,5.0,2.59,,2.59,0.518,False
+2026-08-30,01400513,Potatoes,Russet Potato,0000000004072,1 lb,pound,1.0,0.99,,0.99,0.99,False
+2026-08-30,01400513,Tomatoes,Fresh Roma Tomato,0000000004087,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-08-30,01400513,Cheddar Cheese,Kroger Medium Cheddar Block Cheese,0001111058626,8 oz,pound,0.5,2.0,,2.0,4.0,False
+2026-08-30,01400513,Orange Juice,Kroger 100% Orange Juice Pulp Free,0001111048480,1/2 gal,gallon,0.5,4.49,,4.49,8.98,False
+2026-08-30,01400513,Cereal,Kroger Bite Size Frosted Shredded Wheat Cereal,0001111086705,18 oz,pound,1.125,1.99,,1.99,1.768888888888889,False
+2026-08-30,01400513,Peanut Butter,Kroger Creamy Peanut Butter,0001111001618,16 oz,pound,1.0,2.29,,2.29,2.29,False
+2026-08-30,01400513,Vegetable Oil,Kroger 100% Pure Vegetable Oil,0001111085605,48 fl oz,gallon,0.375,4.39,,4.39,11.706666666666663,False
+2026-08-30,01400513,Onions,Jumbo Yellow Onions,0000000004093,1 lb,pound,1.0,1.19,,1.19,1.19,False
+2026-08-30,01400513,Apples,Large Gala Apple,0000000004134,1 lb,pound,1.0,1.89,,1.89,1.89,False
+2026-08-30,01400513,Potato Chips,Kroger Classic Potato Chips,0001111008889,8 oz,pound,0.5,1.79,,1.79,3.58,False
+2026-08-31,01400513,Eggs,Kroger Grade A Large White Eggs,0001111060903,12 ct,dozen,1.0,1.99,,1.99,1.99,False
+2026-08-31,01400513,Milk,Kroger Vitamin D Whole Milk,0001111040101,1 gal,gallon,1.0,3.49,,3.49,3.49,False
+2026-08-31,01400513,Bread,Kroger White Bread,0001111008485,20 oz,pound,1.25,1.99,,1.99,1.592,False
+2026-08-31,01400513,Butter,Kroger Salted Butter Sticks,0001111089301,16 oz,pound,1.0,3.49,,3.49,3.49,False
+2026-08-31,01400513,Bananas,Fresh Bunch of Bananas,0000000004011,1 lb,pound,1.0,0.69,,0.69,0.69,False
+2026-08-31,01400513,Chicken Breast,Heritage Farm Boneless Skinless Chicken Breasts,0028334900000,1 lb,pound,1.0,2.59,,2.59,2.59,False
+2026-08-31,01400513,Ground Beef,Kroger 80/20 Ground Beef Tray,0001111069982,1 lb,pound,1.0,7.49,,7.49,7.49,False
+2026-08-31,01400513,Rice,Kroger Enriched Long Grain White Rice,0001111089875,32 oz,pound,2.0,1.79,,1.79,0.895,False
+2026-08-31,01400513,Pasta,Kroger Spaghetti,0001111085004,16 oz,pound,1.0,1.33,1.25,1.25,1.25,True
+2026-08-31,01400513,Coffee,Kroger Breakfast Blend Ground Coffee,0001111010738,11 oz,pound,0.6875,6.99,5.99,5.99,8.712727272727273,True
+2026-08-31,01400513,Sugar,Kroger Pure Cane Granulated Sugar,0001111088318,4 lb,pound,4.0,3.99,,3.99,0.9975,False
+2026-08-31,01400513,Flour,Kroger Bleached All Purpose Flour,0001111085402,5 lb,pound,5.0,2.59,,2.59,0.518,False
+2026-08-31,01400513,Potatoes,Russet Potato,0000000004072,1 lb,pound,1.0,0.99,,0.99,0.99,False
+2026-08-31,01400513,Tomatoes,Fresh Roma Tomato,0000000004087,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-08-31,01400513,Cheddar Cheese,Kroger Medium Cheddar Block Cheese,0001111058626,8 oz,pound,0.5,2.0,,2.0,4.0,False
+2026-08-31,01400513,Orange Juice,Kroger 100% Orange Juice Pulp Free,0001111048480,1/2 gal,gallon,0.5,4.49,,4.49,8.98,False
+2026-08-31,01400513,Cereal,Kroger Bite Size Frosted Shredded Wheat Cereal,0001111086705,18 oz,pound,1.125,1.99,,1.99,1.768888888888889,False
+2026-08-31,01400513,Peanut Butter,Kroger Creamy Peanut Butter,0001111001618,16 oz,pound,1.0,2.29,,2.29,2.29,False
+2026-08-31,01400513,Vegetable Oil,Kroger 100% Pure Vegetable Oil,0001111085605,48 fl oz,gallon,0.375,4.39,,4.39,11.706666666666663,False
+2026-08-31,01400513,Onions,Jumbo Yellow Onions,0000000004093,1 lb,pound,1.0,1.19,,1.19,1.19,False
+2026-08-31,01400513,Apples,Large Gala Apple,0000000004134,1 lb,pound,1.0,1.89,,1.89,1.89,False
+2026-08-31,01400513,Potato Chips,Kroger Classic Potato Chips,0001111008889,8 oz,pound,0.5,1.79,,1.79,3.58,False
+2026-09-01,01400513,Eggs,Kroger Grade A Large White Eggs,0001111060903,12 ct,dozen,1.0,1.99,,1.99,1.99,False
+2026-09-01,01400513,Milk,Kroger Vitamin D Whole Milk,0001111040101,1 gal,gallon,1.0,3.49,,3.49,3.49,False
+2026-09-01,01400513,Bread,Kroger White Bread,0001111008485,20 oz,pound,1.25,1.99,,1.99,1.592,False
+2026-09-01,01400513,Butter,Kroger Salted Butter Sticks,0001111089301,16 oz,pound,1.0,3.49,,3.49,3.49,False
+2026-09-01,01400513,Bananas,Fresh Bunch of Bananas,0000000004011,1 lb,pound,1.0,0.69,,0.69,0.69,False
+2026-09-01,01400513,Chicken Breast,Heritage Farm Boneless Skinless Chicken Breasts,0028334900000,1 lb,pound,1.0,2.59,,2.59,2.59,False
+2026-09-01,01400513,Ground Beef,Kroger 80/20 Ground Beef Tray,0001111069982,1 lb,pound,1.0,7.49,,7.49,7.49,False
+2026-09-01,01400513,Rice,Kroger Enriched Long Grain White Rice,0001111089875,32 oz,pound,2.0,1.79,,1.79,0.895,False
+2026-09-01,01400513,Pasta,Kroger Spaghetti,0001111085004,16 oz,pound,1.0,1.33,1.25,1.25,1.25,True
+2026-09-01,01400513,Coffee,Kroger Breakfast Blend Ground Coffee,0001111010738,11 oz,pound,0.6875,6.99,5.99,5.99,8.712727272727273,True
+2026-09-01,01400513,Sugar,Kroger Pure Cane Granulated Sugar,0001111088318,4 lb,pound,4.0,3.99,,3.99,0.9975,False
+2026-09-01,01400513,Flour,Kroger Bleached All Purpose Flour,0001111085402,5 lb,pound,5.0,2.59,,2.59,0.518,False
+2026-09-01,01400513,Potatoes,Russet Potato,0000000004072,1 lb,pound,1.0,0.99,,0.99,0.99,False
+2026-09-01,01400513,Tomatoes,Fresh Roma Tomato,0000000004087,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-01,01400513,Cheddar Cheese,Kroger Medium Cheddar Block Cheese,0001111058626,8 oz,pound,0.5,2.0,,2.0,4.0,False
+2026-09-01,01400513,Orange Juice,Kroger 100% Orange Juice Pulp Free,0001111048480,1/2 gal,gallon,0.5,4.49,,4.49,8.98,False
+2026-09-01,01400513,Cereal,Kroger Bite Size Frosted Shredded Wheat Cereal,0001111086705,18 oz,pound,1.125,1.99,,1.99,1.768888888888889,False
+2026-09-01,01400513,Peanut Butter,Kroger Creamy Peanut Butter,0001111001618,16 oz,pound,1.0,2.29,,2.29,2.29,False
+2026-09-01,01400513,Vegetable Oil,Kroger 100% Pure Vegetable Oil,0001111085605,48 fl oz,gallon,0.375,4.39,,4.39,11.706666666666663,False
+2026-09-01,01400513,Onions,Jumbo Yellow Onions,0000000004093,1 lb,pound,1.0,1.19,,1.19,1.19,False
+2026-09-01,01400513,Apples,Large Gala Apple,0000000004134,1 lb,pound,1.0,1.89,,1.89,1.89,False
+2026-09-01,01400513,Potato Chips,Kroger Classic Potato Chips,0001111008889,8 oz,pound,0.5,1.79,,1.79,3.58,False
+2026-09-02,01400513,Eggs,Kroger Grade A Large White Eggs,0001111060903,12 ct,dozen,1.0,1.89,,1.89,1.89,False
+2026-09-02,01400513,Milk,Kroger Vitamin D Whole Milk,0001111040101,1 gal,gallon,1.0,3.39,,3.39,3.39,False
+2026-09-02,01400513,Bread,Kroger White Bread,0001111008485,20 oz,pound,1.25,1.99,,1.99,1.592,False
+2026-09-02,01400513,Butter,Kroger Salted Butter Sticks,0001111089301,16 oz,pound,1.0,3.49,2.99,2.99,2.99,True
+2026-09-02,01400513,Bananas,Fresh Bunch of Bananas,0000000004011,1 lb,pound,1.0,0.69,,0.69,0.69,False
+2026-09-02,01400513,Chicken Breast,Heritage Farm Boneless Skinless Chicken Breasts,0028334900000,1 lb,pound,1.0,2.59,,2.59,2.59,False
+2026-09-02,01400513,Ground Beef,Kroger 80/20 Ground Beef Tray,0001111069982,1 lb,pound,1.0,7.49,,7.49,7.49,False
+2026-09-02,01400513,Rice,Kroger Enriched Long Grain White Rice,0001111089875,32 oz,pound,2.0,1.79,,1.79,0.895,False
+2026-09-02,01400513,Pasta,Kroger Spaghetti,0001111085004,16 oz,pound,1.0,1.33,,1.33,1.33,False
+2026-09-02,01400513,Coffee,Kroger Breakfast Blend Ground Coffee,0001111010738,11 oz,pound,0.6875,6.0,,6.0,8.727272727272727,False
+2026-09-02,01400513,Sugar,Kroger Pure Cane Granulated Sugar,0001111088318,4 lb,pound,4.0,3.99,,3.99,0.9975,False
+2026-09-02,01400513,Flour,Kroger Bleached All Purpose Flour,0001111085402,5 lb,pound,5.0,2.59,,2.59,0.518,False
+2026-09-02,01400513,Potatoes,Russet Potato,0000000004072,1 lb,pound,1.0,0.99,,0.99,0.99,False
+2026-09-02,01400513,Tomatoes,Fresh Roma Tomato,0000000004087,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-02,01400513,Cheddar Cheese,Kroger Medium Cheddar Block Cheese,0001111058626,8 oz,pound,0.5,2.0,,2.0,4.0,False
+2026-09-02,01400513,Orange Juice,Kroger 100% Orange Juice Pulp Free,0001111048480,1/2 gal,gallon,0.5,4.49,,4.49,8.98,False
+2026-09-02,01400513,Cereal,Kroger Bite Size Frosted Shredded Wheat Cereal,0001111086705,18 oz,pound,1.125,2.0,,2.0,1.7777777777777777,False
+2026-09-02,01400513,Peanut Butter,Kroger Creamy Peanut Butter,0001111001618,16 oz,pound,1.0,2.29,,2.29,2.29,False
+2026-09-02,01400513,Vegetable Oil,Kroger 100% Pure Vegetable Oil,0001111085605,48 fl oz,gallon,0.375,4.39,,4.39,11.706666666666663,False
+2026-09-02,01400513,Onions,Jumbo Yellow Onions,0000000004093,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-02,01400513,Apples,Large Gala Apple,0000000004134,1 lb,pound,1.0,1.89,,1.89,1.89,False
+2026-09-02,01400513,Potato Chips,Kroger Classic Potato Chips,0001111008889,8 oz,pound,0.5,1.79,,1.79,3.58,False
+2026-09-03,01400513,Eggs,Kroger Grade A Large White Eggs,0001111060903,12 ct,dozen,1.0,1.89,,1.89,1.89,False
+2026-09-03,01400513,Milk,Kroger Vitamin D Whole Milk,0001111040101,1 gal,gallon,1.0,3.39,,3.39,3.39,False
+2026-09-03,01400513,Bread,Kroger White Bread,0001111008485,20 oz,pound,1.25,1.99,,1.99,1.592,False
+2026-09-03,01400513,Butter,Kroger Salted Butter Sticks,0001111089301,16 oz,pound,1.0,3.49,2.99,2.99,2.99,True
+2026-09-03,01400513,Bananas,Fresh Bunch of Bananas,0000000004011,1 lb,pound,1.0,0.69,,0.69,0.69,False
+2026-09-03,01400513,Chicken Breast,Heritage Farm Boneless Skinless Chicken Breasts,0028334900000,1 lb,pound,1.0,2.59,,2.59,2.59,False
+2026-09-03,01400513,Ground Beef,Kroger 80/20 Ground Beef Tray,0001111069982,1 lb,pound,1.0,7.49,,7.49,7.49,False
+2026-09-03,01400513,Rice,Kroger Enriched Long Grain White Rice,0001111089875,32 oz,pound,2.0,1.79,,1.79,0.895,False
+2026-09-03,01400513,Pasta,Kroger Spaghetti,0001111085004,16 oz,pound,1.0,1.33,,1.33,1.33,False
+2026-09-03,01400513,Coffee,Kroger Breakfast Blend Ground Coffee,0001111010738,11 oz,pound,0.6875,6.0,,6.0,8.727272727272727,False
+2026-09-03,01400513,Sugar,Kroger Pure Cane Granulated Sugar,0001111088318,4 lb,pound,4.0,3.99,,3.99,0.9975,False
+2026-09-03,01400513,Flour,Kroger Bleached All Purpose Flour,0001111085402,5 lb,pound,5.0,2.59,,2.59,0.518,False
+2026-09-03,01400513,Potatoes,Russet Potato,0000000004072,1 lb,pound,1.0,0.99,,0.99,0.99,False
+2026-09-03,01400513,Tomatoes,Fresh Roma Tomato,0000000004087,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-03,01400513,Cheddar Cheese,Kroger Medium Cheddar Block Cheese,0001111058626,8 oz,pound,0.5,2.0,,2.0,4.0,False
+2026-09-03,01400513,Orange Juice,Kroger 100% Orange Juice Pulp Free,0001111048480,1/2 gal,gallon,0.5,4.49,,4.49,8.98,False
+2026-09-03,01400513,Cereal,Kroger Bite Size Frosted Shredded Wheat Cereal,0001111086705,18 oz,pound,1.125,2.0,,2.0,1.7777777777777777,False
+2026-09-03,01400513,Peanut Butter,Kroger Creamy Peanut Butter,0001111001618,16 oz,pound,1.0,2.29,,2.29,2.29,False
+2026-09-03,01400513,Vegetable Oil,Kroger 100% Pure Vegetable Oil,0001111085605,48 fl oz,gallon,0.375,4.39,,4.39,11.706666666666663,False
+2026-09-03,01400513,Onions,Jumbo Yellow Onions,0000000004093,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-03,01400513,Apples,Large Gala Apple,0000000004134,1 lb,pound,1.0,1.89,,1.89,1.89,False
+2026-09-03,01400513,Potato Chips,Kroger Classic Potato Chips,0001111008889,8 oz,pound,0.5,1.79,,1.79,3.58,False
+2026-09-04,01400513,Eggs,Kroger Grade A Large White Eggs,0001111060903,12 ct,dozen,1.0,1.89,,1.89,1.89,False
+2026-09-04,01400513,Milk,Kroger Vitamin D Whole Milk,0001111040101,1 gal,gallon,1.0,3.39,,3.39,3.39,False
+2026-09-04,01400513,Bread,Kroger White Bread,0001111008485,20 oz,pound,1.25,1.99,,1.99,1.592,False
+2026-09-04,01400513,Butter,Kroger Salted Butter Sticks,0001111089301,16 oz,pound,1.0,3.49,2.99,2.99,2.99,True
+2026-09-04,01400513,Bananas,Fresh Bunch of Bananas,0000000004011,1 lb,pound,1.0,0.69,,0.69,0.69,False
+2026-09-04,01400513,Chicken Breast,Heritage Farm Boneless Skinless Chicken Breasts,0028334900000,1 lb,pound,1.0,2.59,,2.59,2.59,False
+2026-09-04,01400513,Ground Beef,Kroger 80/20 Ground Beef Tray,0001111069982,1 lb,pound,1.0,7.49,,7.49,7.49,False
+2026-09-04,01400513,Rice,Kroger Enriched Long Grain White Rice,0001111089875,32 oz,pound,2.0,1.79,,1.79,0.895,False
+2026-09-04,01400513,Pasta,Kroger Spaghetti,0001111085004,16 oz,pound,1.0,1.33,,1.33,1.33,False
+2026-09-04,01400513,Coffee,Kroger Breakfast Blend Ground Coffee,0001111010738,11 oz,pound,0.6875,6.0,,6.0,8.727272727272727,False
+2026-09-04,01400513,Sugar,Kroger Pure Cane Granulated Sugar,0001111088318,4 lb,pound,4.0,3.99,,3.99,0.9975,False
+2026-09-04,01400513,Flour,Kroger Bleached All Purpose Flour,0001111085402,5 lb,pound,5.0,2.59,,2.59,0.518,False
+2026-09-04,01400513,Potatoes,Russet Potato,0000000004072,1 lb,pound,1.0,0.99,,0.99,0.99,False
+2026-09-04,01400513,Tomatoes,Fresh Roma Tomato,0000000004087,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-04,01400513,Cheddar Cheese,Kroger Medium Cheddar Block Cheese,0001111058626,8 oz,pound,0.5,2.0,,2.0,4.0,False
+2026-09-04,01400513,Orange Juice,Kroger 100% Orange Juice Pulp Free,0001111048480,1/2 gal,gallon,0.5,4.49,,4.49,8.98,False
+2026-09-04,01400513,Cereal,Kroger Bite Size Frosted Shredded Wheat Cereal,0001111086705,18 oz,pound,1.125,2.0,,2.0,1.7777777777777777,False
+2026-09-04,01400513,Peanut Butter,Kroger Creamy Peanut Butter,0001111001618,16 oz,pound,1.0,2.29,,2.29,2.29,False
+2026-09-04,01400513,Vegetable Oil,Kroger 100% Pure Vegetable Oil,0001111085605,48 fl oz,gallon,0.375,4.39,,4.39,11.706666666666663,False
+2026-09-04,01400513,Onions,Jumbo Yellow Onions,0000000004093,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-04,01400513,Apples,Large Gala Apple,0000000004134,1 lb,pound,1.0,1.89,,1.89,1.89,False
+2026-09-04,01400513,Potato Chips,Kroger Classic Potato Chips,0001111008889,8 oz,pound,0.5,1.79,,1.79,3.58,False
+2026-09-05,01400513,Eggs,Kroger Grade A Large White Eggs,0001111060903,12 ct,dozen,1.0,1.89,,1.89,1.89,False
+2026-09-05,01400513,Milk,Kroger Vitamin D Whole Milk,0001111040101,1 gal,gallon,1.0,3.39,,3.39,3.39,False
+2026-09-05,01400513,Bread,Kroger White Bread,0001111008485,20 oz,pound,1.25,1.99,,1.99,1.592,False
+2026-09-05,01400513,Butter,Kroger Salted Butter Sticks,0001111089301,16 oz,pound,1.0,3.49,2.99,2.99,2.99,True
+2026-09-05,01400513,Bananas,Fresh Bunch of Bananas,0000000004011,1 lb,pound,1.0,0.69,,0.69,0.69,False
+2026-09-05,01400513,Chicken Breast,Heritage Farm Boneless Skinless Chicken Breasts,0028334900000,1 lb,pound,1.0,2.59,,2.59,2.59,False
+2026-09-05,01400513,Ground Beef,Kroger 80/20 Ground Beef Tray,0001111069982,1 lb,pound,1.0,7.49,,7.49,7.49,False
+2026-09-05,01400513,Rice,Kroger Enriched Long Grain White Rice,0001111089875,32 oz,pound,2.0,1.79,,1.79,0.895,False
+2026-09-05,01400513,Pasta,Kroger Spaghetti,0001111085004,16 oz,pound,1.0,1.33,,1.33,1.33,False
+2026-09-05,01400513,Coffee,Kroger Breakfast Blend Ground Coffee,0001111010738,11 oz,pound,0.6875,6.0,,6.0,8.727272727272727,False
+2026-09-05,01400513,Sugar,Kroger Pure Cane Granulated Sugar,0001111088318,4 lb,pound,4.0,3.99,,3.99,0.9975,False
+2026-09-05,01400513,Flour,Kroger Bleached All Purpose Flour,0001111085402,5 lb,pound,5.0,2.59,,2.59,0.518,False
+2026-09-05,01400513,Potatoes,Russet Potato,0000000004072,1 lb,pound,1.0,0.99,,0.99,0.99,False
+2026-09-05,01400513,Tomatoes,Fresh Roma Tomato,0000000004087,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-05,01400513,Cheddar Cheese,Kroger Medium Cheddar Block Cheese,0001111058626,8 oz,pound,0.5,2.0,,2.0,4.0,False
+2026-09-05,01400513,Orange Juice,Kroger 100% Orange Juice Pulp Free,0001111048480,1/2 gal,gallon,0.5,4.49,,4.49,8.98,False
+2026-09-05,01400513,Cereal,Kroger Bite Size Frosted Shredded Wheat Cereal,0001111086705,18 oz,pound,1.125,2.0,,2.0,1.7777777777777777,False
+2026-09-05,01400513,Peanut Butter,Kroger Creamy Peanut Butter,0001111001618,16 oz,pound,1.0,2.29,,2.29,2.29,False
+2026-09-05,01400513,Vegetable Oil,Kroger 100% Pure Vegetable Oil,0001111085605,48 fl oz,gallon,0.375,4.39,,4.39,11.706666666666663,False
+2026-09-05,01400513,Onions,Jumbo Yellow Onions,0000000004093,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-05,01400513,Apples,Large Gala Apple,0000000004134,1 lb,pound,1.0,1.89,,1.89,1.89,False
+2026-09-05,01400513,Potato Chips,Kroger Classic Potato Chips,0001111008889,8 oz,pound,0.5,1.79,,1.79,3.58,False
+2026-09-06,01400513,Eggs,Kroger Grade A Large White Eggs,0001111060903,12 ct,dozen,1.0,1.89,,1.89,1.89,False
+2026-09-06,01400513,Milk,Kroger Vitamin D Whole Milk,0001111040101,1 gal,gallon,1.0,3.39,,3.39,3.39,False
+2026-09-06,01400513,Bread,Kroger White Bread,0001111008485,20 oz,pound,1.25,1.99,,1.99,1.592,False
+2026-09-06,01400513,Butter,Kroger Salted Butter Sticks,0001111089301,16 oz,pound,1.0,3.49,2.99,2.99,2.99,True
+2026-09-06,01400513,Bananas,Fresh Bunch of Bananas,0000000004011,1 lb,pound,1.0,0.69,,0.69,0.69,False
+2026-09-06,01400513,Chicken Breast,Heritage Farm Boneless Skinless Chicken Breasts,0028334900000,1 lb,pound,1.0,2.59,,2.59,2.59,False
+2026-09-06,01400513,Ground Beef,Kroger 80/20 Ground Beef Tray,0001111069982,1 lb,pound,1.0,7.49,,7.49,7.49,False
+2026-09-06,01400513,Rice,Kroger Enriched Long Grain White Rice,0001111089875,32 oz,pound,2.0,1.79,,1.79,0.895,False
+2026-09-06,01400513,Pasta,Kroger Spaghetti,0001111085004,16 oz,pound,1.0,1.33,,1.33,1.33,False
+2026-09-06,01400513,Coffee,Kroger Breakfast Blend Ground Coffee,0001111010738,11 oz,pound,0.6875,6.0,,6.0,8.727272727272727,False
+2026-09-06,01400513,Sugar,Kroger Pure Cane Granulated Sugar,0001111088318,4 lb,pound,4.0,3.99,,3.99,0.9975,False
+2026-09-06,01400513,Flour,Kroger Bleached All Purpose Flour,0001111085402,5 lb,pound,5.0,2.59,,2.59,0.518,False
+2026-09-06,01400513,Potatoes,Russet Potato,0000000004072,1 lb,pound,1.0,0.99,,0.99,0.99,False
+2026-09-06,01400513,Tomatoes,Fresh Roma Tomato,0000000004087,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-06,01400513,Cheddar Cheese,Kroger Medium Cheddar Block Cheese,0001111058626,8 oz,pound,0.5,2.0,,2.0,4.0,False
+2026-09-06,01400513,Orange Juice,Kroger 100% Orange Juice Pulp Free,0001111048480,1/2 gal,gallon,0.5,4.49,,4.49,8.98,False
+2026-09-06,01400513,Cereal,Kroger Bite Size Frosted Shredded Wheat Cereal,0001111086705,18 oz,pound,1.125,2.0,,2.0,1.7777777777777777,False
+2026-09-06,01400513,Peanut Butter,Kroger Creamy Peanut Butter,0001111001618,16 oz,pound,1.0,2.29,,2.29,2.29,False
+2026-09-06,01400513,Vegetable Oil,Kroger 100% Pure Vegetable Oil,0001111085605,48 fl oz,gallon,0.375,4.39,,4.39,11.706666666666663,False
+2026-09-06,01400513,Onions,Jumbo Yellow Onions,0000000004093,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-06,01400513,Apples,Large Gala Apple,0000000004134,1 lb,pound,1.0,1.89,,1.89,1.89,False
+2026-09-06,01400513,Potato Chips,Kroger Classic Potato Chips,0001111008889,8 oz,pound,0.5,1.79,,1.79,3.58,False
+2026-09-07,01400513,Eggs,Kroger Grade A Large White Eggs,0001111060903,12 ct,dozen,1.0,1.89,,1.89,1.89,False
+2026-09-07,01400513,Milk,Kroger Vitamin D Whole Milk,0001111040101,1 gal,gallon,1.0,3.39,,3.39,3.39,False
+2026-09-07,01400513,Bread,Kroger White Bread,0001111008485,20 oz,pound,1.25,1.99,,1.99,1.592,False
+2026-09-07,01400513,Butter,Kroger Salted Butter Sticks,0001111089301,16 oz,pound,1.0,3.49,2.99,2.99,2.99,True
+2026-09-07,01400513,Bananas,Fresh Bunch of Bananas,0000000004011,1 lb,pound,1.0,0.69,,0.69,0.69,False
+2026-09-07,01400513,Chicken Breast,Heritage Farm Boneless Skinless Chicken Breasts,0028334900000,1 lb,pound,1.0,2.59,,2.59,2.59,False
+2026-09-07,01400513,Ground Beef,Kroger 80/20 Ground Beef Tray,0001111069982,1 lb,pound,1.0,7.49,,7.49,7.49,False
+2026-09-07,01400513,Rice,Kroger Enriched Long Grain White Rice,0001111089875,32 oz,pound,2.0,1.79,,1.79,0.895,False
+2026-09-07,01400513,Pasta,Kroger Spaghetti,0001111085004,16 oz,pound,1.0,1.33,,1.33,1.33,False
+2026-09-07,01400513,Coffee,Kroger Breakfast Blend Ground Coffee,0001111010738,11 oz,pound,0.6875,6.0,,6.0,8.727272727272727,False
+2026-09-07,01400513,Sugar,Kroger Pure Cane Granulated Sugar,0001111088318,4 lb,pound,4.0,3.99,,3.99,0.9975,False
+2026-09-07,01400513,Flour,Kroger Bleached All Purpose Flour,0001111085402,5 lb,pound,5.0,2.59,,2.59,0.518,False
+2026-09-07,01400513,Potatoes,Russet Potato,0000000004072,1 lb,pound,1.0,0.99,,0.99,0.99,False
+2026-09-07,01400513,Tomatoes,Fresh Roma Tomato,0000000004087,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-07,01400513,Cheddar Cheese,Kroger Medium Cheddar Block Cheese,0001111058626,8 oz,pound,0.5,2.0,,2.0,4.0,False
+2026-09-07,01400513,Orange Juice,Kroger 100% Orange Juice Pulp Free,0001111048480,1/2 gal,gallon,0.5,4.49,,4.49,8.98,False
+2026-09-07,01400513,Cereal,Kroger Bite Size Frosted Shredded Wheat Cereal,0001111086705,18 oz,pound,1.125,2.0,,2.0,1.7777777777777777,False
+2026-09-07,01400513,Peanut Butter,Kroger Creamy Peanut Butter,0001111001618,16 oz,pound,1.0,2.29,,2.29,2.29,False
+2026-09-07,01400513,Vegetable Oil,Kroger 100% Pure Vegetable Oil,0001111085605,48 fl oz,gallon,0.375,4.39,,4.39,11.706666666666663,False
+2026-09-07,01400513,Onions,Jumbo Yellow Onions,0000000004093,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-07,01400513,Apples,Large Gala Apple,0000000004134,1 lb,pound,1.0,1.89,,1.89,1.89,False
+2026-09-07,01400513,Potato Chips,Kroger Classic Potato Chips,0001111008889,8 oz,pound,0.5,1.79,,1.79,3.58,False
+2026-09-08,01400513,Eggs,Kroger Grade A Large White Eggs,0001111060903,12 ct,dozen,1.0,1.89,,1.89,1.89,False
+2026-09-08,01400513,Milk,Kroger Vitamin D Whole Milk,0001111040101,1 gal,gallon,1.0,3.39,,3.39,3.39,False
+2026-09-08,01400513,Bread,Kroger White Bread,0001111008485,20 oz,pound,1.25,1.99,,1.99,1.592,False
+2026-09-08,01400513,Butter,Kroger Salted Butter Sticks,0001111089301,16 oz,pound,1.0,3.49,2.99,2.99,2.99,True
+2026-09-08,01400513,Bananas,Fresh Bunch of Bananas,0000000004011,1 lb,pound,1.0,0.69,,0.69,0.69,False
+2026-09-08,01400513,Chicken Breast,Heritage Farm Boneless Skinless Chicken Breasts,0028334900000,1 lb,pound,1.0,2.59,,2.59,2.59,False
+2026-09-08,01400513,Ground Beef,Kroger 80/20 Ground Beef Tray,0001111069982,1 lb,pound,1.0,7.49,,7.49,7.49,False
+2026-09-08,01400513,Rice,Kroger Enriched Long Grain White Rice,0001111089875,32 oz,pound,2.0,1.79,,1.79,0.895,False
+2026-09-08,01400513,Pasta,Kroger Spaghetti,0001111085004,16 oz,pound,1.0,1.33,,1.33,1.33,False
+2026-09-08,01400513,Coffee,Kroger Breakfast Blend Ground Coffee,0001111010738,11 oz,pound,0.6875,6.0,,6.0,8.727272727272727,False
+2026-09-08,01400513,Sugar,Kroger Pure Cane Granulated Sugar,0001111088318,4 lb,pound,4.0,3.99,,3.99,0.9975,False
+2026-09-08,01400513,Flour,Kroger Bleached All Purpose Flour,0001111085402,5 lb,pound,5.0,2.59,,2.59,0.518,False
+2026-09-08,01400513,Potatoes,Russet Potato,0000000004072,1 lb,pound,1.0,0.99,,0.99,0.99,False
+2026-09-08,01400513,Tomatoes,Fresh Roma Tomato,0000000004087,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-08,01400513,Cheddar Cheese,Kroger Medium Cheddar Block Cheese,0001111058626,8 oz,pound,0.5,2.0,,2.0,4.0,False
+2026-09-08,01400513,Orange Juice,Kroger 100% Orange Juice Pulp Free,0001111048480,1/2 gal,gallon,0.5,4.49,,4.49,8.98,False
+2026-09-08,01400513,Cereal,Kroger Bite Size Frosted Shredded Wheat Cereal,0001111086705,18 oz,pound,1.125,2.0,,2.0,1.7777777777777777,False
+2026-09-08,01400513,Peanut Butter,Kroger Creamy Peanut Butter,0001111001618,16 oz,pound,1.0,2.29,,2.29,2.29,False
+2026-09-08,01400513,Vegetable Oil,Kroger 100% Pure Vegetable Oil,0001111085605,48 fl oz,gallon,0.375,4.39,,4.39,11.706666666666663,False
+2026-09-08,01400513,Onions,Jumbo Yellow Onions,0000000004093,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-08,01400513,Apples,Large Gala Apple,0000000004134,1 lb,pound,1.0,1.89,,1.89,1.89,False
+2026-09-08,01400513,Potato Chips,Kroger Classic Potato Chips,0001111008889,8 oz,pound,0.5,1.79,,1.79,3.58,False
+2026-09-09,01400513,Eggs,Kroger Grade A Large White Eggs,0001111060903,12 ct,dozen,1.0,1.89,,1.89,1.89,False
+2026-09-09,01400513,Milk,Kroger Vitamin D Whole Milk,0001111040101,1 gal,gallon,1.0,3.39,,3.39,3.39,False
+2026-09-09,01400513,Bread,Kroger White Bread,0001111008485,20 oz,pound,1.25,1.99,,1.99,1.592,False
+2026-09-09,01400513,Butter,Kroger Salted Butter Sticks,0001111089301,16 oz,pound,1.0,3.49,,3.49,3.49,False
+2026-09-09,01400513,Bananas,Fresh Bunch of Bananas,0000000004011,1 lb,pound,1.0,0.69,,0.69,0.69,False
+2026-09-09,01400513,Chicken Breast,Heritage Farm Boneless Skinless Chicken Breasts,0028334900000,1 lb,pound,1.0,2.59,,2.59,2.59,False
+2026-09-09,01400513,Ground Beef,Kroger 80/20 Ground Beef Tray,0001111069982,1 lb,pound,1.0,7.49,,7.49,7.49,False
+2026-09-09,01400513,Rice,Kroger Enriched Long Grain White Rice,0001111089875,32 oz,pound,2.0,1.79,,1.79,0.895,False
+2026-09-09,01400513,Pasta,Kroger Spaghetti,0001111085004,16 oz,pound,1.0,1.33,,1.33,1.33,False
+2026-09-09,01400513,Coffee,Kroger Breakfast Blend Ground Coffee,0001111010738,11 oz,pound,0.6875,6.0,,6.0,8.727272727272727,False
+2026-09-09,01400513,Sugar,Kroger Pure Cane Granulated Sugar,0001111088318,4 lb,pound,4.0,3.99,,3.99,0.9975,False
+2026-09-09,01400513,Flour,Kroger Bleached All Purpose Flour,0001111085402,5 lb,pound,5.0,2.59,,2.59,0.518,False
+2026-09-09,01400513,Potatoes,Russet Potato,0000000004072,1 lb,pound,1.0,0.99,,0.99,0.99,False
+2026-09-09,01400513,Tomatoes,Fresh Roma Tomato,0000000004087,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-09,01400513,Cheddar Cheese,Kroger Medium Cheddar Block Cheese,0001111058626,8 oz,pound,0.5,2.0,,2.0,4.0,False
+2026-09-09,01400513,Orange Juice,Kroger 100% Orange Juice Pulp Free,0001111048480,1/2 gal,gallon,0.5,4.49,,4.49,8.98,False
+2026-09-09,01400513,Cereal,Kroger Bite Size Frosted Shredded Wheat Cereal,0001111086705,18 oz,pound,1.125,2.0,,2.0,1.7777777777777777,False
+2026-09-09,01400513,Peanut Butter,Kroger Creamy Peanut Butter,0001111001618,16 oz,pound,1.0,2.29,,2.29,2.29,False
+2026-09-09,01400513,Vegetable Oil,Kroger 100% Pure Vegetable Oil,0001111085605,48 fl oz,gallon,0.375,4.39,,4.39,11.706666666666663,False
+2026-09-09,01400513,Onions,Jumbo Yellow Onions,0000000004093,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-09,01400513,Apples,Large Gala Apple,0000000004134,1 lb,pound,1.0,1.89,,1.89,1.89,False
+2026-09-09,01400513,Potato Chips,Kroger Classic Potato Chips,0001111008889,8 oz,pound,0.5,1.79,,1.79,3.58,False
+2026-09-10,01400513,Eggs,Kroger Grade A Large White Eggs,0001111060903,12 ct,dozen,1.0,1.89,,1.89,1.89,False
+2026-09-10,01400513,Milk,Kroger Vitamin D Whole Milk,0001111040101,1 gal,gallon,1.0,3.39,,3.39,3.39,False
+2026-09-10,01400513,Bread,Kroger White Bread,0001111008485,20 oz,pound,1.25,1.99,,1.99,1.592,False
+2026-09-10,01400513,Butter,Kroger Salted Butter Sticks,0001111089301,16 oz,pound,1.0,3.49,,3.49,3.49,False
+2026-09-10,01400513,Bananas,Fresh Bunch of Bananas,0000000004011,1 lb,pound,1.0,0.69,,0.69,0.69,False
+2026-09-10,01400513,Chicken Breast,Heritage Farm Boneless Skinless Chicken Breasts,0028334900000,1 lb,pound,1.0,2.59,,2.59,2.59,False
+2026-09-10,01400513,Ground Beef,Kroger 80/20 Ground Beef Tray,0001111069982,1 lb,pound,1.0,7.49,,7.49,7.49,False
+2026-09-10,01400513,Rice,Kroger Enriched Long Grain White Rice,0001111089875,32 oz,pound,2.0,1.79,,1.79,0.895,False
+2026-09-10,01400513,Pasta,Kroger Spaghetti,0001111085004,16 oz,pound,1.0,1.33,,1.33,1.33,False
+2026-09-10,01400513,Coffee,Kroger Breakfast Blend Ground Coffee,0001111010738,11 oz,pound,0.6875,6.0,,6.0,8.727272727272727,False
+2026-09-10,01400513,Sugar,Kroger Pure Cane Granulated Sugar,0001111088318,4 lb,pound,4.0,3.99,,3.99,0.9975,False
+2026-09-10,01400513,Flour,Kroger Bleached All Purpose Flour,0001111085402,5 lb,pound,5.0,2.59,,2.59,0.518,False
+2026-09-10,01400513,Potatoes,Russet Potato,0000000004072,1 lb,pound,1.0,0.99,,0.99,0.99,False
+2026-09-10,01400513,Tomatoes,Fresh Roma Tomato,0000000004087,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-10,01400513,Cheddar Cheese,Kroger Medium Cheddar Block Cheese,0001111058626,8 oz,pound,0.5,2.0,,2.0,4.0,False
+2026-09-10,01400513,Orange Juice,Kroger 100% Orange Juice Pulp Free,0001111048480,1/2 gal,gallon,0.5,4.49,,4.49,8.98,False
+2026-09-10,01400513,Cereal,Kroger Bite Size Frosted Shredded Wheat Cereal,0001111086705,18 oz,pound,1.125,2.0,,2.0,1.7777777777777777,False
+2026-09-10,01400513,Peanut Butter,Kroger Creamy Peanut Butter,0001111001618,16 oz,pound,1.0,2.29,,2.29,2.29,False
+2026-09-10,01400513,Vegetable Oil,Kroger 100% Pure Vegetable Oil,0001111085605,48 fl oz,gallon,0.375,4.39,,4.39,11.706666666666663,False
+2026-09-10,01400513,Onions,Jumbo Yellow Onions,0000000004093,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-10,01400513,Apples,Large Gala Apple,0000000004134,1 lb,pound,1.0,1.89,,1.89,1.89,False
+2026-09-10,01400513,Potato Chips,Kroger Classic Potato Chips,0001111008889,8 oz,pound,0.5,1.79,,1.79,3.58,False
+2026-09-11,01400513,Eggs,Kroger Grade A Large White Eggs,0001111060903,12 ct,dozen,1.0,1.89,,1.89,1.89,False
+2026-09-11,01400513,Milk,Kroger Vitamin D Whole Milk,0001111040101,1 gal,gallon,1.0,3.39,,3.39,3.39,False
+2026-09-11,01400513,Bread,Kroger White Bread,0001111008485,20 oz,pound,1.25,1.99,,1.99,1.592,False
+2026-09-11,01400513,Butter,Kroger Salted Butter Sticks,0001111089301,16 oz,pound,1.0,3.49,,3.49,3.49,False
+2026-09-11,01400513,Bananas,Fresh Bunch of Bananas,0000000004011,1 lb,pound,1.0,0.69,,0.69,0.69,False
+2026-09-11,01400513,Chicken Breast,Heritage Farm Boneless Skinless Chicken Breasts,0028334900000,1 lb,pound,1.0,2.59,,2.59,2.59,False
+2026-09-11,01400513,Ground Beef,Kroger 80/20 Ground Beef Tray,0001111069982,1 lb,pound,1.0,7.49,,7.49,7.49,False
+2026-09-11,01400513,Rice,Kroger Enriched Long Grain White Rice,0001111089875,32 oz,pound,2.0,1.79,,1.79,0.895,False
+2026-09-11,01400513,Pasta,Kroger Spaghetti,0001111085004,16 oz,pound,1.0,1.33,,1.33,1.33,False
+2026-09-11,01400513,Coffee,Kroger Breakfast Blend Ground Coffee,0001111010738,11 oz,pound,0.6875,6.0,,6.0,8.727272727272727,False
+2026-09-11,01400513,Sugar,Kroger Pure Cane Granulated Sugar,0001111088318,4 lb,pound,4.0,3.99,,3.99,0.9975,False
+2026-09-11,01400513,Flour,Kroger Bleached All Purpose Flour,0001111085402,5 lb,pound,5.0,2.59,,2.59,0.518,False
+2026-09-11,01400513,Potatoes,Russet Potato,0000000004072,1 lb,pound,1.0,0.99,,0.99,0.99,False
+2026-09-11,01400513,Tomatoes,Fresh Roma Tomato,0000000004087,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-11,01400513,Cheddar Cheese,Kroger Medium Cheddar Block Cheese,0001111058626,8 oz,pound,0.5,2.0,,2.0,4.0,False
+2026-09-11,01400513,Orange Juice,Kroger 100% Orange Juice Pulp Free,0001111048480,1/2 gal,gallon,0.5,4.49,,4.49,8.98,False
+2026-09-11,01400513,Cereal,Kroger Bite Size Frosted Shredded Wheat Cereal,0001111086705,18 oz,pound,1.125,2.0,,2.0,1.7777777777777777,False
+2026-09-11,01400513,Peanut Butter,Kroger Creamy Peanut Butter,0001111001618,16 oz,pound,1.0,2.29,,2.29,2.29,False
+2026-09-11,01400513,Vegetable Oil,Kroger 100% Pure Vegetable Oil,0001111085605,48 fl oz,gallon,0.375,4.39,,4.39,11.706666666666663,False
+2026-09-11,01400513,Onions,Jumbo Yellow Onions,0000000004093,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-11,01400513,Apples,Large Gala Apple,0000000004134,1 lb,pound,1.0,1.89,,1.89,1.89,False
+2026-09-11,01400513,Potato Chips,Kroger Classic Potato Chips,0001111008889,8 oz,pound,0.5,1.79,,1.79,3.58,False
+2026-09-12,01400513,Eggs,Kroger Grade A Large White Eggs,0001111060903,12 ct,dozen,1.0,1.89,,1.89,1.89,False
+2026-09-12,01400513,Milk,Kroger Vitamin D Whole Milk,0001111040101,1 gal,gallon,1.0,3.39,,3.39,3.39,False
+2026-09-12,01400513,Bread,Kroger White Bread,0001111008485,20 oz,pound,1.25,1.99,,1.99,1.592,False
+2026-09-12,01400513,Butter,Kroger Salted Butter Sticks,0001111089301,16 oz,pound,1.0,3.49,,3.49,3.49,False
+2026-09-12,01400513,Bananas,Fresh Bunch of Bananas,0000000004011,1 lb,pound,1.0,0.69,,0.69,0.69,False
+2026-09-12,01400513,Chicken Breast,Heritage Farm Boneless Skinless Chicken Breasts,0028334900000,1 lb,pound,1.0,2.59,,2.59,2.59,False
+2026-09-12,01400513,Ground Beef,Kroger 80/20 Ground Beef Tray,0001111069982,1 lb,pound,1.0,7.49,,7.49,7.49,False
+2026-09-12,01400513,Rice,Kroger Enriched Long Grain White Rice,0001111089875,32 oz,pound,2.0,1.79,,1.79,0.895,False
+2026-09-12,01400513,Pasta,Kroger Spaghetti,0001111085004,16 oz,pound,1.0,1.33,,1.33,1.33,False
+2026-09-12,01400513,Coffee,Kroger Breakfast Blend Ground Coffee,0001111010738,11 oz,pound,0.6875,6.0,,6.0,8.727272727272727,False
+2026-09-12,01400513,Sugar,Kroger Pure Cane Granulated Sugar,0001111088318,4 lb,pound,4.0,3.99,,3.99,0.9975,False
+2026-09-12,01400513,Flour,Kroger Bleached All Purpose Flour,0001111085402,5 lb,pound,5.0,2.59,,2.59,0.518,False
+2026-09-12,01400513,Potatoes,Russet Potato,0000000004072,1 lb,pound,1.0,0.99,,0.99,0.99,False
+2026-09-12,01400513,Tomatoes,Fresh Roma Tomato,0000000004087,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-12,01400513,Cheddar Cheese,Kroger Medium Cheddar Block Cheese,0001111058626,8 oz,pound,0.5,2.0,,2.0,4.0,False
+2026-09-12,01400513,Orange Juice,Kroger 100% Orange Juice Pulp Free,0001111048480,1/2 gal,gallon,0.5,4.49,,4.49,8.98,False
+2026-09-12,01400513,Cereal,Kroger Bite Size Frosted Shredded Wheat Cereal,0001111086705,18 oz,pound,1.125,2.0,,2.0,1.7777777777777777,False
+2026-09-12,01400513,Peanut Butter,Kroger Creamy Peanut Butter,0001111001618,16 oz,pound,1.0,2.29,,2.29,2.29,False
+2026-09-12,01400513,Vegetable Oil,Kroger 100% Pure Vegetable Oil,0001111085605,48 fl oz,gallon,0.375,4.39,,4.39,11.706666666666663,False
+2026-09-12,01400513,Onions,Jumbo Yellow Onions,0000000004093,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-12,01400513,Apples,Large Gala Apple,0000000004134,1 lb,pound,1.0,1.89,,1.89,1.89,False
+2026-09-12,01400513,Potato Chips,Kroger Classic Potato Chips,0001111008889,8 oz,pound,0.5,1.79,,1.79,3.58,False
+2026-09-13,01400513,Eggs,Kroger Grade A Large White Eggs,0001111060903,12 ct,dozen,1.0,1.89,,1.89,1.89,False
+2026-09-13,01400513,Milk,Kroger Vitamin D Whole Milk,0001111040101,1 gal,gallon,1.0,3.39,,3.39,3.39,False
+2026-09-13,01400513,Bread,Kroger White Bread,0001111008485,20 oz,pound,1.25,1.99,,1.99,1.592,False
+2026-09-13,01400513,Butter,Kroger Salted Butter Sticks,0001111089301,16 oz,pound,1.0,3.49,,3.49,3.49,False
+2026-09-13,01400513,Bananas,Fresh Bunch of Bananas,0000000004011,1 lb,pound,1.0,0.69,,0.69,0.69,False
+2026-09-13,01400513,Chicken Breast,Heritage Farm Boneless Skinless Chicken Breasts,0028334900000,1 lb,pound,1.0,2.59,,2.59,2.59,False
+2026-09-13,01400513,Ground Beef,Kroger 80/20 Ground Beef Tray,0001111069982,1 lb,pound,1.0,7.49,,7.49,7.49,False
+2026-09-13,01400513,Rice,Kroger Enriched Long Grain White Rice,0001111089875,32 oz,pound,2.0,1.79,,1.79,0.895,False
+2026-09-13,01400513,Pasta,Kroger Spaghetti,0001111085004,16 oz,pound,1.0,1.33,,1.33,1.33,False
+2026-09-13,01400513,Coffee,Kroger Breakfast Blend Ground Coffee,0001111010738,11 oz,pound,0.6875,6.0,,6.0,8.727272727272727,False
+2026-09-13,01400513,Sugar,Kroger Pure Cane Granulated Sugar,0001111088318,4 lb,pound,4.0,3.99,,3.99,0.9975,False
+2026-09-13,01400513,Flour,Kroger Bleached All Purpose Flour,0001111085402,5 lb,pound,5.0,2.59,,2.59,0.518,False
+2026-09-13,01400513,Potatoes,Russet Potato,0000000004072,1 lb,pound,1.0,0.99,,0.99,0.99,False
+2026-09-13,01400513,Tomatoes,Fresh Roma Tomato,0000000004087,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-13,01400513,Cheddar Cheese,Kroger Medium Cheddar Block Cheese,0001111058626,8 oz,pound,0.5,2.0,,2.0,4.0,False
+2026-09-13,01400513,Orange Juice,Kroger 100% Orange Juice Pulp Free,0001111048480,1/2 gal,gallon,0.5,4.49,,4.49,8.98,False
+2026-09-13,01400513,Cereal,Kroger Bite Size Frosted Shredded Wheat Cereal,0001111086705,18 oz,pound,1.125,2.0,,2.0,1.7777777777777777,False
+2026-09-13,01400513,Peanut Butter,Kroger Creamy Peanut Butter,0001111001618,16 oz,pound,1.0,2.29,,2.29,2.29,False
+2026-09-13,01400513,Vegetable Oil,Kroger 100% Pure Vegetable Oil,0001111085605,48 fl oz,gallon,0.375,4.39,,4.39,11.706666666666663,False
+2026-09-13,01400513,Onions,Jumbo Yellow Onions,0000000004093,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-13,01400513,Apples,Large Gala Apple,0000000004134,1 lb,pound,1.0,1.89,,1.89,1.89,False
+2026-09-13,01400513,Potato Chips,Kroger Classic Potato Chips,0001111008889,8 oz,pound,0.5,1.79,,1.79,3.58,False
+2026-09-14,01400513,Eggs,Kroger Grade A Large White Eggs,0001111060903,12 ct,dozen,1.0,1.89,,1.89,1.89,False
+2026-09-14,01400513,Milk,Kroger Vitamin D Whole Milk,0001111040101,1 gal,gallon,1.0,3.39,,3.39,3.39,False
+2026-09-14,01400513,Bread,Kroger White Bread,0001111008485,20 oz,pound,1.25,1.99,,1.99,1.592,False
+2026-09-14,01400513,Butter,Kroger Salted Butter Sticks,0001111089301,16 oz,pound,1.0,3.49,,3.49,3.49,False
+2026-09-14,01400513,Bananas,Fresh Bunch of Bananas,0000000004011,1 lb,pound,1.0,0.69,,0.69,0.69,False
+2026-09-14,01400513,Chicken Breast,Heritage Farm Boneless Skinless Chicken Breasts,0028334900000,1 lb,pound,1.0,2.59,,2.59,2.59,False
+2026-09-14,01400513,Ground Beef,Kroger 80/20 Ground Beef Tray,0001111069982,1 lb,pound,1.0,7.49,,7.49,7.49,False
+2026-09-14,01400513,Rice,Kroger Enriched Long Grain White Rice,0001111089875,32 oz,pound,2.0,1.79,,1.79,0.895,False
+2026-09-14,01400513,Pasta,Kroger Spaghetti,0001111085004,16 oz,pound,1.0,1.33,,1.33,1.33,False
+2026-09-14,01400513,Coffee,Kroger Breakfast Blend Ground Coffee,0001111010738,11 oz,pound,0.6875,6.0,,6.0,8.727272727272727,False
+2026-09-14,01400513,Sugar,Kroger Pure Cane Granulated Sugar,0001111088318,4 lb,pound,4.0,3.99,,3.99,0.9975,False
+2026-09-14,01400513,Flour,Kroger Bleached All Purpose Flour,0001111085402,5 lb,pound,5.0,2.59,,2.59,0.518,False
+2026-09-14,01400513,Potatoes,Russet Potato,0000000004072,1 lb,pound,1.0,0.99,,0.99,0.99,False
+2026-09-14,01400513,Tomatoes,Fresh Roma Tomato,0000000004087,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-14,01400513,Cheddar Cheese,Kroger Medium Cheddar Block Cheese,0001111058626,8 oz,pound,0.5,2.0,,2.0,4.0,False
+2026-09-14,01400513,Orange Juice,Kroger 100% Orange Juice Pulp Free,0001111048480,1/2 gal,gallon,0.5,4.49,,4.49,8.98,False
+2026-09-14,01400513,Cereal,Kroger Bite Size Frosted Shredded Wheat Cereal,0001111086705,18 oz,pound,1.125,2.0,,2.0,1.7777777777777777,False
+2026-09-14,01400513,Peanut Butter,Kroger Creamy Peanut Butter,0001111001618,16 oz,pound,1.0,2.29,,2.29,2.29,False
+2026-09-14,01400513,Vegetable Oil,Kroger 100% Pure Vegetable Oil,0001111085605,48 fl oz,gallon,0.375,4.39,,4.39,11.706666666666665,False
+2026-09-14,01400513,Onions,Jumbo Yellow Onions,0000000004093,1 lb,pound,1.0,1.29,,1.29,1.29,False
+2026-09-14,01400513,Apples,Large Gala Apple,0000000004134,1 lb,pound,1.0,1.89,,1.89,1.89,False
+2026-09-14,01400513,Potato Chips,Kroger Classic Potato Chips,0001111008889,8 oz,pound,0.5,1.79,,1.79,3.58,False
