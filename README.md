@@ -1,24 +1,29 @@
 # Grocery Price Tracker
 
-An end-to-end data analytics project that automatically tracks Kroger grocery prices and compares them with historical U.S. Bureau of Labor Statistics food-price benchmarks.
+An end-to-end data analytics project that collects Kroger grocery prices and compares a standardized selection of products against U.S. Bureau of Labor Statistics (BLS) average retail-price benchmarks.
 
-The project combines API data collection, Python ETL, SQLite, automated scheduling, and Tableau to analyze grocery price trends, promotions, and current basket costs.
+The project combines API data collection, Python ETL, SQLite, automated scheduling, and Tableau to analyze current price differences, promotions, and basket costs. Historical observations are retained in the underlying pipeline.
 
 ## Dashboard Preview
 
+**[Explore the interactive Tableau Public dashboard](https://public.tableau.com/app/profile/tenchi.chen/viz/grocery_price_tracker1/GroceryPriceTracker)**
+
 ![Grocery Price Tracker Dashboard](assets/dashboard.png)
+
+*Published example: Kroger prices observed October 14, 2026, compared with July 2026 BLS average retail prices. The dashboard is a dated comparison snapshot, not a live same-day price feed.*
 
 ## Project Overview
 
-The Grocery Price Tracker collects daily prices for a basket of 22 grocery products from the Kroger API and compares 16 matching food categories against historical Bureau of Labor Statistics average-price data.
+The Grocery Price Tracker collects daily prices for a basket of 22 grocery products from the Kroger API. The dashboard compares 16 grocery products with the corresponding BLS average retail-price benchmarks, after unit standardization.
 
 The project was built to answer questions such as:
 
 - How do current Kroger prices compare with national food-price benchmarks?
-- How have grocery prices changed over time?
+- Which individual products show the largest differences from BLS benchmarks?
 - Which tracked products are currently on sale?
 - What does the current 22-item grocery basket cost?
 - How can products with different package sizes be compared consistently?
+- What do differences in observation dates and geographic coverage mean for interpretation?
 
 ## Tech Stack
 
@@ -53,25 +58,25 @@ flowchart LR
 5. Append new observations to historical storage
 6. Update the SQLite database
 7. Rebuild Tableau-ready datasets
-8. Refresh the dashboard with the latest observations
+8. Refresh the local Tableau workbook with the latest observations (the published Tableau Public snapshot is updated separately)
 
 ## Dashboard Features
 
-### Historical Price Trends
+### Price Difference by Product (%)
 
-The dashboard combines historical BLS food-price data with current Kroger observations.
+A sorted diverging bar chart compares prices for 16 grocery products against BLS average retail-price benchmarks on a common unit basis. Negative values indicate a Kroger price below the benchmark; positive values indicate a price above it. Hover tooltips show the product's Kroger price, BLS benchmark, percentage gap, and whether the item is above or below BLS.
 
-A category selector allows users to explore products such as eggs, milk, bread, ground beef, rice, and other common grocery categories.
+For the October 14, 2026 Kroger vs. July 2026 BLS snapshot, 14 of 16 products were below their BLS benchmarks. Chicken breast showed the largest difference (-52.1%); potatoes (+5.1%) and ground beef (+2.4%) were the two products above their benchmarks.
 
 ### Latest Kroger vs. BLS Price Comparison
 
-Current Kroger prices are compared with the latest available BLS benchmark using standardized units such as:
+A second chart compares Kroger and BLS prices side by side in dollars, using standardized units such as:
 
 - price per pound
 - price per gallon
 - price per dozen
 
-This helps make products with different package sizes more comparable.
+This helps make products with different package sizes more comparable. Custom tooltips identify the price source, normalized dollar value, and percentage difference from BLS.
 
 ### Current Basket Cost
 
@@ -103,9 +108,9 @@ Used to collect current product-level information including:
 
 ### U.S. Bureau of Labor Statistics
 
-BLS Average Price Data provides the historical benchmark for 16 comparable grocery categories.
+BLS Average Price Data supplies national retail-price benchmarks for 16 comparable grocery products. The pipeline retains historical observations beginning in 2017; the published dashboard focuses on the selected comparison snapshot.
 
-The historical dataset includes observations beginning in 2017.
+**Snapshot caveat:** Kroger prices were observed on October 14, 2026, while the benchmark uses the July 2026 BLS reporting period. All 16 comparisons passed the dataset's unit-matching check. Because observation periods and geographic coverage differ, results should not be interpreted as same-day, same-location price differences.
 
 ## Price Standardization
 
@@ -202,7 +207,9 @@ No Kroger API credentials are stored in this repository.
 - Historical data collection
 - Workflow automation
 - Data quality validation
-- Tableau dashboard development
+- Tableau dashboard development and publishing
+- Data storytelling, dashboard annotations, and interactive tooltips
+- Benchmark price comparisons
 - Data visualization
 - Git and GitHub version control
 
@@ -216,4 +223,4 @@ Potential extensions include:
 - calculating a custom grocery inflation index
 - adding weekly and monthly price-change metrics
 - migrating the automated pipeline to a cloud environment
-- publishing a periodically refreshed Tableau Public version
+- automating refreshes of the published Tableau Public data snapshot
